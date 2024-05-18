@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaAware",
+      "RaRepair",
+      "RaCompass",
+      "RaClockwork",
+      "RaCog"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "05 - Game": "RaDiceFive",
+  "03 - World": "RaBall",
+  "00 - Content": "RaFairyWand",
+  "01 - Campaign": "RaDeadTree",
+  "02 - Entities": "RaPlayer",
+  "04 - Items": "RaDiamond",
+  "05 - Game/Rules": "RaKey",
+  "02 - Entities/Monsters": "RaLion",
+  "02 - Entities/Characters": "RaHood",
+  "00 - Content/Images": "RaMirror",
+  "00 - Content/Templates": "RaCog",
+  "01 - Campaign/Daily Notes": "RaClockwork",
+  "01 - Campaign/Sessions": "RaCompass",
+  "02 - Entities/Characters/Non-Players": "RaRepair",
+  "02 - Entities/Characters/Players": "RaAware"
+}

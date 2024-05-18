@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaign/Outline.md",
+                "file": "03 - World/Avarus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Campaign/Outline.md",
+                "file": "03 - World/Avarus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Campaign/Outline.md",
+                "file": "03 - World/Avarus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Campaign/Outline.md"
+                "file": "03 - World/Avarus.md"
               }
             }
           }
@@ -143,14 +143,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "c560071507b6c8b1",
+  "active": "5f40367d3ec4d982",
   "lastOpenFiles": [
+    "01 - Campaign/Outline.md",
+    "01 - Campaign/Daily Notes",
     "02 - Entities/Characters/Non-Players/Reymon Abbot.md",
     "02 - Entities/Characters/Non-Players/Everett Reed.md",
-    "01 - Campaign/Outline.md",
     "05 - Game/Rules/Hunting.md"
   ]
 }
