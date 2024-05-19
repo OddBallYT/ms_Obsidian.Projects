@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - World/Avarus.md",
+                "file": "05 - Game/Rules/Hunting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - World/Avarus.md",
+                "file": "05 - Game/Rules/Hunting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - World/Avarus.md",
+                "file": "05 - Game/Rules/Hunting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - World/Avarus.md"
+                "file": "05 - Game/Rules/Hunting.md"
               }
             }
           }
@@ -147,12 +147,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5f40367d3ec4d982",
+  "active": "c560071507b6c8b1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "05 - Game/Rules/Hunting.md",
+    "05 - Game/Rules/Crippling.md",
+    "03 - World/Avarus.md",
     "01 - Campaign/Outline.md",
     "01 - Campaign/Daily Notes",
     "02 - Entities/Characters/Non-Players/Reymon Abbot.md",
-    "02 - Entities/Characters/Non-Players/Everett Reed.md",
-    "05 - Game/Rules/Hunting.md"
+    "02 - Entities/Characters/Non-Players/Everett Reed.md"
   ]
 }
