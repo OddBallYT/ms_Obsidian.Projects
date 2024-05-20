@@ -1,10 +1,10 @@
-- Group starts in [[Saulker]].
-- A mysterious caravan arrives.
-- That night, the town is attacked by another group, the town is destroyed.
-- The group is tasked by Baron Abbot to help the locals, and rebuild the town.
-- The Copper Mug tavern is made the local hub, for people who need help, and people who are looking to help. 
 # Act 1
-
+**Start**: Group of adventurers arrives in [[Saulker]] with a caravan of unknown supplies.
+- [[Saulker]] destroyed in the night, the caravan's content taken.
+- A public speech by [[Reymon Abbot|Baron Abbot]], designating the Copper Mug Inn and Tavern, as  the hub for all those who need, and those who are seeking to help.
+- Party helps the people of [[Saulker]]
+**End**: Party tasked to find those responsible for the destruction of [[Saulker]], and leaves.
 # Act 2
-
+**End**: Party discovers the location of [[Ayrin'Jae]]
 # Act 3
+**End**: [[Ayrin'Jae]] defeated

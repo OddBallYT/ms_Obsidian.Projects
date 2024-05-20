@@ -7,7 +7,7 @@
 > | Title | Baron of [[Saulker]] |
 > | Age | [age] |
 > | Race | Human |
-> | Residents | [[Saulker]] |
+> | Residency | [[Saulker]] |
 > | Birthday | [DD/MM/YY] |
 > | Family | [family] |
 

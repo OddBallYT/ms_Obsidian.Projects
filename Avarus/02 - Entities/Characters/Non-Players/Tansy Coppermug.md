@@ -7,7 +7,7 @@
 > | Title | [title] |
 > | Age | 27 |
 > | Race | Gnome |
-> | Residents | [[Saulker]] |
+> | Residency | [[Saulker]] |
 > | Birthday | [DD/MM/YY] |
 > | Family | Dimble Zook Cobbs (father, deceased), Breena Weyweren Cobbs (mother, deceased), [[Alvyn Falshroud]] (brother) |
 

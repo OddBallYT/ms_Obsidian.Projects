@@ -82,8 +82,7 @@
 >>  ****
 >>  **Hunter's Shot**
 >>  The player can also decide to take a ranged shot at the creature. The player must succeed a *dexterity (stealth)* check against the animals perception - 2. If the player succeeds, the player rolls to hit with advantage. On a hit, if the animal is small, or tiny, it immediately dies, regardless of damage. Otherwise, the player considers the hit a critical, and rolls typical critical damage, if it doesn't kill the creature, the fight begins. If the shot misses, the creature rolls a *wisdom (perception)* check, *DC 12*. If they succeed, the animal notices the missed shot, and the fight begins. Otherwise, the animal remains unaware, and the player can try again.
->
->> [!note|clean no-title] Column 2
+>>  ****
 >>  **The Battle**
 >>  The player must roll an initiative roll against the initiative of the animal. During the battle, the animal may attempt to run (as decided by the DM). If so, and the animal's initiative roll was higher, it will run away. If the creature is in a biome with lots of cover (Forest, Hill, Mountain, Swamp) the animal is immediately lost. Otherwise the player must make a perception check to maintain sight of the animal.
 >>  ****
@@ -91,7 +90,8 @@
 >> The usable parts of a creature are divided up into 4 different categories: **meat**, **guts**, **bones** and **hide**. Each have their own uses, and different ways of harvesting. Some creatures have parts additional to the 4, such as the plating on an *iron golem*, or the fungus of a *myconid*. In these cases, it is deferred to the DM as to how it should be treated. The following system is for a typical creature, changes may be necessary to adapt the system to specific needs.
 >>
 >> The amount of each part is divided by weight, unless there is a specific reason otherwise. Example: a *bone naga* has no guts, skin or hide. Therefore the entirety of it's weight is in bones.
->> ****
+>
+>> [!note|clean no-title] Column 2
 >> **Dissecting**
 >> Dissecting a creature and harvesting its parts can be a good way to make a bit of money, or a way of feeding, or protecting yourself while out in the wilderness.
 >> If a player wants to dissect a creature they have killed (or found), they first roll the respective ability check to the part they wish to harvest (with the exception of blood. More can be found on blood, in the **Bleeding** section). If a player wishes to harvest multiple parts at once, they must roll all the checks individually (even if the checks use the same ability).
@@ -136,5 +136,28 @@
 >> | Meat | 3/16 : %18.75 |
 >> **Note**: Before **bleeding**, **guts**, and **meat** are equal to 1/4 of the weight.
 >> ##### Preparing
->> ![[img.decor_skinning.tools.png|cover hs-med right]]
+>> After gathering materials from a creature, a player needs to properly cook, preserve or use that materials before those materials rot, and become worthless. There are various methods of preparation, depending on the intended uses. Meat can be cooked, dried, smoked or salted; guts can be cooked, used for alchemy, or processed into animal feed, etc.
+>> ****
+>> **Lifespans**
+>> 
+>> | Component | Lifespan |
+>> | :-- | --: |
+>> | Blood | 7 days |
+>> | Bone | Forever |
+>> | Guts | 7 days |
+>> | Hide | 14 days |
+>> | Meat | 7 days |
+>> 
+>> ****
+>>**Preservation**
+>>
+>>| Method | Lifespan | Losses |
+>>| :-- | :-- | --:|
+>>| Chilling | Forever (while chilled) | none |
+>>| Drying | Forever | 1/2 |
+>>| Pickling | Forever | none |
+>>| Salting | x4 | 1/4 |
+>>| Smoking | x2 | 1/4 |
+>>
+>> ![[img.decor_skinning.tools.png|cover hs-med center]]
 

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RaAware",
-      "RaRepair",
-      "RaCompass",
-      "RaClockwork",
-      "RaCog"
+      "RaCycle",
+      "↩",
+      "RaBrokenSkull",
+      "RaArcher",
+      "RaBrandyBottle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,9 @@
   "01 - Campaign/Daily Notes": "RaClockwork",
   "01 - Campaign/Sessions": "RaCompass",
   "02 - Entities/Characters/Non-Players": "RaRepair",
-  "02 - Entities/Characters/Players": "RaAware"
+  "02 - Entities/Characters/Players": "RaAware",
+  "04 - Items/Bottle of Frostfell.md": "RaBrandyBottle",
+  "05 - Game/Rules/Hunting.md": "RaArcher",
+  "05 - Game/Rules/Crippling.md": "RaBrokenSkull",
+  "05 - Game/Rules/Retrying Ability Checks.md": "RaCycle"
 }

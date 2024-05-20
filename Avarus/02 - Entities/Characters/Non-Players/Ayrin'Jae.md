@@ -6,7 +6,7 @@
 > | ---- | ---- |
 > | Title | [title] |
 > | Age | [age] |
-> | Race | [race] |
+> | Race | Elf |
 > | Residency | [location] |
 > | Birthday | [DD/MM/YY] |
 > | Family | [family] |
@@ -24,7 +24,7 @@
 
 
 ### Significance
-[campaign significance here]
+The primary antagonist of the campaign. A druid who seeks to "return the "
 
 ### Personal Quest
 [personal quest here]
