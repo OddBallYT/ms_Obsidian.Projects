@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 16,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "S - Callouts",
+    "M - Callouts"
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "New Union Calendar",
+      "description": "The standardized calendar created by the New Union after the War of Steel and Sky.",
+      "id": "ID_b9fa395aa9f8",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "9 to Prime",
+            "id": "ID_686bfbb819f9",
+            "abbreviation": "9tO"
+          },
+          {
+            "type": "day",
+            "name": "8 to Prime",
+            "id": "ID_0909f9990b28",
+            "abbreviation": "8tO"
+          },
+          {
+            "type": "day",
+            "name": "7 to Prime",
+            "id": "ID_8ad8cadbea29",
+            "abbreviation": "7tO"
+          },
+          {
+            "type": "day",
+            "name": "6 to Prime",
+            "id": "ID_49ba1be80aeb",
+            "abbreviation": "6tO"
+          },
+          {
+            "type": "day",
+            "name": "5 to Prime",
+            "id": "ID_79bb98ebb98a",
+            "abbreviation": "5tO"
+          },
+          {
+            "type": "day",
+            "name": "4 to Prime",
+            "id": "ID_b80b29c91b9b",
+            "abbreviation": "4tO"
+          },
+          {
+            "type": "day",
+            "name": "3 to Prime",
+            "id": "ID_49a94a7afa9a",
+            "abbreviation": "3tO"
+          },
+          {
+            "type": "day",
+            "name": "2 to Prime",
+            "id": "ID_8a89bbcb7b7b",
+            "abbreviation": "2tO"
+          },
+          {
+            "type": "day",
+            "name": "1 to Prime",
+            "id": "ID_594b7b68db3b",
+            "abbreviation": "1tO"
+          },
+          {
+            "type": "day",
+            "name": "Prime",
+            "id": "ID_e8793ba9fad8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Sanasmor",
+            "length": 26,
+            "id": "ID_2aabdbcbf969",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Chynamor",
+            "length": 26,
+            "id": "ID_d949c818ca3a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Arymor",
+            "length": 26,
+            "id": "ID_480b8848d93a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Torimorn",
+            "length": 26,
+            "id": "ID_8b59a8cbdb18",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Rhanamor",
+            "length": 26,
+            "id": "ID_eb4b3bb8094b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Peylimor",
+            "length": 26,
+            "id": "ID_79db283b9938",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Verimor",
+            "length": 26,
+            "id": "ID_1bbaa89ad9a8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Merimorn",
+            "length": 26,
+            "id": "ID_784a7a591928",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Hulemor",
+            "length": 26,
+            "id": "ID_4a087ad97978",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Orimor",
+            "length": 26,
+            "id": "ID_6b3b2bfb190a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Walrimor",
+            "length": 26,
+            "id": "ID_1a4acbeaebeb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Fenemor",
+            "length": 26,
+            "id": "ID_98a98829a899",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Lillimor",
+            "length": 26,
+            "id": "ID_dbd8199b7a2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "intercalary",
+            "name": "Union Days",
+            "length": 11,
+            "id": "ID_ab29a9194b49",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.5,
+            "offset": 0,
+            "faceColor": "#fff",
+            "shadowColor": "#000",
+            "id": "ID_1a89ab086b5a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "id": "ID_1b6b0998dbbb",
+            "name": "1",
+            "interval": [
+              {
+                "interval": 13,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 13,
+            "offset": 0,
+            "type": "leapday",
+            "after": "0"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_b9ca38fa0a1a",
+            "type": "era",
+            "name": "Era of Ancients",
+            "description": "",
+            "format": "{{era_year}} EoA",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": null,
+              "month": null,
+              "day": null
+            }
+          },
+          {
+            "id": "ID_688b59f85a2a",
+            "type": "era",
+            "name": "Era of Growth",
+            "description": "",
+            "format": "{{era_year}} EoG",
+            "endsYear": true,
+            "isEvent": true,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 3563,
+              "month": 8,
+              "day": 12
+            }
+          },
+          {
+            "id": "ID_e81898492a68",
+            "type": "era",
+            "name": "Era of Conquest",
+            "description": "",
+            "format": "{{era_year}} EoC",
+            "endsYear": true,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 3563,
+              "month": 8,
+              "day": 12
+            },
+            "end": {
+              "year": 6540,
+              "month": 3,
+              "day": 3
+            }
+          },
+          {
+            "id": "ID_b81b582ae978",
+            "type": "era",
+            "name": "Era of Insight",
+            "description": "",
+            "format": "{{era_year}} EoI",
+            "endsYear": true,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 6540,
+              "month": 3,
+              "day": 3
+            },
+            "end": {
+              "year": 8638,
+              "month": 6,
+              "day": 21
+            }
+          },
+          {
+            "id": "ID_6b1aba78699a",
+            "type": "era",
+            "name": "Era of Expansion",
+            "description": "",
+            "format": "{{era_year}} EoE",
+            "endsYear": true,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 21,
+              "month": 6,
+              "year": 8638
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "day": 11,
+        "month": 9,
+        "year": 8940
+      },
+      "events": [
+        {
+          "name": "First Day of Spring",
+          "description": "The first day of spring.",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_9acb096958fb",
+          "note": null,
+          "category": "ID_fa7bdaea381a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Kalon",
+          "description": "The first day of summer",
+          "date": {
+            "month": 3,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_581ad8391949",
+          "note": null,
+          "category": "ID_fa7bdaea381a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "First Day of Fall",
+          "description": "The first day of fall",
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_793a39f80909",
+          "note": null,
+          "category": "ID_fa7bdaea381a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "First Day of Winter",
+          "description": "The first day of Winter",
+          "date": {
+            "month": 10,
+            "day": 1,
+            "year": [
+              1,
+              null
+            ]
+          },
+          "id": "ID_fab9983918ab",
+          "note": null,
+          "category": "ID_fa7bdaea381a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ylva",
+          "description": "Ylva's birthday.",
+          "date": {
+            "day": 20,
+            "month": 11,
+            "year": 8931
+          },
+          "id": "ID_888be99b1b28",
+          "note": null,
+          "category": "ID_9ac82af9aa38",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_fa7bdaea381a",
+          "color": "#38ffa2",
+          "name": "Seasons"
+        },
+        {
+          "id": "ID_9ac82af9aa38",
+          "color": "#f444c8",
+          "name": "Birthdays"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD/MMM/YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_b9fa395aa9f8",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": true,
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 3,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}

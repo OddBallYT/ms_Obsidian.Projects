@@ -1,0 +1,6 @@
+/* My callouts */
+
+.callout[data-callout="alt-names"] {
+  --callout-color: 180, 167, 232;
+  --callout-icon: lucide-clipboard-list;
+}

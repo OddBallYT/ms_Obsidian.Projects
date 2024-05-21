@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaCrystalWand",
+      "RaChain",
+      "RaBall",
+      "RaDefibrillate",
+      "RaDeadTree"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "03 - World": {
+    "iconName": "RaBall",
+    "iconColor": "#0055ff"
+  },
+  "02 - Story": {
+    "iconName": "RaDeadTree",
+    "iconColor": "#ff00ea"
+  },
+  "01 - Characters": {
+    "iconName": "RaDefibrillate",
+    "iconColor": "#ff0000"
+  },
+  "00 - Content": {
+    "iconName": "RaCrystalWand",
+    "iconColor": "#ffa200"
+  },
+  "04 - Dictionary": {
+    "iconName": "RaChain",
+    "iconColor": "#1ef62c"
+  }
+}
