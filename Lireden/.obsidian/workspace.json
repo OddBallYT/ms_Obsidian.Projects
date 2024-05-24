@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "eb2b530179b6afc6",
+    "id": "a061549af156588a",
     "type": "split",
     "children": [
       {
-        "id": "0623ec2bffc6fae4",
+        "id": "7e9cbec04f73d48b",
         "type": "tabs",
         "children": [
           {
-            "id": "c560071507b6c8b1",
+            "id": "f4a2a10cd92b8cf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaign/Outline.md",
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "490de60bfeb660f7",
+    "id": "05f4f5ca45049368",
     "type": "split",
     "children": [
       {
-        "id": "8e0d43b0a792f178",
+        "id": "a858fc6334932809",
         "type": "tabs",
         "children": [
           {
-            "id": "5f40367d3ec4d982",
+            "id": "248ffc014752346c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +43,7 @@
             }
           },
           {
-            "id": "024a01b24330dc95",
+            "id": "690349e2bd9cbd9e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +58,7 @@
             }
           },
           {
-            "id": "6c09497ab48bf426",
+            "id": "88a62b6e9c62b945",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "0c008bb50a9f0a03",
+    "id": "08825e1667957481",
     "type": "split",
     "children": [
       {
-        "id": "a86c541ce9b19c36",
+        "id": "4e3c277c3ca7eb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "a6781742cc365dfa",
+            "id": "79822e0f273ec6ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Campaign/Outline.md",
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "692090d8ff35459a",
+            "id": "40c5ec228b2beaa0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Campaign/Outline.md",
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3c2967fb91a90fb1",
+            "id": "6b3bef81c2e35327",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +120,12 @@
             }
           },
           {
-            "id": "ada5e55016bce148",
+            "id": "adb674bdcea2fa75",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Campaign/Outline.md"
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md"
               }
             }
           }
@@ -144,27 +143,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c560071507b6c8b1",
+  "active": "f4a2a10cd92b8cf5",
   "lastOpenFiles": [
-    "05 - Game/Rules/Retrying Ability Checks.md",
-    "05 - Game/Rules/Hunting.md",
-    "01 - Campaign/Outline.md",
-    "04 - Items/Bottle of Frostfell.md",
-    "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
-    "00 - Content/Templates/_130524_sheet.npc.md",
-    "00 - Content/Templates/_190524_sheet.item.md",
-    "02 - Entities/Characters/Non-Players/Tansy Coppermug.md",
-    "02 - Entities/Characters/Non-Players/Everett Reed.md",
-    "02 - Entities/Characters/Non-Players/Reymon Abbot.md",
-    "02 - Entities/Characters/Non-Players/Simcoe Canis.md",
-    "00 - Content/Templates/_160524_callout.columns.md",
-    "03 - World/Avarus.md",
-    "Untitled.md",
-    "05 - Game/Rules/Crippling.md",
-    "01 - Campaign/Daily Notes"
+    "Lizzi.md",
+    "01 - Campaign/Sessions/24-05-24 Session 10.md",
+    "Welcome.md",
+    "01 - Campaign/Sessions",
+    "01 - Campaign",
+    "00 - Content"
   ]
 }
