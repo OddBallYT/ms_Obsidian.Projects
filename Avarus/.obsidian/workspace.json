@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Game/Rules/Retrying Ability Checks.md",
+                "file": "05 - Game/Rules/Switching Weapons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Game/Rules/Retrying Ability Checks.md",
+                "file": "05 - Game/Rules/Switching Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Game/Rules/Retrying Ability Checks.md",
+                "file": "05 - Game/Rules/Switching Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Game/Rules/Retrying Ability Checks.md"
+                "file": "05 - Game/Rules/Switching Weapons.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "c560071507b6c8b1",
   "lastOpenFiles": [
-    "05 - Game/Rules/Hunting.md",
     "05 - Game/Rules/Retrying Ability Checks.md",
+    "05 - Game/Rules/Switching Weapons.md",
+    "05 - Game/Rules/Hunting.md",
     "01 - Campaign/Outline.md",
     "04 - Items/Bottle of Frostfell.md",
     "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",

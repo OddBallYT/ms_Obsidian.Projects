@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "f0d00b6679a8d81c",
+    "id": "a061549af156588a",
     "type": "split",
     "children": [
       {
-        "id": "57c754cd2dd5c6ae",
+        "id": "7e9cbec04f73d48b",
         "type": "tabs",
         "children": [
           {
-            "id": "f0174548769120d2",
+            "id": "f4a2a10cd92b8cf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f1e327d9ec1c6b70",
+    "id": "05f4f5ca45049368",
     "type": "split",
     "children": [
       {
-        "id": "6c7f9c19aa89d7d2",
+        "id": "a858fc6334932809",
         "type": "tabs",
         "children": [
           {
-            "id": "843e27c158618e0c",
+            "id": "248ffc014752346c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "b9d870c5d6e8e669",
+            "id": "690349e2bd9cbd9e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "c498419837221a80",
+            "id": "88a62b6e9c62b945",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bb212f883be5970f",
+    "id": "08825e1667957481",
     "type": "split",
     "children": [
       {
-        "id": "dadee634dda3a08f",
+        "id": "4e3c277c3ca7eb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc793bb14f63724b",
+            "id": "79822e0f273ec6ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "2bb5bd4f819a9fc7",
+            "id": "40c5ec228b2beaa0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7f858ce2ecbf4cf",
+            "id": "6b3bef81c2e35327",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "4a18ef7d33a624e7",
+            "id": "adb674bdcea2fa75",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md"
+              }
             }
           }
         ]
@@ -138,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "843e27c158618e0c",
+  "active": "f4a2a10cd92b8cf5",
   "lastOpenFiles": [
-    "00 - Content/Templates",
-    "00 - Content",
-    "03 - Story",
-    "02 - World",
-    "01 - Characters",
-    "Welcome.md"
+    "Lizzi.md",
+    "01 - Campaign/Sessions/24-05-24 Session 10.md",
+    "Welcome.md",
+    "01 - Campaign/Sessions",
+    "01 - Campaign",
+    "00 - Content"
   ]
 }

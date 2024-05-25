@@ -9,13 +9,14 @@
 >>
 >>In the examples above: a player fails to persuade the shopkeeper, the shopkeeper refuses, and is then uninterested in continuing to hear the pleas of the player. In the next example, the player misses the ledge, and falls, unable to retry to catch the ledge.
 >>
->>This includes ability checks that a player's character would not reasonably know that they failed. Such as a character failing to check for traps. In-game, a character checks 
+>>This includes ability checks that a player's character would not reasonably know that they failed. Such as a character failing to check for traps. In-game, a character checks for traps, and finds nothing, believing there are none,
 >
 >> [!note|clean no-title] Column 2
->> for traps, and finds nothing, believing there are none, and would not reasonable believe that they failed to find them.
+>> and would not reasonable believe that they failed to find them.
 >> ****
 >> **Non-Destructive Ability Checks**
 >>Now, say a player tries to climb shale rock, or a player tries to cut the head off a fallen enemy. These are **non-destructive** as the opportunity to try again is still there, however these ability checks, as well as most **non-destructive** ability checks, have consequences, but can be re-attempted.
+>>
 >> In the examples above: the player falls back down the shale, from half way, hurting the player on the way down, and on re-attempt, taking more time to get back up, and reach the top. Next, the player attempting to behead the fallen enemy might miss the neck, hitting the platting of the enemies armor, causing the player's axe to chip and become damaged, and on re-attempt taking more time for the player to cut it off on the next attempt.
 >> ****
 >> **Re-Attempts By Other Party Members**
