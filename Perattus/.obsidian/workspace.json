@@ -6,6 +6,7 @@
       {
         "id": "57c754cd2dd5c6ae",
         "type": "tabs",
+        "dimension": 65.8703071672355,
         "children": [
           {
             "id": "f0174548769120d2",
@@ -16,6 +17,24 @@
             }
           }
         ]
+<<<<<<< HEAD
+=======
+      },
+      {
+        "id": "4607a1a581fc23c6",
+        "type": "tabs",
+        "dimension": 34.129692832764505,
+        "children": [
+          {
+            "id": "b388ab0701d75c00",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+>>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
       }
     ],
     "direction": "vertical"
@@ -65,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "bb212f883be5970f",

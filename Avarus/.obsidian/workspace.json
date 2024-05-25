@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "05 - Game/Rules/Switching Weapons.md",
+=======
+                "file": "01 - Campaign/Outline.md",
+>>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +90,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "05 - Game/Rules/Switching Weapons.md",
+=======
+                "file": "01 - Campaign/Outline.md",
+>>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "05 - Game/Rules/Switching Weapons.md",
+=======
+                "file": "01 - Campaign/Outline.md",
+>>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "05 - Game/Rules/Switching Weapons.md"
+=======
+                "file": "01 - Campaign/Outline.md"
+>>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
               }
             }
           }
@@ -151,7 +167,10 @@
   "active": "c560071507b6c8b1",
   "lastOpenFiles": [
     "05 - Game/Rules/Retrying Ability Checks.md",
+<<<<<<< HEAD
     "05 - Game/Rules/Switching Weapons.md",
+=======
+>>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
     "05 - Game/Rules/Hunting.md",
     "01 - Campaign/Outline.md",
     "04 - Items/Bottle of Frostfell.md",
