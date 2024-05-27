@@ -1,7 +1,7 @@
 {
-  "ITS@@nord": true,
+  "ITS@@nord": false,
   "ITS@@t-d": false,
-  "ITS@@select": "none",
+  "ITS@@select": "wotc-beyond",
   "ITS@@mini": false,
   "ITS@@notion": false,
   "ITS@@drwn": false,

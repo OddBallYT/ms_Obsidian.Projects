@@ -85,13 +85,14 @@
 >>  ****
 >>  **The Battle**
 >>  The player must roll an initiative roll against the initiative of the animal. During the battle, the animal may attempt to run (as decided by the DM). If so, and the animal's initiative roll was higher, it will run away. If the creature is in a biome with lots of cover (Forest, Hill, Mountain, Swamp) the animal is immediately lost. Otherwise the player must make a perception check to maintain sight of the animal.
->>  ****
->> ##### Harvesting
+>>  
+>
+>> [!note|clean no-title] Column 2
+>>##### Harvesting
 >> The usable parts of a creature are divided up into 4 different categories: **meat**, **guts**, **bones** and **hide**. Each have their own uses, and different ways of harvesting. Some creatures have parts additional to the 4, such as the plating on an *iron golem*, or the fungus of a *myconid*. In these cases, it is deferred to the DM as to how it should be treated. The following system is for a typical creature, changes may be necessary to adapt the system to specific needs.
 >>
 >> The amount of each part is divided by weight, unless there is a specific reason otherwise. Example: a *bone naga* has no guts, skin or hide. Therefore the entirety of it's weight is in bones.
->
->> [!note|clean no-title] Column 2
+>> ****
 >> **Dissecting**
 >> Dissecting a creature and harvesting its parts can be a good way to make a bit of money, or a way of feeding, or protecting yourself while out in the wilderness.
 >> If a player wants to dissect a creature they have killed (or found), they first roll the respective ability check to the part they wish to harvest (with the exception of blood. More can be found on blood, in the **Bleeding** section). If a player wishes to harvest multiple parts at once, they must roll all the checks individually (even if the checks use the same ability).

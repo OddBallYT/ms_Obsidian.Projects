@@ -1,44 +1,54 @@
 {
   "main": {
-    "id": "eb2b530179b6afc6",
+    "id": "fb33121dd434550e",
     "type": "split",
     "children": [
       {
-        "id": "0623ec2bffc6fae4",
+        "id": "8d803151839008eb",
         "type": "tabs",
         "children": [
           {
-            "id": "c560071507b6c8b1",
+            "id": "fc4d0f718997974e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "05 - Game/Rules/Switching Weapons.md",
-=======
-                "file": "01 - Campaign/Outline.md",
->>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
+                "file": "00 - Content/Properties/Reach.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c48850137e15251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Items/Untitled.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "490de60bfeb660f7",
+    "id": "0e8a9e7b35c60156",
     "type": "split",
     "children": [
       {
-        "id": "8e0d43b0a792f178",
+        "id": "b423bf7bfd84a80c",
         "type": "tabs",
         "children": [
           {
-            "id": "5f40367d3ec4d982",
+            "id": "8cec94c7c687d12b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +58,7 @@
             }
           },
           {
-            "id": "024a01b24330dc95",
+            "id": "85731e649f4c9a05",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +73,7 @@
             }
           },
           {
-            "id": "6c09497ab48bf426",
+            "id": "4516e8615123244d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +87,20 @@
     "width": 300
   },
   "right": {
-    "id": "0c008bb50a9f0a03",
+    "id": "3e81e4dce1fdcb07",
     "type": "split",
     "children": [
       {
-        "id": "a86c541ce9b19c36",
+        "id": "1a6b0ee7c974d892",
         "type": "tabs",
         "children": [
           {
-            "id": "a6781742cc365dfa",
+            "id": "89a1a25a572e800e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "05 - Game/Rules/Switching Weapons.md",
-=======
-                "file": "01 - Campaign/Outline.md",
->>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
+                "file": "04 - Items/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +112,19 @@
             }
           },
           {
-            "id": "692090d8ff35459a",
+            "id": "cb06264117f4dc00",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "05 - Game/Rules/Switching Weapons.md",
-=======
-                "file": "01 - Campaign/Outline.md",
->>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
+                "file": "04 - Items/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3c2967fb91a90fb1",
+            "id": "a9818ad577ac26d4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,16 +135,12 @@
             }
           },
           {
-            "id": "ada5e55016bce148",
+            "id": "dbf1936dcd1d67ac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "05 - Game/Rules/Switching Weapons.md"
-=======
-                "file": "01 - Campaign/Outline.md"
->>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
+                "file": "04 - Items/Untitled.md"
               }
             }
           }
@@ -164,27 +162,31 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c560071507b6c8b1",
+  "active": "8c48850137e15251",
   "lastOpenFiles": [
-    "05 - Game/Rules/Retrying Ability Checks.md",
-<<<<<<< HEAD
-    "05 - Game/Rules/Switching Weapons.md",
-=======
->>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
-    "05 - Game/Rules/Hunting.md",
-    "01 - Campaign/Outline.md",
+    "00 - Content/Properties/Finesse.md",
+    "00 - Content/Properties/Heavy.md",
+    "00 - Content/Properties/Light.md",
+    "00 - Content/Properties/Loading.md",
+    "00 - Content/Properties/Range.md",
+    "00 - Content/Properties/Reach.md",
+    "00 - Content/Properties/Special.md",
+    "00 - Content/Properties/Thrown.md",
+    "00 - Content/Properties/Two-Handed.md",
+    "00 - Content/Properties/Versatile.md",
+    "04 - Items/Untitled.md",
+    "00 - Content/Properties",
     "04 - Items/Bottle of Frostfell.md",
-    "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
-    "00 - Content/Templates/_130524_sheet.npc.md",
     "00 - Content/Templates/_190524_sheet.item.md",
-    "02 - Entities/Characters/Non-Players/Tansy Coppermug.md",
-    "02 - Entities/Characters/Non-Players/Everett Reed.md",
-    "02 - Entities/Characters/Non-Players/Reymon Abbot.md",
-    "02 - Entities/Characters/Non-Players/Simcoe Canis.md",
     "00 - Content/Templates/_160524_callout.columns.md",
-    "03 - World/Avarus.md",
-    "Untitled.md",
-    "05 - Game/Rules/Crippling.md",
-    "01 - Campaign/Daily Notes"
+    "05 - Game/Rules/Switching Weapons.md",
+    "05 - Game/Rules/Hunting.md",
+    "03 - World/Saulker/Saulker.md",
+    "02 - Entities/Characters/Non-Players/Reymon Abbot.md",
+    "02 - Entities/Characters/Non-Players/Tansy Coppermug.md",
+    "02 - Entities/Characters/Non-Players/Simcoe Canis.md",
+    "02 - Entities/Characters/Non-Players/Everett Reed.md",
+    "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
+    "01 - Campaign/Outline.md"
   ]
 }

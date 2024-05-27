@@ -15,4 +15,4 @@ A vial that slowly pulses with a pale blue light. It's cold to the touch. Typica
 In addition, the liquid inside is preserved, and will not go bad while it is in the bottle.
 
 ###### Tags
-#Utility #Container
+#Container #Magic #Utility
