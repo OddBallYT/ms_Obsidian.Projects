@@ -1,54 +1,40 @@
 {
   "main": {
-    "id": "fb33121dd434550e",
+    "id": "eb2b530179b6afc6",
     "type": "split",
     "children": [
       {
-        "id": "8d803151839008eb",
+        "id": "0623ec2bffc6fae4",
         "type": "tabs",
         "children": [
           {
-            "id": "fc4d0f718997974e",
+            "id": "c560071507b6c8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Content/Properties/Reach.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c48850137e15251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Items/Untitled.md",
+                "file": "02 - Entities/Monsters/Forest Plauged.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0e8a9e7b35c60156",
+    "id": "490de60bfeb660f7",
     "type": "split",
     "children": [
       {
-        "id": "b423bf7bfd84a80c",
+        "id": "8e0d43b0a792f178",
         "type": "tabs",
         "children": [
           {
-            "id": "8cec94c7c687d12b",
+            "id": "5f40367d3ec4d982",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +44,7 @@
             }
           },
           {
-            "id": "85731e649f4c9a05",
+            "id": "024a01b24330dc95",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +59,7 @@
             }
           },
           {
-            "id": "4516e8615123244d",
+            "id": "6c09497ab48bf426",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,20 +73,20 @@
     "width": 300
   },
   "right": {
-    "id": "3e81e4dce1fdcb07",
+    "id": "0c008bb50a9f0a03",
     "type": "split",
     "children": [
       {
-        "id": "1a6b0ee7c974d892",
+        "id": "a86c541ce9b19c36",
         "type": "tabs",
         "children": [
           {
-            "id": "89a1a25a572e800e",
+            "id": "a6781742cc365dfa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Items/Untitled.md",
+                "file": "02 - Entities/Monsters/Forest Plauged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +98,19 @@
             }
           },
           {
-            "id": "cb06264117f4dc00",
+            "id": "692090d8ff35459a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Items/Untitled.md",
+                "file": "02 - Entities/Monsters/Forest Plauged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a9818ad577ac26d4",
+            "id": "3c2967fb91a90fb1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,12 +121,12 @@
             }
           },
           {
-            "id": "dbf1936dcd1d67ac",
+            "id": "ada5e55016bce148",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Items/Untitled.md"
+                "file": "02 - Entities/Monsters/Forest Plauged.md"
               }
             }
           }
@@ -159,34 +145,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8c48850137e15251",
+  "active": "c560071507b6c8b1",
   "lastOpenFiles": [
-    "00 - Content/Properties/Finesse.md",
-    "00 - Content/Properties/Heavy.md",
-    "00 - Content/Properties/Light.md",
-    "00 - Content/Properties/Loading.md",
-    "00 - Content/Properties/Range.md",
-    "00 - Content/Properties/Reach.md",
-    "00 - Content/Properties/Special.md",
-    "00 - Content/Properties/Thrown.md",
-    "00 - Content/Properties/Two-Handed.md",
-    "00 - Content/Properties/Versatile.md",
-    "04 - Items/Untitled.md",
-    "00 - Content/Properties",
-    "04 - Items/Bottle of Frostfell.md",
-    "00 - Content/Templates/_190524_sheet.item.md",
-    "00 - Content/Templates/_160524_callout.columns.md",
-    "05 - Game/Rules/Switching Weapons.md",
+    "00 - Content/Images/Entites/Monsters/Forest Plauged.png",
+    "02 - Entities/Monsters/Maskhound.md",
+    "02 - Entities/Monsters/Forest Plauged.md",
     "05 - Game/Rules/Hunting.md",
-    "03 - World/Saulker/Saulker.md",
-    "02 - Entities/Characters/Non-Players/Reymon Abbot.md",
-    "02 - Entities/Characters/Non-Players/Tansy Coppermug.md",
-    "02 - Entities/Characters/Non-Players/Simcoe Canis.md",
-    "02 - Entities/Characters/Non-Players/Everett Reed.md",
+    "00 - Content/Templates/_130524_sheet.npc.md",
+    "00 - Content/Images/Entites/Monsters/Maskhound.png",
+    "00 - Content/Images/Entites/Characters/Non-Players/simcoe_canis.png",
+    "00 - Content/Images/Entites/Characters/Non-Players/tansy_coppermug.png",
+    "00 - Content/Images/Entites/Characters/Non-Players/reymon_abbot.png",
+    "00 - Content/Images/Entites/Characters/Non-Players/everett_reed.png",
+    "00 - Content/Images/Entites/Characters/Non-Players",
+    "00 - Content/Images/Entites/Characters",
+    "00 - Content/Images/Entites/Monsters",
+    "00 - Content/Images/Entites",
+    "00 - Content/Images/New folder",
+    "00 - Content/Images/Monsters",
+    "00 - Content/Images/Characters/Monsters",
+    "00 - Content/Images/Characters/New folder",
+    "02 - Entities/Monsters/Abomination of the Forest.md",
+    "00 - Content/Templates/_270524_statblock.md",
+    "00 - Content/Templates/_190524_sheet.item.md",
+    "04 - Items/Opalance.md",
+    "01 - Campaign/Threads/The Chosen of Mask.md",
+    "01 - Campaign/Threads",
+    "00 - Content/Properties/Finesse.md",
+    "02 - Entities/Monsters",
+    "05 - Game/Rules/Switching Weapons.md",
+    "01 - Campaign/Outline.md",
+    "00 - Content/Properties/Versatile.md",
+    "00 - Content/Properties/Two-Handed.md",
+    "00 - Content/Properties/Thrown.md",
+    "00 - Content/Properties/Special.md",
+    "00 - Content/Properties/Reach.md",
+    "00 - Content/Properties/Range.md",
+    "00 - Content/Properties/Loading.md",
+    "00 - Content/Properties/Light.md",
+    "00 - Content/Properties/Heavy.md",
+    "05 - Game/Rules/Retrying Ability Checks.md",
+    "04 - Items/Bottle of Frostfell.md",
     "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
-    "01 - Campaign/Outline.md"
+    "02 - Entities/Characters/Non-Players/Tansy Coppermug.md"
   ]
 }
