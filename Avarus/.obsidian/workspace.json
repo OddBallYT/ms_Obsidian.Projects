@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0623ec2bffc6fae4",
+        "id": "422001d5ee0556fa",
         "type": "tabs",
         "children": [
           {
@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Entities/Monsters/Forest Plauged.md",
-                "mode": "preview",
+                "file": "03 - World/Dungeons/Arcspire.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Entities/Monsters/Forest Plauged.md",
+                "file": "03 - World/Dungeons/Arcspire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Entities/Monsters/Forest Plauged.md",
+                "file": "03 - World/Dungeons/Arcspire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Entities/Monsters/Forest Plauged.md"
+                "file": "03 - World/Dungeons/Arcspire.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,16 +146,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "c560071507b6c8b1",
   "lastOpenFiles": [
+    "03 - World/Geography",
+    "00 - Content/Templates/_300524_sheet.dungeon.md",
+    "03 - World/Dungeons/Arcspire.md",
+    "01 - Campaign/Outline.md",
+    "03 - World/Dungeons",
+    "03 - World/Cities",
+    "01 - Campaign/Threads/Sauker",
+    "02 - Entities/Monsters/Abomination of the Forest.md",
+    "02 - Entities/Monsters/Forest Plauged.md",
+    "05 - Game/Rules/Switching Weapons.md",
     "00 - Content/Images/Entites/Monsters/Forest Plauged.png",
     "02 - Entities/Monsters/Maskhound.md",
-    "02 - Entities/Monsters/Forest Plauged.md",
     "05 - Game/Rules/Hunting.md",
     "00 - Content/Templates/_130524_sheet.npc.md",
     "00 - Content/Images/Entites/Monsters/Maskhound.png",
@@ -169,17 +179,11 @@
     "00 - Content/Images/New folder",
     "00 - Content/Images/Monsters",
     "00 - Content/Images/Characters/Monsters",
-    "00 - Content/Images/Characters/New folder",
-    "02 - Entities/Monsters/Abomination of the Forest.md",
     "00 - Content/Templates/_270524_statblock.md",
     "00 - Content/Templates/_190524_sheet.item.md",
     "04 - Items/Opalance.md",
     "01 - Campaign/Threads/The Chosen of Mask.md",
-    "01 - Campaign/Threads",
     "00 - Content/Properties/Finesse.md",
-    "02 - Entities/Monsters",
-    "05 - Game/Rules/Switching Weapons.md",
-    "01 - Campaign/Outline.md",
     "00 - Content/Properties/Versatile.md",
     "00 - Content/Properties/Two-Handed.md",
     "00 - Content/Properties/Thrown.md",
@@ -190,8 +194,6 @@
     "00 - Content/Properties/Light.md",
     "00 - Content/Properties/Heavy.md",
     "05 - Game/Rules/Retrying Ability Checks.md",
-    "04 - Items/Bottle of Frostfell.md",
-    "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
-    "02 - Entities/Characters/Non-Players/Tansy Coppermug.md"
+    "04 - Items/Bottle of Frostfell.md"
   ]
 }

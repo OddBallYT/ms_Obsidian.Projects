@@ -65,30 +65,30 @@
       }
     ],
     [
-      "Forest Plauged",
+      "Forest Plagued",
       {
-        "name": "Forest Plauged",
+        "name": "Forest Plagued",
         "size": "Medium",
         "type": "Humanoid",
         "alignment": "Neutral",
         "ac": "15 Natural Armor",
         "hp": 82,
         "hit_dice": "11d8 + 33",
-        "speed": "40ft",
+        "speed": "30ft",
         "stats": [
           16,
-          15,
-          17,
+          16,
+          16,
+          11,
           10,
-          8,
-          10
+          12
         ],
         "saves": [
           {
-            "STR": 6
+            "DEX": 6
           },
           {
-            "CON": 3
+            "WIS": 3
           },
           null
         ],
@@ -98,31 +98,33 @@
             "Stealth": 6
           }
         ],
-        "senses": "blindsight 60 ft., Passive Perception 14",
-        "languages": "understands Abyssal, but can't speak.",
-        "cr": 4,
+        "damage_vulnerabilities": "fire",
+        "damage_resistances": "bludgeoning, piercing",
+        "senses": "tremorsense 60 ft., Passive Perception 13",
+        "languages": "understands Druidic and Terran, but can't speak.",
+        "cr": 5,
         "traits": [
           {
-            "name": "Master of Shadows",
-            "desc": "If the Maskhound hides, while shadowed, or is behind half-cover or more, the Maskhound goes invisible until the start of its next turn."
+            "name": "Regrowth",
+            "desc": "The Forest Plagued regains 10 hit points at the start of its turn if it has at least 1 hit point and hadn't moved its previous turn, and is currently grounded. If it is on fire during regrowth, it will forgo the 10 hit points and douse the fire instead."
+          },
+          {
+            "name": "Creeping Vine",
+            "desc": "The Forest Plagued can mutate its bark-like flesh on command and allow it to climb difficult surfaces without needing to make an ability check."
+          },
+          {
+            "name": "Adept Forester",
+            "desc": "The Forest Plagued can mutate its bark-like flesh on command to cross over difficult terrain, without ."
           }
         ],
         "actions": [
           {
             "name": "Multiattack",
-            "desc": "The Maskhound makes two claw attacks, and one tail attack."
+            "desc": "The Forest Plagued makes two attacks, only one of which can be a aaa attack."
           },
           {
-            "name": "Claw",
-            "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
-          },
-          {
-            "name": "Tail",
-            "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage."
-          },
-          {
-            "name": "Mute",
-            "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. The whispy tendrils from the Maskhound's torso wrap around the target. The target is silenced, and blinded for 1 turn."
+            "name": "Claws",
+            "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage, and 5 (1d6 + 2) poison damage."
           }
         ],
         "source": "Homebrew",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaLeaf",
+      "RaTower",
+      "RaCapitol",
       "RaDivert",
-      "RaAmmoBag",
-      "RaBroadsword",
-      "RaCrystals",
-      "RaLion"
+      "RaAmmoBag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,8 @@
   "00 - Content/Properties": "RaCrystals",
   "05 - Game/Rules/Switching Weapons.md": "RaAmmoBag",
   "01 - Campaign/Threads": "RaDivert",
-  "04 - Items/Opalance.md": "RaBroadsword"
+  "04 - Items/Opalance.md": "RaBroadsword",
+  "03 - World/Cities": "RaCapitol",
+  "03 - World/Dungeons": "RaTower",
+  "03 - World/Geography": "RaLeaf"
 }

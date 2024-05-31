@@ -7,5 +7,5 @@
 >> [!note|clean no-title] Column 2
 >
 ```statblock
-creature: Forest Plauged
+creature: Forest Plagued
 ```
