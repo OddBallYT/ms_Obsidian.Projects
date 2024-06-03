@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaTrail",
+      "RaCapricorn",
+      "RaGears",
+      "RaMirror",
+      "RaClockwork"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "03 - World": "RaSprout",
+  "02 - Story": {
+    "iconName": "RaDeadTree",
+    "iconColor": "#ff00ea"
+  },
+  "01 - Characters": "RaPawn",
+  "00 - Content": "RaEyeball",
+  "04 - Story": "RaDeadTree",
+  "00 - Content/Daily Notes": "RaClockwork",
+  "00 - Content/Images": "RaMirror",
+  "00 - Content/Templates": "RaGears",
+  "07 - Dictionary": "RaBook",
+  "05 - History": "RaTrail",
+  "06 - Language": "RaCapricorn"
+}

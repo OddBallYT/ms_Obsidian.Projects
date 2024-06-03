@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "422001d5ee0556fa",
+        "id": "d69e4d68a61eb8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "c560071507b6c8b1",
+            "id": "0097f2189deb357e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "right": {
     "id": "0c008bb50a9f0a03",
@@ -132,6 +132,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7e8b24b52b319f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da7cf917ffdae91",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,49 +165,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c560071507b6c8b1",
+  "active": "0097f2189deb357e",
   "lastOpenFiles": [
-    "03 - World/Geography",
-    "00 - Content/Templates/_300524_sheet.dungeon.md",
+    "00 - Content/Maps/Dungeon/map_arcspire_floor.-2.png",
+    "00 - Content/Maps/Dungeon/map_arcspire_floor.-1.png",
+    "00 - Content/Maps/Dungeon/map_arcspire_ground.floor.png",
+    "00 - Content/Maps/Dungeon/map_arcspire_floor.2.png",
+    "00 - Content/Maps/Dungeon/map_arscpire_floor.-2.png",
+    "00 - Content/Maps/Dungeon/map_arscpire_floor.-1.png",
+    "00 - Content/Maps/Dungeon/map_arscpire_ground.floor.png",
+    "00 - Content/Maps/Dungeon/map_arscpire_floor.2.png",
+    "00 - Content/Maps/Dungeon/map_arscpire_floor.-2_25x28.png",
+    "00 - Content/Maps/Dungeon/map_arscpire_floor.-1_23x26.png",
+    "00 - Content/Maps/Dungeon/map_arscpire_ground.floor_25x25.png",
+    "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
     "03 - World/Dungeons/Arcspire.md",
+    "00 - Content/Templates/_020624_callout.image.md",
+    "05 - Game/Rules/Hunting.md",
+    "05 - Game/Rules/Switching Weapons.md",
+    "00 - Content/Templates/_130524_sheet.npc.md",
+    "00 - Content/Templates/_020624_callout.aside.md",
+    "00 - Content/Maps/Dungeon",
+    "00 - Content/Maps/New folder",
+    "00 - Content/Maps/Dungeon Scrawl/map.ds_arcspire.ds",
+    "00 - Content/Maps/Dungeon Scrawl/dungeon(1).ds",
+    "00 - Content/Maps/Dungeon Scrawl",
+    "00 - Content/Maps",
+    "00 - Content/New folder",
+    "01 - Campaign/Daily Notes/2024/May/31.md",
+    "01 - Campaign/Daily Notes/2024/Jun/01.md",
+    "01 - Campaign/Daily Notes/2024/May",
+    "01 - Campaign/Daily Notes/2024/Jun",
+    "01 - Campaign/Daily Notes/2024",
+    "Untitled.canvas",
+    "01 - Campaign/Daily Notes/01/Jun/24.md",
+    "03 - World/Cities/Saulker.md",
     "01 - Campaign/Outline.md",
-    "03 - World/Dungeons",
-    "03 - World/Cities",
-    "01 - Campaign/Threads/Sauker",
+    "00 - Content/Templates/_300524_sheet.dungeon.md",
     "02 - Entities/Monsters/Abomination of the Forest.md",
     "02 - Entities/Monsters/Forest Plauged.md",
-    "05 - Game/Rules/Switching Weapons.md",
-    "00 - Content/Images/Entites/Monsters/Forest Plauged.png",
     "02 - Entities/Monsters/Maskhound.md",
-    "05 - Game/Rules/Hunting.md",
-    "00 - Content/Templates/_130524_sheet.npc.md",
-    "00 - Content/Images/Entites/Monsters/Maskhound.png",
-    "00 - Content/Images/Entites/Characters/Non-Players/simcoe_canis.png",
-    "00 - Content/Images/Entites/Characters/Non-Players/tansy_coppermug.png",
-    "00 - Content/Images/Entites/Characters/Non-Players/reymon_abbot.png",
-    "00 - Content/Images/Entites/Characters/Non-Players/everett_reed.png",
-    "00 - Content/Images/Entites/Characters/Non-Players",
-    "00 - Content/Images/Entites/Characters",
-    "00 - Content/Images/Entites/Monsters",
-    "00 - Content/Images/Entites",
-    "00 - Content/Images/New folder",
-    "00 - Content/Images/Monsters",
-    "00 - Content/Images/Characters/Monsters",
     "00 - Content/Templates/_270524_statblock.md",
     "00 - Content/Templates/_190524_sheet.item.md",
     "04 - Items/Opalance.md",
-    "01 - Campaign/Threads/The Chosen of Mask.md",
+    "01 - Campaign/Quests/The Chosen of Mask.md",
     "00 - Content/Properties/Finesse.md",
     "00 - Content/Properties/Versatile.md",
     "00 - Content/Properties/Two-Handed.md",
     "00 - Content/Properties/Thrown.md",
-    "00 - Content/Properties/Special.md",
-    "00 - Content/Properties/Reach.md",
-    "00 - Content/Properties/Range.md",
-    "00 - Content/Properties/Loading.md",
-    "00 - Content/Properties/Light.md",
-    "00 - Content/Properties/Heavy.md",
-    "05 - Game/Rules/Retrying Ability Checks.md",
-    "04 - Items/Bottle of Frostfell.md"
+    "00 - Content/Properties/Special.md"
   ]
 }

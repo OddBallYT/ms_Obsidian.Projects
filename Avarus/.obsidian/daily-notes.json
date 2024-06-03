@@ -1,6 +1,6 @@
 {
   "autorun": false,
   "template": "",
-  "format": "DD/MMM/YY",
+  "format": "YYYY/MMM/DD",
   "folder": "01 - Campaign/Daily Notes"
 }

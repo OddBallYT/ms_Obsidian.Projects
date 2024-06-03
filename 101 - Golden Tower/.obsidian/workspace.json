@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7c5153497c533e34",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b46fc417e7798d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97031f7ec0ec81be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - World/Eldewind/Eldewind.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a44022cbd8bbceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "44430ac3c6af78c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df81af0b639b68c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2026f09a8360b311",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80ddb219ff193ce9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "c2cd87a45a3bfade",
+    "type": "split",
+    "children": [
+      {
+        "id": "96aa2ef3d14d8002",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d46eb2d17c3217ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "97031f7ec0ec81be",
+  "lastOpenFiles": [
+    "01 - Characters/Eldewind/Direhal/Ylva.md",
+    "01 - Characters/Eldewind/Weshare/Clifford.md",
+    "00 - Content/Templates/_020624_sheet.char.md",
+    "01 - Characters/Eldewind/Weshare",
+    "01 - Characters/Eldewind/Direhal",
+    "01 - Characters/Eldewind",
+    "00 - Content/Images/Maps/Realm/map-eldewind.png",
+    "00 - Content/Templates/_030524_callout.altnames.md",
+    "00 - Content/Images/Characters/Clifford.png",
+    "03 - World/Eldewind/Geographic/The Setting Sea.md",
+    "03 - World/Eldewind/Political",
+    "03 - World/Eldewind",
+    "05 - History/Events",
+    "05 - History/Figures/Ikfel.md",
+    "04 - Story",
+    "00 - Content/Daily Notes",
+    "00 - Content/Spreadsheets/_020524_spreadsheet.ljakelskan.md",
+    "03 - World/Religion",
+    "05 - History/Figures",
+    "00 - Content/Templates/_020524_infobox.char.md",
+    "07 - Dictionary/Waystone.md",
+    "07 - Dictionary/Realm.md",
+    "Image.png.md",
+    "06 - Language/Ljakelskan.md",
+    "03 - World/Eldewind/Conglomerates/The New Union.md",
+    "Ljakenvel.md",
+    "Tue.md",
+    "03 - World/Locations/Towns/Conton.md",
+    "03 - World/Eldewind/Eldewind.md",
+    "03 - World/Regions/Political/Realms/Eldewind/Weshare/Bentford Hold/Bentford Hold.md",
+    "03 - World/Regions/Political/Realms/Eldewind/Direhal/Jendlek/Baldengard.md",
+    "00 - Content/Images/Characters/Ylva.png",
+    "New Union Calendar.md",
+    "00 - Content/Images/Maps/Realm/map-eldewind.jpg",
+    "03 - World/Untitled.canvas",
+    "Welcome.md"
+  ]
+}

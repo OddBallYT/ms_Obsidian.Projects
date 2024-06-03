@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaArcaneMask",
+      "RaAllForOne",
       "RaLeaf",
       "RaTower",
-      "RaCapitol",
-      "RaDivert",
-      "RaAmmoBag"
+      "RaCapitol"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,9 +53,11 @@
   "05 - Game/Rules/Retrying Ability Checks.md": "RaCycle",
   "00 - Content/Properties": "RaCrystals",
   "05 - Game/Rules/Switching Weapons.md": "RaAmmoBag",
-  "01 - Campaign/Threads": "RaDivert",
   "04 - Items/Opalance.md": "RaBroadsword",
   "03 - World/Cities": "RaCapitol",
   "03 - World/Dungeons": "RaTower",
-  "03 - World/Geography": "RaLeaf"
+  "03 - World/Geography": "RaLeaf",
+  "01 - Campaign/Quests": "RaAllForOne",
+  "01 - Campaign/Quests/The Chosen of Mask.md": "RaArcaneMask",
+  "03 - World/Dungeons/Arcspire.md": "RaTower"
 }

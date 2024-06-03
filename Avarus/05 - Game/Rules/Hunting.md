@@ -120,8 +120,8 @@
 >> 
 >> | Part | Ability | DC |
 >> | :-- | :-- | --: |
->> | Blood | Intelligence (nature) | 14 |
->> | Bone | Dexterity (sleight of hand) | 13 |
+>> | Blood | Wisdom (medicine) | 12 |
+>> | Bone | Dexterity (sleight of hand) | 10 |
 >> | Guts | Wisdom (medicine) | 15 |
 >> | Hide | Wisdom (survival) | 12 |
 >> | Meat | Wisdom (survival) | 10 |
