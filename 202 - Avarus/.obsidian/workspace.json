@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - World/Dungeons/Arcspire.md",
+                "file": "01 - Campaign/Quests/Main/The Adventure Begins.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - World/Dungeons/Arcspire.md",
+                "file": "01 - Campaign/Quests/Main/The Adventure Begins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - World/Dungeons/Arcspire.md",
+                "file": "01 - Campaign/Quests/Main/The Adventure Begins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - World/Dungeons/Arcspire.md"
+                "file": "01 - Campaign/Quests/Main/The Adventure Begins.md"
               }
             }
           }
@@ -167,6 +167,15 @@
   },
   "active": "0097f2189deb357e",
   "lastOpenFiles": [
+    "01 - Campaign/Outline.md",
+    "01 - Campaign/Quests/Main/The Adventure Begins.md",
+    "04  - History/Events",
+    "04  - History",
+    "03 - World/Dungeons/Arcspire.md",
+    "01 - Campaign/Quests/Main",
+    "02 - Entities/Monsters/Maskhound.md",
+    "02 - Entities/Monsters/Forest Plauged.md",
+    "02 - Entities/Monsters/Abomination of the Forest.md",
     "00 - Content/Maps/Dungeon/map_arcspire_floor.-2.png",
     "00 - Content/Maps/Dungeon/map_arcspire_floor.-1.png",
     "00 - Content/Maps/Dungeon/map_arcspire_ground.floor.png",
@@ -177,12 +186,10 @@
     "00 - Content/Maps/Dungeon/map_arscpire_floor.2.png",
     "00 - Content/Maps/Dungeon/map_arscpire_floor.-2_25x28.png",
     "00 - Content/Maps/Dungeon/map_arscpire_floor.-1_23x26.png",
-    "00 - Content/Maps/Dungeon/map_arscpire_ground.floor_25x25.png",
     "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
-    "03 - World/Dungeons/Arcspire.md",
     "00 - Content/Templates/_020624_callout.image.md",
-    "05 - Game/Rules/Hunting.md",
-    "05 - Game/Rules/Switching Weapons.md",
+    "06 - Game/Rules/Hunting.md",
+    "06 - Game/Rules/Switching Weapons.md",
     "00 - Content/Templates/_130524_sheet.npc.md",
     "00 - Content/Templates/_020624_callout.aside.md",
     "00 - Content/Maps/Dungeon",
@@ -194,25 +201,17 @@
     "00 - Content/New folder",
     "01 - Campaign/Daily Notes/2024/May/31.md",
     "01 - Campaign/Daily Notes/2024/Jun/01.md",
-    "01 - Campaign/Daily Notes/2024/May",
-    "01 - Campaign/Daily Notes/2024/Jun",
-    "01 - Campaign/Daily Notes/2024",
     "Untitled.canvas",
     "01 - Campaign/Daily Notes/01/Jun/24.md",
     "03 - World/Cities/Saulker.md",
-    "01 - Campaign/Outline.md",
     "00 - Content/Templates/_300524_sheet.dungeon.md",
-    "02 - Entities/Monsters/Abomination of the Forest.md",
-    "02 - Entities/Monsters/Forest Plauged.md",
-    "02 - Entities/Monsters/Maskhound.md",
     "00 - Content/Templates/_270524_statblock.md",
     "00 - Content/Templates/_190524_sheet.item.md",
-    "04 - Items/Opalance.md",
+    "05 - Items/Opalance.md",
     "01 - Campaign/Quests/The Chosen of Mask.md",
     "00 - Content/Properties/Finesse.md",
     "00 - Content/Properties/Versatile.md",
     "00 - Content/Properties/Two-Handed.md",
-    "00 - Content/Properties/Thrown.md",
-    "00 - Content/Properties/Special.md"
+    "00 - Content/Properties/Thrown.md"
   ]
 }
