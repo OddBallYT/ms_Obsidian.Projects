@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
+                "file": "Dungeons/Abandoned Mansion.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "08825e1667957481",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
+                "file": "Dungeons/Abandoned Mansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md",
+                "file": "Dungeons/Abandoned Mansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Campaign/Sessions/24-05-24 Session 10.md"
+                "file": "Dungeons/Abandoned Mansion.md"
               }
             }
           }
@@ -146,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4a2a10cd92b8cf5",
+  "active": "248ffc014752346c",
   "lastOpenFiles": [
-    "Lizzi.md",
     "01 - Campaign/Sessions/24-05-24 Session 10.md",
+    "00 - Content/Images/Maps/map_abandoned.mansion.png",
+    "00 - Content/Images/Maps",
+    "00 - Content/Images",
+    "Dungeons/Abandoned Mansion.md",
+    "00 - Content/Templates",
+    "00 - Content",
+    "Dungeons",
+    "Lizzi.md",
     "Welcome.md",
     "01 - Campaign/Sessions",
     "01 - Campaign",

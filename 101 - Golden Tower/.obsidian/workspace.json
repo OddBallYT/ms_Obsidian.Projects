@@ -90,6 +90,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b14e05364aa69219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - World/Eldewind/Eldewind.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb4d4fbfe131b4e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - World/Eldewind/Eldewind.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57d43e81b4ac1320",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - World/Eldewind/Eldewind.md"
+              }
+            }
           }
         ]
       }
@@ -108,8 +147,8 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "97031f7ec0ec81be",
