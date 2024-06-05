@@ -22,8 +22,7 @@
 >> ### Arrival
 >> When the party arrives at Arcspire, read the following boxed text aloud:
 >> > [!recite|bg-green] ‎ 
->> > A tower, sitting atop the summit of [[Mount Arcmire]]. Glassy black stones bordered with white mortar. Surrounded by thick wisps of bluish cloud slowly spiraling around it. Twenty-five feet up, the tower broken open, the remnants scattered across the mountain top. Narrow arrow slits carved into the stone, the inside dark, revealing no signs of occupation.  
->> 
+>> > A tower, sitting atop the summit of [[Mount Arcmire]]. Glassy black stones bordered with white mortar. Surrounded by thick wisps of bluish cloud slowly spiraling around the tower. Twenty-five feet up, the tower broken open, the remnants scattered across the mountain top. Narrow arrow slits carved into the stone, the inside dark, revealing no signs of occupation.  
 >> Entering the tower
 
 
@@ -36,11 +35,6 @@
 > ![[map_arcspire_floor.-2.png|relative wtall]] 
 ### Keyed Locations
 The following locations are keyed to the map of Arcspire.
-> [!column] ‎ 
->> [!info|clean no-title] Column 1
->> ###### A1. Entry Hall
->> The only entrance and defensive point of the tower. 
->
->> [!note|clean no-title] Column 2
->> Column 2 information
- 
+
+###### A1. Entry Hall
+The primary entrance and 
