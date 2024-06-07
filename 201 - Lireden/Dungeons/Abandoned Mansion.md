@@ -50,4 +50,32 @@ The alter has some coins placed about the surface, totaling 12gp, and a jade.
 The master bathroom connected to the master bedroom. Opposed to the other bathrooms of the house, this one is quite nice, granite countertop, marble tile floor, and dark wood cabinets. A clean toilet, and large basin sink, with a tall oval mirror.
 The cabinets contain 3 potions of healing, 1 potion of greater healing, 2 antitoxin, and a bag of beans.
 ***A12. Servant's Quarters***
-A long room, 5 ragged beds and side tables along the back wall, and a massive gap in the wall, where the ground sunk, collapsing the building. The room is quite bright 
+A long room, 5 ragged beds and side tables along the back wall, and a massive gap in the wall, where the ground sunk, collapsing the building. The room is bright,  but otherwise empty
+***A13. Guest Bedroom***
+The guest bedroom, a wide room with a collapsed canopy bed. A broken mirror stands above a large wooden dresser. An Intelligence (Investigation) check DC 14 reveals a false-bottom on one of the drawers. Inside is a pouch of 98gp, a silver locket (worth 50gp), and an [[Opulent Dagger]].
+***A14. Bathroom***
+Another bathroom, on a Wisdom (Perception) check DC 10, the player notices something gleaming in the toilet. Player can make a Constitution Saving Throw DC 14 to fish it out. A bag with a silver tag, inside it 43gp, and a potion of necrotic resistance (grants resistance to necrotic damage for 10 minutes)
+***A15. Wine Cellar***
+A room with 6 large casques of wine, a Wisdom (Perception) check DC 15 reveals a bag of holding tossed under one of them.
+***A16. Dungeon***
+When a player enters the area. Read the following:
+> [!quote]
+> A dungeon. Musty, and dark. 4 cells line the back wall, and puddles of a thick green liquid dot the floor. Judging by the smell, it's very potent poison. The room is otherwise empty, eerily so: there are no bodies or leftover belongings in the cells, and the walls are void of any lighting. But on the far wall, there is a large hole, seemingly leading down to some sort of ravine.
+
+***A17. Ravine***
+When a player enters the area. Read the following:
+> [!quote]
+> A narrow tunnel, leading down to a cliff, and a massive ravine, stretching 50ft high, and an unknowable depth into opaque darkness. But as you lead yourself down this narrow way, you notice a sound: a chorus of weeping, growing as you approach. Until you spot its source. A group of three strange human-like creatures, tainted with purple flesh, heads buried in their hands, weeping at the cliff's edge. They don't seem to take notice of you, but you do take notice of a large stone alter behind them, what you guess to be the source of their woes.
+
+If the players approach, read the following:
+> [!quote]
+> As you near, the weeping seems to wane, quickly falling to dead silence. The once closest, slowly raises its head, to look at you. You see its eyes, glowing purple, its veins pulsating with that same shade. Its nails, long and sharp, almost claw-like, and its teeth are fangs. It twitches violently, and its eyes dart, before it shrieks, and begins to charge.
+
+After the Plagued are defeated, the party can examine the alter. Read the following:
+> [!quote]
+> Now in peace, you can examine the alter. It seamless, cut from one massive stone. Wrought iron fittings along the corners, support a dark wood top. And a small silver stand, seemingly custom crafted for the glowing purple gem that sits atop it.
+
+If a marked player decides to take it, read the following:
+> [!quote]
+> The gem is ice cold, painfully so, as it glows an even brighter purple, the mark you bear on your arm, seemingly responding to it in kind; with its own golden glow. So do the marks of you others, that are marked. Then you are thrust into a vision, of the Well, its iron constructs, and its voice, asking you to bring it this gem you have found. While you are unsure of the reason or purpose, the worry in the voice seems to tell you, that more is at stake then you know.
+

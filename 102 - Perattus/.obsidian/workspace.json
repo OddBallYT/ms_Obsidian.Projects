@@ -1,15 +1,14 @@
 {
   "main": {
-    "id": "f0d00b6679a8d81c",
+    "id": "d84ff2086f9b2abd",
     "type": "split",
     "children": [
       {
-        "id": "57c754cd2dd5c6ae",
+        "id": "59dc495fde9ce7be",
         "type": "tabs",
-        "dimension": 65.8703071672355,
         "children": [
           {
-            "id": "f0174548769120d2",
+            "id": "91de7e9fc1f5cc05",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,38 +16,20 @@
             }
           }
         ]
-<<<<<<< HEAD
-=======
-      },
-      {
-        "id": "4607a1a581fc23c6",
-        "type": "tabs",
-        "dimension": 34.129692832764505,
-        "children": [
-          {
-            "id": "b388ab0701d75c00",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
->>>>>>> 4e169ed8c383ad03d89155a74b33f61e7c6cf874
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f1e327d9ec1c6b70",
+    "id": "16218f0315e795c2",
     "type": "split",
     "children": [
       {
-        "id": "6c7f9c19aa89d7d2",
+        "id": "99e9cfd343eebe5c",
         "type": "tabs",
         "children": [
           {
-            "id": "843e27c158618e0c",
+            "id": "09b5a10bdf881d8d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +39,7 @@
             }
           },
           {
-            "id": "b9d870c5d6e8e669",
+            "id": "045970c5d69f6394",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +54,7 @@
             }
           },
           {
-            "id": "c498419837221a80",
+            "id": "39c5bda0987f1127",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,18 +65,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 300
   },
   "right": {
-    "id": "bb212f883be5970f",
+    "id": "797b524f6bc69097",
     "type": "split",
     "children": [
       {
-        "id": "dadee634dda3a08f",
+        "id": "162108af400b37cb",
         "type": "tabs",
         "children": [
           {
-            "id": "fc793bb14f63724b",
+            "id": "27df1b094eaef2f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,7 +92,7 @@
             }
           },
           {
-            "id": "2bb5bd4f819a9fc7",
+            "id": "2a7af6909c37e75f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +103,7 @@
             }
           },
           {
-            "id": "f7f858ce2ecbf4cf",
+            "id": "221cea6cb2664d20",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +114,7 @@
             }
           },
           {
-            "id": "4a18ef7d33a624e7",
+            "id": "deebb21592b82490",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -157,13 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "843e27c158618e0c",
-  "lastOpenFiles": [
-    "00 - Content/Templates",
-    "00 - Content",
-    "03 - Story",
-    "02 - World",
-    "01 - Characters",
-    "Welcome.md"
-  ]
+  "active": "91de7e9fc1f5cc05",
+  "lastOpenFiles": []
 }

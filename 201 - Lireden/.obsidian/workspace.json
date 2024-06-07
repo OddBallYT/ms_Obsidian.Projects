@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeons/Abandoned Mansion.md",
+                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons/Abandoned Mansion.md",
+                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons/Abandoned Mansion.md",
+                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons/Abandoned Mansion.md"
+                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md"
               }
+            }
+          },
+          {
+            "id": "deeaa282ef22c90e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
             }
           }
         ]
@@ -138,21 +146,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "248ffc014752346c",
+  "active": "f4a2a10cd92b8cf5",
   "lastOpenFiles": [
     "01 - Campaign/Sessions/24-05-24 Session 10.md",
+    "01 - Campaign/Sessions/07-06-24 Session 11.md",
+    "Dungeons/Abandoned Mansion.md",
+    "03 - Items/Opulent Dagger.md",
+    "03 - Items/Opalance.md",
+    "00 - Content/Properties/Light.md",
+    "00 - Content/Properties/Versatile.md",
+    "00 - Content/Properties/Two-Handed.md",
+    "00 - Content/Properties/Thrown.md",
+    "00 - Content/Properties/Special.md",
+    "00 - Content/Properties/Reach.md",
+    "00 - Content/Properties/Range.md",
+    "00 - Content/Properties/Loading.md",
+    "00 - Content/Properties/Heavy.md",
+    "00 - Content/Properties/Finesse.md",
+    "00 - Content/Properties",
+    "03 - Items",
     "00 - Content/Images/Maps/map_abandoned.mansion.png",
     "00 - Content/Images/Maps",
     "00 - Content/Images",
-    "Dungeons/Abandoned Mansion.md",
     "00 - Content/Templates",
     "00 - Content",
     "Dungeons",
