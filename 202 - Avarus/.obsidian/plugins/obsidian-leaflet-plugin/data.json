@@ -1,0 +1,317 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Saulker_map",
+      "locked": true,
+      "lastAccessed": 1718347088871,
+      "markers": [
+        {
+          "id": "ID_bbc9e92b19cb",
+          "type": "legal-marker",
+          "loc": [
+            660.6875,
+            770.504832806427
+          ],
+          "link": "Town Hall",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "I",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b396aaae9ca",
+          "type": "tavern-marker",
+          "loc": [
+            768.1610323246234,
+            845.8792372680887
+          ],
+          "link": "The Coppermug",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "II",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3988b9f938f9",
+          "type": "faction-hq-marker",
+          "loc": [
+            895.440252938202,
+            727.0785675702134
+          ],
+          "link": "Trawler Houses' HQ",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "VIII",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_291a8919e81b",
+          "type": "shop-marker",
+          "loc": [
+            821.2161380005267,
+            702.1645093346864
+          ],
+          "link": "Saulker#III. Market",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "III",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bdbfa58392b",
+          "type": "social-poi-marker",
+          "loc": [
+            798.5887210025572,
+            905.8228002453294
+          ],
+          "link": "Saulker#IV. Greenpark",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "IV",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b1aa89808a9",
+          "type": "social-poi-marker",
+          "loc": [
+            294.27795495162025,
+            529.7106393249207
+          ],
+          "link": "Saulker#IX. Saulklong Bridge",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "IX",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b496a689aaa",
+          "type": "religious-centre-marker",
+          "loc": [
+            1050.318735104968,
+            956.7373729729904
+          ],
+          "link": "Saulker#V. Shrine of Chauntea",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "V",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb3829db2929",
+          "type": "social-poi-marker",
+          "loc": [
+            1103.671875,
+            902.6279645556424
+          ],
+          "link": "Saulker#VII. Saulker School",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "VII",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_093b2ac91928",
+          "type": "faction-hq-marker",
+          "loc": [
+            866.34375,
+            1044.2615381128826
+          ],
+          "link": "Watchers of the Moon HQ",
+          "layer": "%5B%5BSaulker.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "VI",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "03 - World/Cities/Saulker/00 Saulker.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "shop-marker",
+      "iconName": "coins",
+      "color": "#ece9e4",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "harbour-marker",
+      "iconName": "anchor",
+      "color": "#ece9e4",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "tavern-marker",
+      "iconName": "beer",
+      "color": "#ece9e4",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "faction-hq-marker",
+      "iconName": "handshake",
+      "color": "#ece9e4",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "religious-centre-marker",
+      "iconName": "praying-hands",
+      "color": "#ece9e4",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "social-poi-marker",
+      "iconName": "comment",
+      "color": "#ece9e4",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "legal-marker",
+      "iconName": "balance-scale",
+      "color": "#ece9e4",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

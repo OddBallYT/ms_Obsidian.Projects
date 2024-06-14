@@ -7,7 +7,7 @@
 > | Title | [title] |
 > | Age | [age] |
 > | Race | Human |
-> | Residency | [[Saulker]] |
+> | Residency | [[00 Saulker]] |
 > | Birthday | [DD/MM/YY] |
 > | Family | [family] |
 

@@ -23,7 +23,7 @@ A sleek, long, and thin pearlescent blade, with a black marbled obsidian handgua
 ***Banishment.*** You can expend a charge, and attack a creature. If the creature is, or below 20 health, the creature phases in and out of visibility, before disappearing. You then temporarily increase your dexterity by 1. Bonuses stack, but are lost on long rest. 
 
 ##### DM Notes
-Occasionally, when the player uses the ***Walk Beyond Light*** ability, an effect happens. The effects of Opalance, can be found in the [[The Chosen of Mask]] Campaign Thread.
+Occasionally, when the player uses the ***Walk Beyond Light*** ability, an effect happens. The effects of Opalance, can be found in the [[2-001 The Chosen of Mask]] Campaign Thread.
 
 ###### Tags
 #Combat #Cursed #Damage #Magic
