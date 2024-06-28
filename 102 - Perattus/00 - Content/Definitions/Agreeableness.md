@@ -1,0 +1,1 @@
+Refers to how people tend to treat relationships with others. Unlike extraversion which consists of the pursuit of relationships, agreeableness focuses on people’s orientation and interactions with others.

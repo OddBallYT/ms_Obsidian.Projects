@@ -1,13 +1,12 @@
 {
-  "ITS@@select": "none",
   "ITS@@mini": false,
-  "ITS@@notion": false,
+  "ITS@@notion": true,
   "ITS@@its-d": false,
-  "ITS@@nord": true,
+  "ITS@@nord": false,
   "ITS@@drwn": false,
   "ITS@@t-d": false,
   "ITS@@s-d": false,
-  "ITS@@slrvb-g": true,
+  "ITS@@slrvb-g": false,
   "ITS@@slrvb-b": false,
   "ITS@@accent-color": false
 }

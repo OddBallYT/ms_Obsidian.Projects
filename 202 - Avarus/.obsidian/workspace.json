@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
+                "file": "03 - World/Cities/Saulker/00 Saulker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
+                "file": "03 - World/Cities/Saulker/00 Saulker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
+                "file": "03 - World/Cities/Saulker/00 Saulker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md"
+                "file": "03 - World/Cities/Saulker/00 Saulker.md"
               }
             }
           }
@@ -184,8 +184,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5f40367d3ec4d982",
+  "active": "548801d68803200e",
   "lastOpenFiles": [
+    "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
     "~WRL0004.tmp",
     "~WRD0003.tmp",
     "~$arus Campaign Book.docx",
@@ -200,7 +201,6 @@
     "Alvyn Falshroud.md",
     "02 - Entities/Characters/Non-Players/Everett Reed.md",
     "00 - Content/Templates/_130524_sheet.session.md",
-    "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
     "03 - World/Dungeons/The Pyramid.md",
     "03 - World/Dungeons/Sunken Library.md",
     "03 - World/Dungeons/Iron Fortress.md",
@@ -222,7 +222,6 @@
     "01 - Campaign/Main Story/Untitled",
     "01 - Campaign/01 - Main Story",
     "03 - World/Cities/Vershaw",
-    "03 - World/Cities/Colstoe's Fall",
     "00 - Content/Maps/City/Saulker.png",
     "00 - Content/Maps/City/Saulker.svg",
     "00 - Content/Maps/Dungeon/map_arcspire_floor.-2.png",
