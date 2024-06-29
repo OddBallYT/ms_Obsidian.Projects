@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97031f7ec0ec81be",
+            "id": "03687f29b03988ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - World/Eldewind/Eldewind.md",
+                "file": "01 - People/Living/Frith.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09db4433dc0e154f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - World/Eldewind/Eldewind.md",
+                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - World/Eldewind/Eldewind.md",
+                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,15 +140,143 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - World/Eldewind/Eldewind.md"
+                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md"
+              }
+            }
+          },
+          {
+            "id": "f94c81a63c13bc9e",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b9fa395aa9f8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 11,
+                    "month": 9,
+                    "year": 8940
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_dae8497a9bfa"
+              }
+            }
+          },
+          {
+            "id": "cf89ab5bd455a3b2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b9fa395aa9f8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 11,
+                    "month": 9,
+                    "year": 8940
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_e86a28b88a88"
+              }
+            }
+          },
+          {
+            "id": "b52a90bb21dd2cef",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b9fa395aa9f8",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 11,
+                    "month": 9,
+                    "year": 8940
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_e91b5a2979a9"
+              }
+            }
+          },
+          {
+            "id": "3bef756b115d2680",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b9fa395aa9f8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 11,
+                    "month": 9,
+                    "year": 8940
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_5ad918e83b49"
+              }
+            }
+          },
+          {
+            "id": "2afd81cb62d9ca3a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b9fa395aa9f8",
+                "ephemeral": {
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 11,
+                    "month": 0,
+                    "year": 8857
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_4b295849095b"
+              }
+            }
+          },
+          {
+            "id": "185b5aad9dbc2ad5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b9fa395aa9f8",
+                "ephemeral": {
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 1,
+                    "month": 9,
+                    "year": 8857
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_9a0bbaa8eafa"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -151,43 +293,51 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "97031f7ec0ec81be",
+  "active": "09db4433dc0e154f",
   "lastOpenFiles": [
-    "01 - Characters/Eldewind/Direhal/Ylva.md",
-    "01 - Characters/Eldewind/Weshare/Clifford.md",
-    "00 - Content/Templates/_020624_sheet.char.md",
-    "01 - Characters/Eldewind/Weshare",
-    "01 - Characters/Eldewind/Direhal",
-    "01 - Characters/Eldewind",
-    "00 - Content/Images/Maps/Realm/map-eldewind.png",
-    "00 - Content/Templates/_030524_callout.altnames.md",
-    "00 - Content/Images/Characters/Clifford.png",
-    "03 - World/Eldewind/Geographic/The Setting Sea.md",
-    "03 - World/Eldewind/Political",
-    "03 - World/Eldewind",
-    "05 - History/Events",
-    "05 - History/Figures/Ikfel.md",
-    "04 - Story",
-    "00 - Content/Daily Notes",
-    "00 - Content/Spreadsheets/_020524_spreadsheet.ljakelskan.md",
-    "03 - World/Religion",
-    "05 - History/Figures",
-    "00 - Content/Templates/_020524_infobox.char.md",
-    "07 - Dictionary/Waystone.md",
-    "07 - Dictionary/Realm.md",
-    "Image.png.md",
-    "06 - Language/Ljakelskan.md",
-    "03 - World/Eldewind/Conglomerates/The New Union.md",
-    "Ljakenvel.md",
-    "Tue.md",
-    "03 - World/Locations/Towns/Conton.md",
+    "00 - Content/0003 - Templates/Sheets/_sheet.character_basic.md",
+    "00 - Content/0003 - Templates/Sheets/_sheet.character_main.md",
+    "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
+    "01 - People/Living/Balden.md",
+    "03 - Story/0302 - Plotter/King Balden.md",
+    "00 - Content/0001 - Images/Locations/Profiles/Baldengard.png",
+    "00 - Content/0002 - Dictionary/Hvatadrikvatan.md",
+    "01 - People/Living/Frith.md",
+    "01 - People/Yet To Be Born/Clifford.md",
+    "01 - People/Yet To Be Born/Ylva.md",
+    "00 - Content/0002 - Dictionary/Realm.md",
+    "00 - Content/0002 - Dictionary/Waystone.md",
+    "00 - Content/0003 - Templates/Callouts/info.md",
+    "00 - Content/0003 - Templates/Callouts/columns.md",
+    "01 - People/Living/Mikar Halan.md",
+    "00 - Content/0001 - Images/Characters/Balden.png",
+    "01 - People/Yet To Be Born",
+    "01 - People/Dead",
+    "01 - People/Living",
+    "00 - Content/Tags.md",
+    "03 - Story/0302 - Plotter/War For Death.md",
+    "03 - Story/0302 - Plotter",
+    "00 - Content/0001 - Images/Characters/Frith.png",
+    "02 - World/0201 - Geographic/Water/The Setting Sea.md",
+    "02 - World/0201 - Geographic/Forests",
+    "02 - World/0201 - Geographic/Mountains",
+    "02 - World/0201 - Geographic/Water",
+    "Clifford.md",
+    "02 - World/0203 - History/Figures/Ikfel.md",
+    "02 - World/0203 - History/Events",
+    "02 - World/0203 - History/Figures",
     "03 - World/Eldewind/Eldewind.md",
-    "03 - World/Regions/Political/Realms/Eldewind/Weshare/Bentford Hold/Bentford Hold.md",
-    "03 - World/Regions/Political/Realms/Eldewind/Direhal/Jendlek/Baldengard.md",
-    "00 - Content/Images/Characters/Ylva.png",
-    "New Union Calendar.md",
+    "03 - World/Eldewind/Conglomerates/The New Union.md",
+    "01 - Characters/Eldewind/Direhal/Ylva.md",
+    "new/$ Overview $.md",
+    "new/Overview.md",
+    "00 - Content/0003 - Templates/Callouts/aside.md",
+    "00 - Content/0001 - Images/Locations/Profiles",
+    "00 - Content/0001 - Images/Characters/Clifford.png",
+    "00 - Content/0001 - Images/Characters/Ylva.png",
+    "00 - Content/Images/Maps/Realm/map-eldewind.png",
+    "06 - Language/Ljakelskan.md",
     "00 - Content/Images/Maps/Realm/map-eldewind.jpg",
-    "03 - World/Untitled.canvas",
-    "Welcome.md"
+    "03 - World/Untitled.canvas"
   ]
 }

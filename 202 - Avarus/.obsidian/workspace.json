@@ -14,7 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "03 - World/Cities/Saulker/00 Saulker.md",
+<<<<<<< HEAD
                 "mode": "preview",
+=======
+                "mode": "source",
+>>>>>>> e65f57f76d381de082679bc4e350a03975945b0f
                 "backlinks": true,
                 "source": false
               }
@@ -169,6 +173,7 @@
   },
   "active": "548801d68803200e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "03 - World/Dungeons/Arcspire.md",
     "~WRL2278.tmp",
     "~WRD1746.tmp",
@@ -177,6 +182,8 @@
     "02 - Entities/Characters/Non-Players/Everett Reed.md",
     "~WRL3093.tmp",
     "~WRD2585.tmp",
+=======
+>>>>>>> e65f57f76d381de082679bc4e350a03975945b0f
     "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
     "~WRL0004.tmp",
     "~WRD0003.tmp",
@@ -205,6 +212,12 @@
     "05 - Game/Rules/Switching Weapons.md",
     "05 - Game/Rules/Retrying Ability Checks.md",
     "05 - Game/Rules/Crippling.md",
+<<<<<<< HEAD
+=======
+    "01 - Campaign/Main Story/Untitled",
+    "01 - Campaign/01 - Main Story",
+    "03 - World/Cities/Vershaw",
+>>>>>>> e65f57f76d381de082679bc4e350a03975945b0f
     "00 - Content/Maps/City/Saulker.png",
     "00 - Content/Maps/City/Saulker.svg",
     "00 - Content/Maps/Dungeon/map_arcspire_floor.-2.png",

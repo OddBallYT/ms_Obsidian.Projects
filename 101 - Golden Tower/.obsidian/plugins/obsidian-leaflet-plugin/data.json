@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "map-eldewind",
-      "lastAccessed": 1714697214904,
+      "lastAccessed": 1719203622935,
       "markers": [
         {
           "id": "ID_199b786afad9",
@@ -39,9 +39,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "03 - World/Regions/Political/Realms/Eldewind.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

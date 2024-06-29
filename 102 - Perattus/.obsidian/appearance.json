@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "Reverie",
+  "enabledCssSnippets": [
+    "ms-snippets"
+  ]
 }
