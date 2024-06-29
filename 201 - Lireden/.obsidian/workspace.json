@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md",
+                "file": "Dungeons/Abandoned Mansion.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f351394a891b6fcc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md",
+                "file": "Dungeons/Abandoned Mansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md",
+                "file": "Dungeons/Abandoned Mansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Campaign/Sessions/07-06-24 Session 11.md"
+                "file": "Dungeons/Abandoned Mansion.md"
               }
             }
           },
@@ -156,13 +167,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f4a2a10cd92b8cf5",
+  "active": "f351394a891b6fcc",
   "lastOpenFiles": [
+    "03 - Items/Opalance.md",
+    "Dungeons/Abandoned Mansion.md",
     "01 - Campaign/Sessions/24-05-24 Session 10.md",
     "01 - Campaign/Sessions/07-06-24 Session 11.md",
-    "Dungeons/Abandoned Mansion.md",
     "03 - Items/Opulent Dagger.md",
-    "03 - Items/Opalance.md",
     "00 - Content/Properties/Light.md",
     "00 - Content/Properties/Versatile.md",
     "00 - Content/Properties/Two-Handed.md",

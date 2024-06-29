@@ -8,36 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0097f2189deb357e",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8f1790171d9f15da",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
             "id": "548801d68803200e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
-                "mode": "source",
+                "file": "03 - World/Cities/Saulker/00 Saulker.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
+                "file": "03 - World/Cities/Saulker/00 Saulker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
+                "file": "03 - World/Cities/Saulker/00 Saulker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md"
+                "file": "03 - World/Cities/Saulker/00 Saulker.md"
               }
             }
           }
@@ -184,13 +167,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5f40367d3ec4d982",
+  "active": "548801d68803200e",
   "lastOpenFiles": [
+    "03 - World/Dungeons/Arcspire.md",
+    "~WRL2278.tmp",
+    "~WRD1746.tmp",
+    "~WRL2473.tmp",
+    "~WRD2281.tmp",
+    "02 - Entities/Characters/Non-Players/Everett Reed.md",
+    "~WRL3093.tmp",
+    "~WRD2585.tmp",
+    "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
     "~WRL0004.tmp",
     "~WRD0003.tmp",
     "~$arus Campaign Book.docx",
     "Avarus Campaign Book.docx",
-    "New Microsoft Word Document.docx",
     "03 - World/Cities/Saulker/00 Saulker.md",
     "03 - World/Cities/Saulker/Watchers of the Moon HQ.md",
     "02 - Entities/Characters/Non-Players/Reymon Abbot.md",
@@ -198,31 +189,22 @@
     "02 - Entities/Characters/Non-Players/Simcoe Canis.md",
     "02 - Entities/Characters/Non-Players/Ayrin'Jae.md",
     "Alvyn Falshroud.md",
-    "02 - Entities/Characters/Non-Players/Everett Reed.md",
     "00 - Content/Templates/_130524_sheet.session.md",
-    "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
     "03 - World/Dungeons/The Pyramid.md",
     "03 - World/Dungeons/Sunken Library.md",
     "03 - World/Dungeons/Iron Fortress.md",
     "03 - World/Dungeons/Frozen Citadel.md",
     "03 - World/Dungeons/Colstoe's Cave.md",
-    "03 - World/Dungeons/Arcspire.md",
     "03 - World/Cities/Black Rock/00 Black Rock.md",
     "00 - Content/Maps/City/Black Rock.png",
-    "02 - Entities/Characters/Players",
     "05 - Game/Rules/Hunting.md",
     "01 - Campaign/Quests/2-001 The Chosen of Mask.md",
-    "01 - Campaign/00 - Sessions",
     "01 - Campaign/Untitled.md",
     "01 - Campaign/Outline.md",
     "03 - World/Avarus.md",
     "05 - Game/Rules/Switching Weapons.md",
     "05 - Game/Rules/Retrying Ability Checks.md",
     "05 - Game/Rules/Crippling.md",
-    "01 - Campaign/Main Story/Untitled",
-    "01 - Campaign/01 - Main Story",
-    "03 - World/Cities/Vershaw",
-    "03 - World/Cities/Colstoe's Fall",
     "00 - Content/Maps/City/Saulker.png",
     "00 - Content/Maps/City/Saulker.svg",
     "00 - Content/Maps/Dungeon/map_arcspire_floor.-2.png",

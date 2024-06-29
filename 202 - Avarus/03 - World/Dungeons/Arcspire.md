@@ -9,7 +9,7 @@
 >> > ###### Arcspire Features
 >> > In the absence of the [[Arc Emergents|Emergents]], the arcane magic of Arcspire has gone unchecked, developing, and evolving into unpredictable forms, as well as the creatures who were the subject of experimentation. The upper floors are less occupied, and less subject to the wild magic, but as one travels deeper, the magic, and beasts become more prominent.
 >> > ***Arcane Force.*** Throughout the entire facility, small blue and purple lights dance about, with a general, and dense feel of the arcane throughout.
->> > ***Arrow Slits.*** When using an arrow slit for protection, a creature gains three-quarters cover (see the rulebook) against outside threats. A Medium character can't squeeze through an arrow slit, but a Small character can with a siccessful DC 10 dexterity (acrobatics) check. 
+>> > ***Arrow Slits.*** When using an arrow slit for protection, a creature gains three-quarters cover (see the rulebook) against outside threats. A Medium character can't squeeze through an arrow slit, but a Small character can with a successful DC 10 dexterity (acrobatics) check. 
 >> > ***Ceilings.*** Ceilings throughout are ten feet high and flat, unless the text says otherwise
 >> > ***Chimneys.*** Fireplaces throughout Arcspire are built from the same glassy black stone, and filter out directly out the wall. Some of those chimneys can be used to gain access to the tower.
 >> > ***Doors.*** Regular doors are made of thick dark brown wood, reinforced with rusted iron bands and fitted with iron hinges and handles.
@@ -24,7 +24,7 @@
 >> > [!recite|bg-green] ‎ 
 >> > A tower, sitting atop the summit of [[Mount Arcmire]]. Glassy black stones bordered with white mortar. Surrounded by thick wisps of bluish cloud slowly spiraling around it. Twenty-five feet up, the tower broken open, the remnants scattered across the mountain top. Narrow arrow slits carved into the stone, the inside dark, revealing no signs of occupation.  
 >>
->> Entering the tower is the groups first challange
+>> Entering the tower is the groups first challenge. The large reinforced wood has swelled with age. A strength DC 20 check is needed to break it open.
 
 
 
