@@ -1,4 +1,6 @@
 {
-  "format": "DD/MM/YY",
-  "folder": "00 - Content/Daily Notes"
+  "format": "YY-MM-DD",
+  "folder": "04 - Tracking/0401 - Daily Notes",
+  "template": "00 - Content/0003 - Templates/Sheets/_sheet.daily_note",
+  "autorun": true
 }

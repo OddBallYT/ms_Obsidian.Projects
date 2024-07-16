@@ -20,7 +20,7 @@
 > | Height | h |
 > | Build | b |
 ### Summary
-%%A brief summary of the character, and their background%%
+The son of king [[Bjark]].
 
 ### Personality
 %%A brief description of the character's personality%%

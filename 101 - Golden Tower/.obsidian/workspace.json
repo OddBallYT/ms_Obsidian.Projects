@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b46fc417e7798d5",
+        "id": "f28e55ca361d74f9",
         "type": "tabs",
         "children": [
           {
-            "id": "03687f29b03988ec",
+            "id": "9cce578175ed6217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - People/Living/Frith.md",
+                "file": "01 - People/0103 - Dead/placeholder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "09db4433dc0e154f",
+            "id": "e4126ebb66860472",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
+                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
+                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
+                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md"
+                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md"
               }
             }
           },
@@ -293,50 +293,50 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "09db4433dc0e154f",
+  "active": "e4126ebb66860472",
   "lastOpenFiles": [
-    "00 - Content/0003 - Templates/Sheets/_sheet.character_basic.md",
+    "04 - Tracking/0401 - Daily Notes/24-07-16.md",
+    "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
+    "00 - Content/0001 - Images/Locations/Maps",
+    "01 - People/0102 - Living/Balden.md",
+    "02 - World/0205 - Linguistic/placeholder.md",
+    "02 - World/0206 - Biologic/020602 - Fauna/placeholder.md",
+    "02 - World/0206 - Biologic/020601 - Flora/placeholder.md",
+    "01 - People/0103 - Dead/placeholder.md",
+    "02 - World/0206 - Biologic/020602 - Fauna.md",
+    "02 - World/0206 - Biologic/020602 - Fauna",
+    "02 - World/0206 - Biologic/020601 - Flora",
+    "02 - World/0206 - Biologic",
+    "02 - World/0205 - Linguistic",
+    "02 - World/0202 - Civic/placeholder.md",
+    "02 - World/0204 - Religious/placeholder.md",
+    "03 - Story/0301 - Manuscript/placeholder.md",
+    "02 - World/0204 - Religious",
+    "02 - World/0202 - Civic",
+    "03 - Story/0301 - Manuscript",
+    "01 - People/0103 - Dead",
+    "01 - People/0102 - Living/Magnus.md",
+    "04 - Tracking/0402 - Tracking Utils/Progress Tracker.md",
+    "04 - Tracking/0401 - Daily Notes/24-07-02.md",
+    "04 - Tracking/0401 - Daily Notes/24-06-28.md",
+    "04 - Tracking/0401 - Daily Notes/24-06-29.md",
+    "04 - Tracking/0401 - Daily Notes/24-07-12.md",
+    "04 - Tracking/0401 - Daily Notes/24-07-13.md",
+    "03 - Story/0302 - Plotter/King Balden.md",
+    "01 - People/0102 - Living/Frith.md",
+    "00 - Content/0003 - Templates/Sheets/_sheet.daily_note.md",
+    "04 - Tracking/0401 - Daily Notes/29.md",
+    "04 - Tracking/0401 - Daily Notes/2024/Jun",
+    "04 - Tracking/0401 - Daily Notes/29/Jun/24.md",
     "00 - Content/0003 - Templates/Sheets/_sheet.character_main.md",
     "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
-    "01 - People/Living/Balden.md",
-    "03 - Story/0302 - Plotter/King Balden.md",
+    "00 - Content/0003 - Templates/Sheets/_sheet.character_basic.md",
     "00 - Content/0001 - Images/Locations/Profiles/Baldengard.png",
-    "00 - Content/0002 - Dictionary/Hvatadrikvatan.md",
-    "01 - People/Living/Frith.md",
-    "01 - People/Yet To Be Born/Clifford.md",
-    "01 - People/Yet To Be Born/Ylva.md",
-    "00 - Content/0002 - Dictionary/Realm.md",
-    "00 - Content/0002 - Dictionary/Waystone.md",
-    "00 - Content/0003 - Templates/Callouts/info.md",
-    "00 - Content/0003 - Templates/Callouts/columns.md",
-    "01 - People/Living/Mikar Halan.md",
     "00 - Content/0001 - Images/Characters/Balden.png",
-    "01 - People/Yet To Be Born",
-    "01 - People/Dead",
-    "01 - People/Living",
-    "00 - Content/Tags.md",
-    "03 - Story/0302 - Plotter/War For Death.md",
-    "03 - Story/0302 - Plotter",
     "00 - Content/0001 - Images/Characters/Frith.png",
-    "02 - World/0201 - Geographic/Water/The Setting Sea.md",
-    "02 - World/0201 - Geographic/Forests",
-    "02 - World/0201 - Geographic/Mountains",
-    "02 - World/0201 - Geographic/Water",
-    "Clifford.md",
-    "02 - World/0203 - History/Figures/Ikfel.md",
-    "02 - World/0203 - History/Events",
-    "02 - World/0203 - History/Figures",
-    "03 - World/Eldewind/Eldewind.md",
-    "03 - World/Eldewind/Conglomerates/The New Union.md",
-    "01 - Characters/Eldewind/Direhal/Ylva.md",
-    "new/$ Overview $.md",
-    "new/Overview.md",
-    "00 - Content/0003 - Templates/Callouts/aside.md",
-    "00 - Content/0001 - Images/Locations/Profiles",
     "00 - Content/0001 - Images/Characters/Clifford.png",
     "00 - Content/0001 - Images/Characters/Ylva.png",
     "00 - Content/Images/Maps/Realm/map-eldewind.png",
-    "06 - Language/Ljakelskan.md",
     "00 - Content/Images/Maps/Realm/map-eldewind.jpg",
     "03 - World/Untitled.canvas"
   ]
