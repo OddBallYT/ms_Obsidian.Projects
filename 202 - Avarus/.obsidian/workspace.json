@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Game/Rules/Throne.md",
+                "file": "03 - World/POIs/Forkjaw's Rest.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Game/Rules/Throne.md",
+                "file": "03 - World/POIs/Forkjaw's Rest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Game/Rules/Throne.md",
+                "file": "03 - World/POIs/Forkjaw's Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Game/Rules/Throne.md"
+                "file": "03 - World/POIs/Forkjaw's Rest.md"
               }
             }
           }
@@ -154,23 +154,42 @@
   },
   "active": "95110ca1c2023424",
   "lastOpenFiles": [
-    "05 - Game/Rules/Switching Weapons.md",
-    "05 - Game/Rules/Throne.md",
-    "03 - World/Dungeons/Arcspire.md",
+    "04 - Items/Common/Embrelead.md",
+    "03 - World/POIs/Forkjaw's Rest.md",
+    "03 - World/POIs",
+    "04 - Items/Unique/Bottle of Frostfell.md",
+    "03 - World/Cities/Saulker/The Coppermug.md",
+    "00 - Content/Templates/Sheets/_280724_sheet.citem.md",
+    "00 - Content/Templates/Sheets/_190524_sheet.item.md",
+    "00 - Content/Templates/_270524_statblock.md",
+    "00 - Content/Templates/Sheets",
+    "00 - Content/Templates/_020624_callout.aside.md",
+    "00 - Content/Templates/_020624_callout.image.md",
+    "00 - Content/Templates/_120624_leaflet.map.md",
+    "00 - Content/Templates/_130524_callout.timeline.md",
+    "00 - Content/Templates/Sheets/_130524_sheet.npc.md",
+    "00 - Content/Templates/Sheets/_130524_sheet.session.md",
+    "00 - Content/Templates/Sheets/_140524_sheet.town.md",
+    "00 - Content/Templates/_160524_callout.columns.md",
+    "00 - Content/Templates/Sheets/_300524_sheet.dungeon.md",
+    "03 - World/Cities/Saulker/00 Saulker.md",
+    "03 - World/Cities/Saulker/Market.md",
+    "04 - Items/Unique",
+    "04 - Items/Common",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Non-Player Icon Legend.md",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Reymon Abbot.md",
+    "03 - World/Dungeons/Arcspire.md",
+    "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
+    "01 - Campaign/Quests/2-001 The Chosen of Mask.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
+    "00 - Content/Maps/Dungeon/map_coppermug.inn.png",
+    "03 - World/Cities/Saulker/Watchers of the Moon HQ.md",
+    "03 - World/Cities/Saulker/Trawler Houses' HQ.md",
+    "03 - World/Cities/Saulker/Town Hall.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Colstoe's Fall/Untitled",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Vershaw",
     "02 - Entities/0201 - Characters/020102 - Non-Players/00 - Outlands/Untitled",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Colstoe's Fall",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Arkley",
-    "03 - World/Cities/Saulker/00 Saulker.md",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Black Rock",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker",
-    "02 - Entities/0201 - Characters/020101 - Player",
-    "02 - Entities/0201 - Characters/Untitled Kanban.md",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/00 - Outlands",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Simcoe Canis.md",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/00 NPC Tracker.md"
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Black Rock"
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaLighthouse",
+      "RaBrandyBottle",
       "RaHeartsCard",
       "RaPineTree",
-      "RaBook",
-      "RaGearHammer",
-      "RaCrystalWand"
+      "RaBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,14 +43,11 @@
   "00 - Content/Templates": "RaCog",
   "01 - Campaign/Daily Notes": "RaClockwork",
   "01 - Campaign/Sessions": "RaCompass",
-  "02 - Entities/Characters/Players": "RaHand",
-  "04 - Items/Bottle of Frostfell.md": "RaBrandyBottle",
   "05 - Game/Rules/Hunting.md": "RaArcher",
   "05 - Game/Rules/Crippling.md": "RaBrokenSkull",
   "05 - Game/Rules/Retrying Ability Checks.md": "RaCycle",
   "00 - Content/Properties": "RaCrystals",
   "05 - Game/Rules/Switching Weapons.md": "RaAmmoBag",
-  "04 - Items/Opalance.md": "RaBroadsword",
   "03 - World/Cities": "RaCapitol",
   "03 - World/Dungeons": "RaTower",
   "03 - World/Geography": "RaLeaf",
@@ -96,5 +93,10 @@
   "02 - Entities/0201 - Characters/020102 - Non-Players/Black Rock": "RaGearHammer",
   "02 - Entities/0201 - Characters/020102 - Non-Players/Arkley": "RaBook",
   "02 - Entities/0201 - Characters/020102 - Non-Players/00 - Outlands": "RaPineTree",
-  "05 - Game/Rules/Throne.md": "RaHeartsCard"
+  "05 - Game/Rules/Throne.md": "RaHeartsCard",
+  "02 - Entities/0201 - Characters/Players": "RaHand",
+  "04 - Items/Unique/Bottle of Frostfell.md": "RaBrandyBottle",
+  "04 - Items/Unique/Opalance.md": "RaBroadsword",
+  "04 - Items/Common/Embrelead.md": "RaBrandyBottle",
+  "03 - World/POIs": "RaLighthouse"
 }

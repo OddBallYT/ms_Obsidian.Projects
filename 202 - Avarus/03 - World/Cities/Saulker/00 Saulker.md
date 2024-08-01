@@ -30,7 +30,8 @@ darkMode: false
 ### Keyed Locations
 #### I. Town Hall
 #### II. Coppermug Inn/Tavern
-An inn and tavern run by the gnome [[Tansy Coppermug]]. Is the only inn and tavern in town, thus is home to much of the town's entertainment, and business. Games of [[Throne]] are always being played at the large round table in the back right corner. On the left wall, is a small raised stage where 
+An inn and tavern run by the gnome [[Tansy Coppermug]]. Is the only inn and tavern in town, thus is home to much of the town's entertainment, and business. Games of [[Throne]] are always being played at the large round table in the front right corner. On the back right wall, is a small raised stage where the gnomish bard __ frequently plays, in the evenings. 
+
 #### III. Market
 #### IV. Greenpark
 A large greenspace in the center of town. Serves as a common meeting space  for friends, family and colleagues. A large circular stone pond in the middle is the home of dozens of small fish, of varying types, and sizes.

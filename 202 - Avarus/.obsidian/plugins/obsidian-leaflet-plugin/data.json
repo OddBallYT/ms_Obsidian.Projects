@@ -3,7 +3,7 @@
     {
       "id": "Saulker_map",
       "locked": true,
-      "lastAccessed": 1718347088871,
+      "lastAccessed": 1722195876507,
       "markers": [
         {
           "id": "ID_bbc9e92b19cb",
@@ -163,6 +163,35 @@
       "shapes": [],
       "files": [
         "03 - World/Cities/Saulker/00 Saulker.md"
+      ]
+    },
+    {
+      "id": "coppermug_inn",
+      "locked": true,
+      "lastAccessed": 1722195881765,
+      "markers": [
+        {
+          "id": "ID_e8c8f92a486b",
+          "type": "social-poi-marker",
+          "loc": [
+            883.875,
+            926.8640759830892
+          ],
+          "link": "The Coppermug#II. Throne Table",
+          "layer": "%5B%5Bmap_coppermug.inn.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "03 - World/Cities/Saulker/The Coppermug.md"
       ]
     }
   ],

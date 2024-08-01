@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - People/0103 - Dead/placeholder.md",
+                "file": "01 - Characters/0101 - People/010103 - Dead/placeholder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
+                "file": "04 - Tracking/0401 - Daily Notes/24-07-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
+                "file": "04 - Tracking/0401 - Daily Notes/24-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
+                "file": "04 - Tracking/0401 - Daily Notes/24-07-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Content/0001 - Images/Locations/Maps/placeholder.md"
+                "file": "04 - Tracking/0401 - Daily Notes/24-07-22.md"
               }
             }
           },
@@ -295,27 +295,34 @@
   },
   "active": "e4126ebb66860472",
   "lastOpenFiles": [
+    "02 - World/0203 - Historic/Figures/Hvadir.md",
+    "04 - Tracking/0401 - Daily Notes/24-07-22.md",
+    "Skothrodar Road.md",
+    "02 - World/0203 - Historic/Figures/Ikfel.md",
+    "04 - Tracking/0401 - Daily Notes/24-07-17.md",
+    "01 - Characters/0101 - People/010102 - Living/Frith.md",
+    "02 - World/0204 - Religious/placeholder.md",
+    "02 - World/0202 - Civic/placeholder.md",
     "04 - Tracking/0401 - Daily Notes/24-07-16.md",
+    "01 - Characters/0102 - Ancestry",
+    "01 - Characters/0101 - People",
     "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
     "00 - Content/0001 - Images/Locations/Maps",
-    "01 - People/0102 - Living/Balden.md",
+    "01 - Characters/0101 - People/010102 - Living/Balden.md",
     "02 - World/0205 - Linguistic/placeholder.md",
     "02 - World/0206 - Biologic/020602 - Fauna/placeholder.md",
     "02 - World/0206 - Biologic/020601 - Flora/placeholder.md",
-    "01 - People/0103 - Dead/placeholder.md",
+    "01 - Characters/0101 - People/010103 - Dead/placeholder.md",
     "02 - World/0206 - Biologic/020602 - Fauna.md",
     "02 - World/0206 - Biologic/020602 - Fauna",
     "02 - World/0206 - Biologic/020601 - Flora",
     "02 - World/0206 - Biologic",
     "02 - World/0205 - Linguistic",
-    "02 - World/0202 - Civic/placeholder.md",
-    "02 - World/0204 - Religious/placeholder.md",
     "03 - Story/0301 - Manuscript/placeholder.md",
     "02 - World/0204 - Religious",
     "02 - World/0202 - Civic",
     "03 - Story/0301 - Manuscript",
-    "01 - People/0103 - Dead",
-    "01 - People/0102 - Living/Magnus.md",
+    "01 - Characters/0101 - People/010102 - Living/Magnus.md",
     "04 - Tracking/0402 - Tracking Utils/Progress Tracker.md",
     "04 - Tracking/0401 - Daily Notes/24-07-02.md",
     "04 - Tracking/0401 - Daily Notes/24-06-28.md",
@@ -323,14 +330,7 @@
     "04 - Tracking/0401 - Daily Notes/24-07-12.md",
     "04 - Tracking/0401 - Daily Notes/24-07-13.md",
     "03 - Story/0302 - Plotter/King Balden.md",
-    "01 - People/0102 - Living/Frith.md",
     "00 - Content/0003 - Templates/Sheets/_sheet.daily_note.md",
-    "04 - Tracking/0401 - Daily Notes/29.md",
-    "04 - Tracking/0401 - Daily Notes/2024/Jun",
-    "04 - Tracking/0401 - Daily Notes/29/Jun/24.md",
-    "00 - Content/0003 - Templates/Sheets/_sheet.character_main.md",
-    "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
-    "00 - Content/0003 - Templates/Sheets/_sheet.character_basic.md",
     "00 - Content/0001 - Images/Locations/Profiles/Baldengard.png",
     "00 - Content/0001 - Images/Characters/Balden.png",
     "00 - Content/0001 - Images/Characters/Frith.png",

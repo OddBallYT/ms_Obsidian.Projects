@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaDeadTree",
+      "RaDoubleTeam",
       "RaChessboard",
       "RaFox",
-      "RaFlowers",
-      "RaBleedingHearts",
-      "RaVirgo"
+      "RaFlowers"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,13 +47,8 @@
   "00 - Content/0001 - Images/Locations": "RaCastleFlag",
   "00 - Content/0001 - Images/Locations/Maps": "RaChessboard",
   "00 - Content/0001 - Images/Locations/Profiles": "RaCastleEmblem",
-  "01 - People": "RaPlayer",
   "02 - World": "RaCompass",
   "02 - World/0201 - Geographic": "RaFlower",
-  "02 - World/0202 - Civil": "RaTower",
-  "02 - World/0204 - Language": "RaCapricorn",
-  "02 - World/0205 - Religion": "RaMatch",
-  "02 - World/0203 - History/Events": "RaAllForOne",
   "02 - World/0201 - Geographic/Water": "RaOceanEmblem",
   "03 - Story": "RaQuillInk",
   "03 - Story/0301 - Manuscript": "RaScrollUnfurled",
@@ -63,9 +58,6 @@
   "04 - Tracking": "RaArcheryTarget",
   "04 - Tracking/0401 - Daily Notes": "RaSun",
   "04 - Tracking/0402 - Tracking Utils": "RaWrench",
-  "01 - People/0101 - Yet To Be Born": "RaMoonSun",
-  "01 - People/0102 - Living": "RaSprout",
-  "01 - People/0103 - Dead": "RaBrokenSkull",
   "02 - World/0204 - Religious": "RaAnkh",
   "02 - World/0202 - Civic": "RaTower",
   "02 - World/0205 - Linguistic": "RaVirgo",
@@ -73,5 +65,12 @@
   "02 - World/0206 - Biologic/020601 - Flora": "RaFlowers",
   "02 - World/0206 - Biologic/020602 - Fauna": "RaFox",
   "02 - World/0203 - Historic": "RaCandle",
-  "02 - World/0203 - Historic/Figures": "RaArcher"
+  "02 - World/0203 - Historic/Figures": "RaArcher",
+  "01 - Characters": "RaPlayer",
+  "01 - Characters/0101 - People/010101 - Yet To Be Born": "RaMoonSun",
+  "01 - Characters/0101 - People/010102 - Living": "RaSprout",
+  "01 - Characters/0101 - People/010103 - Dead": "RaBrokenSkull",
+  "01 - Characters/0101 - People": "RaDoubleTeam",
+  "01 - Characters/0102 - Ancestry": "RaDeadTree",
+  "02 - World/0203 - Historic/Events": "RaAllForOne"
 }
