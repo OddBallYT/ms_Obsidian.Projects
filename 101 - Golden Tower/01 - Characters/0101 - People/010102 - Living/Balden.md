@@ -20,7 +20,7 @@
 > | Height | h |
 > | Build | b |
 ### Summary
-The son of king [[Bjark]].
+The son of king [[Bjark]]. Born as prince of the [[00 Estmar]]. After the death of his father, when he was young, the kings of the [[Jendlek]] and [[Sovair]] sought to kill him and take his lands, seeing his young age as a weakness. After a hard fought battle, and the help of his uncle [[Magnus]], who had become king of the [[Gerndel]], he pulled a surprising victory, and led a campaign to kill the kings of those who sought to kill him.
 
 ### Personality
 %%A brief description of the character's personality%%
@@ -43,6 +43,8 @@ The son of king [[Bjark]].
 
 ### Relationships
 > [!kith|romantic] **[[Frith]]** _Raised together, became close, developed romantic relationship_
+
+> [!kith|family] **[[Magnus]]** _Uncle_
 
 > [!kith|family] **[[Bjark]]** _Father_
 

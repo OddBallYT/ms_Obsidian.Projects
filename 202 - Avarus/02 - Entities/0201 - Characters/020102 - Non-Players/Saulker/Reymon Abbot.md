@@ -4,10 +4,10 @@
 > ###### Overview
 > | Type | Stat |
 > | ---- | ---- |
-> | Title | Baron of [[00 Saulker]] |
+> | Title | Baron of [[Saulker]] |
 > | Age | [age] |
 > | Race | Human |
-> | Residency | [[00 Saulker]] |
+> | Residency | [[Saulker]] |
 > | Birthday | [DD/MM/YY] |
 > | Family | [family] |
 
@@ -28,7 +28,7 @@ Baron of Saulker. Original quest-giver to the party, after the destruction of Sa
 
 ### Personal Quest
 ###### Beginning
-[[00 Saulker]] is destroyed. As Reymon is the Baron of [[00 Saulker]] it is his duty to restore the town by any means necessary.
+[[Saulker]] is destroyed. As Reymon is the Baron of [[Saulker]] it is his duty to restore the town by any means necessary.
 ###### Progression
 
 
@@ -39,9 +39,3 @@ Baron of Saulker. Original quest-giver to the party, after the destruction of Sa
 **Other Notable Relationships**
 - [one]
 - [two]
-
-```dataview
-
-list from [[Reymon Abbot]]
-
-```

@@ -3,7 +3,7 @@
     {
       "id": "Saulker_map",
       "locked": true,
-      "lastAccessed": 1722195876507,
+      "lastAccessed": 1722721640007,
       "markers": [
         {
           "id": "ID_bbc9e92b19cb",
@@ -168,7 +168,7 @@
     {
       "id": "coppermug_inn",
       "locked": true,
-      "lastAccessed": 1722195881765,
+      "lastAccessed": 1722882421422,
       "markers": [
         {
           "id": "ID_e8c8f92a486b",
@@ -191,7 +191,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "03 - World/Cities/Saulker/The Coppermug.md"
+        "03 - World/Cities/Saulker/Features/The Coppermug.md"
       ]
     }
   ],
@@ -336,7 +336,60 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[map_arcspire.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[map_arcspire.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1.5,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Faerun_Map",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": true,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        7490,
+        1960
+      ]
+    ],
+    "width": "95%",
+    "lat": 907.53,
+    "long": 1402.74,
+    "unit": "meters",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

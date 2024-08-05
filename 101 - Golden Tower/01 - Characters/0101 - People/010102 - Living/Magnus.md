@@ -20,7 +20,7 @@
 > | Height | h |
 > | Build | b |
 ### Summary
-The younger brother of [[Bjark]]. Though he was a fighter, he preferred political endeavors, opposed to [[Bjark]], who was a fierce and determined fighter. After the revolt of the [[Nuvanir]] slaves, spurred revolts in various towns, and holds in [[Estmar]] .  The primary hold in [[Estmar]]; [[Merca]] was the origin of these revolts. [[Bjark]], had sent Magnus to [[Merca]], to quell the uproar. After a year-long campaign, Magnus settles it with a marriage pact with  
+The younger brother of [[Bjark]]. Though he was a fighter, he preferred political endeavors, opposed to [[Bjark]], who was a fierce and determined fighter. After the revolt of the [[Nuvanir]] slaves, spurred revolts in various towns, and holds in [[00 Estmar]] .  The primary hold in [[00 Estmar]]; [[Merca]] was the origin of these revolts. [[Bjark]], had sent Magnus to [[Merca]], to quell the uproar. After a year-long campaign, Magnus settles it with a marriage pact with  
 
 ### Personality
 %%A brief description of the character's personality%%

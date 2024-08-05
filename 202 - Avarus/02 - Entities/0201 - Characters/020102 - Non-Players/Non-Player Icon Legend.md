@@ -6,3 +6,4 @@
 |             Coin | Merchant          |
 |     Jigsaw Piece | Quest-Giver       |
 |             Team | Companion         |
+|            Cubes | Filler            |

@@ -1,34 +1,33 @@
 > [!infobox]
-> # Simcoe Canis
-> ![[simcoe_canis.png|cover hsmall]]
+> # Hanlan Bellio Fargon
+> ![[Image.png|cover hsmall]]
 > ###### Overview
 > | Type | Stat |
 > | ---- | ---- |
-> | Title | [title] |
 > | Age | [age] |
-> | Race | Human |
-> | Class | Rogue |
+> | Race | Gnome |
+> | Class | Bard |
 > | Residency | [[Saulker]] |
 > | Birthday | [DD/MM/YY] |
 > | Family | [family] |
 
 ### Overview
 ###### Notes
-- **Voice**: slight southern accent, gruff, quiet 
-- **Physical Features**: 
-	- **Body**: short, stout 
-	- **Face**: missing right eye
-	- **Other**:  short black hair, various small scars
-- **Personality Traits**: sly, mistrustful, irritable
+- **Voice**: 
+- **Physical Features**:
+	- **Body**:  
+	- **Face**: 
+	- **Other**:  
+- **Personality Traits**: 
 
 ###### Backstory
+
 
 ### Significance
 [campaign significance here]
 
 ### Personal Quest
-###### Beginning
-###### Progression
+[personal quest here]
 
 ### Relationships
 > [!note]- Party Relationships

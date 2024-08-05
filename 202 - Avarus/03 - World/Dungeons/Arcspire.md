@@ -25,15 +25,34 @@
 >> > A tower, sitting atop the summit of [[Mount Arcmire]]. Glassy black stones bordered with white mortar. Surrounded by thick wisps of bluish cloud slowly spiraling around it. Twenty-five feet up, the tower broken open, the remnants scattered across the mountain top. Narrow arrow slits carved into the stone, the inside dark, revealing no signs of occupation.  
 >>
 >> Entering the tower is the groups first challenge. The large reinforced wood has swelled with age. A strength DC 20 check is needed to break it open.
-
-
-
-> [!grid]
-> ![[map_arcspire_floor.2.png|relative wtall]]  
-> ![[map_arcspire_ground.floor.png|relative wtall]]
-> 
-> ![[map_arcspire_floor.-1.png|relative wtall]] 
-> ![[map_arcspire_floor.-2.png|relative wtall]] 
+```leaflet  
+id: Faerun_Map  
+### Lock pins so they can't be moved  
+lock: true  
+### If true, view of map will recenter as you zoom out.  
+recenter: true  
+### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
+noScrollZoom: true  
+image: [[map_arcspire.png]]
+bounds: [[0,0], [7490, 1960]]  
+height: 800px  
+width: 95%  
+### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
+lat: 980 
+long: 7490
+### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
+minZoom: -1.5  
+### Max zoom is 18.  
+maxZoom: 1.5  
+### Hover mouse over the Reset Zoom icon to see your current zoom level.  
+defaultZoom: -1  
+### How far it zooms in or out with each step. Can be in decimals.  
+zoomDelta: 0.5  
+### This is a string so can be any text. Change it to match your maps measurement scale.  
+unit: feet  
+scale: 1  
+darkMode: false  
+```
 ### Keyed Locations
 The following locations are keyed to the map of Arcspire.
 

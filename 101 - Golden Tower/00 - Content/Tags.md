@@ -6,6 +6,8 @@
 ###### Lifestyles
 #character/lifestyle/squalid #character/lifestyle/poor #character/lifestyle/modest #character/lifestyle/comfortable #character/lifestyle/wealthy
 
-
+### Locations
+#### Size Class
+#location/size/huge #location/size/large #location/size/medium #location/size/small #location/size/tiny
 ###### Utils
 #utils/filter

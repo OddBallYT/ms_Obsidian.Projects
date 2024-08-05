@@ -1,5 +1,5 @@
 ### Summary
-A small inn and tavern, owned and run by [[Tansy Coppermug]].
+A small inn and tavern, owned and run by [[Tansy Coppermug]]. It is the only inn and tavern in town, thus is home to much of the town's entertainment, and business. Games of [[Throne]] are always being played at the large round table in the front right corner. On the back right wall, is a small raised stage where the gnomish bard [[Hanlan Fargon]] frequently plays evening sets. 
 
 > [!recite|bg-green] ‎ 
 > Inside, is a quaint tavern. The building is filled with a warm orange glow, emanating from a hearth along the wall across from the door. The aroma of rich ales, salty fragrance of grilled fish, and the ever present musk of old wood. The floor is scattered by tables, some round, some squared, all fitted with various number of chairs. From the door, the room stretches around to the right. At the back, is the 
@@ -39,11 +39,11 @@ A small storage room. Clean, dimly lit by torches on either side of the room.
 
 ##### Features
 * Along the wall to the right of the door, is a row of **8 large kegs**, 1ft radius. The kegs contain, (in order from the door to the far wall.) 
-	* **Kegs 1, 2.** Ale
-	* **Keg 3.** Mead
-	* **Keg 4.** Red Wine
-	* **Keg 5, 6.** Beer
-	* **Keg 7.** Whiskey
+	* **Kegs 1, 2.** ale
+	* **Keg 3.** mead
+	* **Keg 4.** red wine
+	* **Keg 5, 6.** beer
+	* **Keg 7.** whiskey
 	* **Keg 8.** [[Embrelead]]
 * Along the wall to the left of the door, are **large shelves** containing a myriad of items, some of which are as follows.
 	* **Baskets.** apples, potatoes, onions, carrots, cabbage
@@ -51,6 +51,26 @@ A small storage room. Clean, dimly lit by torches on either side of the room.
 	* **Hand Kegs.** black pepper, salt, cloves, mace, dill
 
 #### A2. Bar
+The bar stretches from the edge of the *storage room*, across and up to the back wall. The outer length is fitted with backless chairs. When a player approaches the counter for the first time, read aloud.
+
+> [!recite|bg-green] ‎ 
+> The counter is dark walnut wood, appearing to be taken care of quite intensely. It bears a few small scratches, and a couple minor burn marks, but any major damage has since been repaired, and all spills, or other grime is quickly dealt with.
+
+##### Features
+* Under the counter.
+	* various bottles of alcohol
+	* some spices
+	* an array of different cups, bowls, plates and eating utensils
+* The back wall is lined with **shelves**, containing various items, most look to be decorative.
+	* some **unique dishes**, painted or molded in interesting ways
+		* *plate* molded in the shape of a flower
+		* glass *plate* with a orange and blue offset swirls, approaching the center 
+		* *cup* molded and painted like a leather shoe
+		* tall cylindrical *cup*, painted like a tree trunk 
+		* *skewer* shaped like a pale blue swordfish, the body the handle and, the nose the skewer
+	* other **unique items**
+		* *parchment*
+
 #### A3. Sitting/Dining Area
 #### A4. Stage
 #### A5. Patio
@@ -66,3 +86,8 @@ A small storage room. Clean, dimly lit by torches on either side of the room.
 #### [[Tansy Coppermug]]
 **Role.** Owner, head bartendress.
 
+#### [[Hanlan Fargon]]
+**Role.** Bard, plays sets almost every night.
+
+### History
+The copper mug was originally owned by [[Knowen Ore]], a human man.

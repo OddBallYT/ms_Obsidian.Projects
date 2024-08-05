@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - World/POIs/Forkjaw's Rest.md",
+                "file": "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28232e2c0023cfb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - World/Cities/Saulker/Features/The Coppermug.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - World/POIs/Forkjaw's Rest.md",
+                "file": "03 - World/Cities/Saulker/Features/The Coppermug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - World/POIs/Forkjaw's Rest.md",
+                "file": "03 - World/Cities/Saulker/Features/The Coppermug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - World/POIs/Forkjaw's Rest.md"
+                "file": "03 - World/Cities/Saulker/Features/The Coppermug.md"
               }
             }
           }
@@ -152,44 +166,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "95110ca1c2023424",
+  "active": "7df6be0feeec3028",
   "lastOpenFiles": [
-    "04 - Items/Common/Embrelead.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/00 Reference",
+    "03 - World/Cities/Saulker/Saulker.md",
+    "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",
+    "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+    "03 - World/Cities/Saulker/Features/Town Hall.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Non-Player Icon Legend.md",
+    "03 - World/Cities/Saulker/Features",
+    "03 - World/Factions/Fist of the Iron Crow.md",
+    "03 - World/Factions",
+    "02 - Entities/0202 - Monsters/Forest Plauged.md",
+    "02 - Entities/0202 - Monsters/Maskhound.md",
+    "02 - Entities/0202 - Monsters/Abomination of the Forest.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Simcoe Canis.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Reymon Abbot.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Hanlan Fargon.md",
+    "00 - Content/Templates/Sheets/_130524_sheet.npc.md",
+    "03 - World/Cities/Saulker/Features/The Coppermug.md",
+    "03 - World/Cities/Saulker/Features/Market.md",
+    "03 - World/Dungeons/Arcspire.md",
+    "03 - World/Dungeons/Colstoe's Cave.md",
+    "00 - Content/Maps/Dungeon/map_arcspire.png",
     "03 - World/POIs/Forkjaw's Rest.md",
+    "04 - Items/Common/Embrelead.md",
+    "05 - Game/Rules/Crippling.md",
+    "05 - Game/Rules/Hunting.md",
+    "05 - Game/Rules/Retrying Ability Checks.md",
+    "05 - Game/Rules/Switching Weapons.md",
     "03 - World/POIs",
     "04 - Items/Unique/Bottle of Frostfell.md",
-    "03 - World/Cities/Saulker/The Coppermug.md",
-    "00 - Content/Templates/Sheets/_280724_sheet.citem.md",
-    "00 - Content/Templates/Sheets/_190524_sheet.item.md",
-    "00 - Content/Templates/_270524_statblock.md",
     "00 - Content/Templates/Sheets",
-    "00 - Content/Templates/_020624_callout.aside.md",
-    "00 - Content/Templates/_020624_callout.image.md",
-    "00 - Content/Templates/_120624_leaflet.map.md",
-    "00 - Content/Templates/_130524_callout.timeline.md",
-    "00 - Content/Templates/Sheets/_130524_sheet.npc.md",
-    "00 - Content/Templates/Sheets/_130524_sheet.session.md",
-    "00 - Content/Templates/Sheets/_140524_sheet.town.md",
-    "00 - Content/Templates/_160524_callout.columns.md",
-    "00 - Content/Templates/Sheets/_300524_sheet.dungeon.md",
-    "03 - World/Cities/Saulker/00 Saulker.md",
-    "03 - World/Cities/Saulker/Market.md",
     "04 - Items/Unique",
     "04 - Items/Common",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Non-Player Icon Legend.md",
-    "03 - World/Dungeons/Arcspire.md",
-    "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
-    "01 - Campaign/Quests/2-001 The Chosen of Mask.md",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
     "00 - Content/Maps/Dungeon/map_coppermug.inn.png",
-    "03 - World/Cities/Saulker/Watchers of the Moon HQ.md",
-    "03 - World/Cities/Saulker/Trawler Houses' HQ.md",
-    "03 - World/Cities/Saulker/Town Hall.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Colstoe's Fall/Untitled",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Vershaw",
     "02 - Entities/0201 - Characters/020102 - Non-Players/00 - Outlands/Untitled",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Colstoe's Fall",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Arkley",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Black Rock"
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Colstoe's Fall"
   ]
 }
