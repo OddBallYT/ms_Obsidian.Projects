@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Tracking/0401 - Daily Notes/24-08-05.md",
+                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Tracking/0401 - Daily Notes/24-08-05.md",
+                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Tracking/0401 - Daily Notes/24-08-05.md",
+                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Tracking/0401 - Daily Notes/24-08-05.md"
+                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md"
               }
             }
           },
@@ -281,6 +281,17 @@
   },
   "active": "82e063c5410625b2",
   "lastOpenFiles": [
+    "00 - Content/03 - Templates/032 - Sheets/_sheet.character_basic.md",
+    "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
+    "00 - Content/Tags.md",
+    "02 - World/26 - Biologic/262 - Fauna/Direbear.md",
+    "02 - World/21 - Geographic/214 - POIs/placeholder.md",
+    "02 - World/23 - Historic/232 - Events",
+    "02 - World/21 - Geographic/211 - Mountains/placeholder.md",
+    "02 - World/21 - Geographic/214 - POIs",
+    "02 - World/21 - Geographic/212 - Forests/placeholder.md",
+    "02 - World/21 - Geographic/212 - Forests",
+    "02 - World/21 - Geographic/211 - Mountains",
     "02 - World/0202 - Civic/Direhal/Estmar/00 Estmar.md",
     "04 - Tracking/0401 - Daily Notes/24-08-05.md",
     "00 - Content/0003 - Templates/Sheets/_sheet.location_state.md",
@@ -291,7 +302,6 @@
     "00 - Content/0003 - Templates/Sheets/_sheet.location_city.md",
     "00 - Content/0003 - Templates/Sheets/_sheet.character_main.md",
     "00 - Content/0003 - Templates/Sheets/_sheet.character_basic.md",
-    "00 - Content/Tags.md",
     "02 - World/0202 - Civic/Direhal",
     "01 - Characters/0101 - People/010102 - Living/Balden.md",
     "01 - Characters/0101 - People/010102 - Living/Bjark.md",
@@ -306,17 +316,7 @@
     "04 - Tracking/0401 - Daily Notes/24-07-16.md",
     "01 - Characters/0102 - Ancestry",
     "01 - Characters/0101 - People",
-    "00 - Content/0001 - Images/Locations/Maps/placeholder.md",
     "00 - Content/0001 - Images/Locations/Maps",
-    "02 - World/0205 - Linguistic/placeholder.md",
-    "02 - World/0206 - Biologic/020602 - Fauna/placeholder.md",
-    "02 - World/0206 - Biologic/020601 - Flora/placeholder.md",
-    "01 - Characters/0101 - People/010103 - Dead/placeholder.md",
-    "02 - World/0206 - Biologic/020602 - Fauna.md",
-    "02 - World/0206 - Biologic/020602 - Fauna",
-    "02 - World/0206 - Biologic/020601 - Flora",
-    "02 - World/0206 - Biologic",
-    "02 - World/0205 - Linguistic",
     "00 - Content/0001 - Images/Locations/Profiles/Baldengard.png",
     "00 - Content/0001 - Images/Characters/Balden.png",
     "00 - Content/0001 - Images/Characters/Frith.png",
