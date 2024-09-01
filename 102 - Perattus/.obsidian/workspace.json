@@ -11,11 +11,9 @@
             "id": "91de7e9fc1f5cc05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "01 - Characters/Wire.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Content/Images/humanoid_reference_image.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Characters/Wire.md",
+                "file": "00 - Content/Images/humanoid_reference_image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Characters/Wire.md",
+                "file": "00 - Content/Images/humanoid_reference_image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Characters/Wire.md"
+                "file": "00 - Content/Images/humanoid_reference_image.png"
               }
             }
           }
@@ -149,18 +147,18 @@
   },
   "active": "91de7e9fc1f5cc05",
   "lastOpenFiles": [
+    "00 - Content/Images/Perattus Map.png",
+    "01 - Characters/Wire.md",
+    "00 - Content/Images/humanoid_reference_image.png",
     "00 - Content/Templates/170624_sheet.character.md",
     "00 - Content/Definitions/Agreeableness.md",
     "00 - Content/Definitions/Conscientiousness.md",
     "00 - Content/Definitions/Neuroticism.md",
-    "01 - Characters/Wire.md",
     "00 - Content/Definitions/Openness.md",
     "00 - Content/Definitions/Extraversion.md",
     "00 - Content/Definitions",
     "02 - World/Larcasdon.md",
-    "00 - Content/Images/Perattus Map.png",
     "00 - Content/Tags.md",
-    "00 - Content/Images/humanoid_reference_image.png",
     "00 - Content/Templates",
     "03 - Manuscript",
     "02 - World",
