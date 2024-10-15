@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "4d24f105845bfdb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "128d6c5255c41e51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "762e0ce65f016040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System/Convention/Code Order.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be24126d14251b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e5838464d27fdd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c2b289298761385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c7206039b4bb9b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a63d23c7ec200275",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "968dc386b07f3dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4451c0d79bd634c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "677c88aa2971eb1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System/Convention/Code Order.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac87f361c44b95fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System/Convention/Code Order.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96f5545db21c5e49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b68af092fa8809a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System/Convention/Code Order.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "762e0ce65f016040",
+  "lastOpenFiles": [
+    "System/Convention/Naming Conventions.md",
+    "System/Convention/Code Order.md",
+    "System/Convention/File Structure.md",
+    "System/Data/Item Structures.md",
+    "System/Data/Inventory Pipeline.md",
+    "System/Data",
+    "System/Convention",
+    "Characters/Adelaide March.md",
+    "System",
+    "00 Content",
+    "Characters/Ava March.md",
+    "Characters/Cecil March.md",
+    "Characters/Diana March.md",
+    "Welcome.md",
+    "Characters"
+  ]
+}
