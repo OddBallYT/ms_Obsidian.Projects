@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+                "file": "03 - World/Cities/Saulker/Features/The Coppermug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+                "file": "03 - World/Cities/Saulker/Features/The Coppermug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md"
+                "file": "03 - World/Cities/Saulker/Features/The Coppermug.md"
               }
             }
           }
@@ -166,12 +166,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7df6be0feeec3028",
+  "active": "28232e2c0023cfb7",
   "lastOpenFiles": [
-    "02 - Entities/0201 - Characters/020102 - Non-Players/00 Reference",
+    "01 - Campaign/01 - Main Story/0-001 The Quest Begins.md",
+    "~$arus Campaign Book.docx",
+    "03 - World/Cities/Saulker/Features/The Coppermug.md",
     "03 - World/Cities/Saulker/Saulker.md",
-    "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",
+    "05 - Game/Rules/Throne.md",
     "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/00 Reference",
+    "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",
     "03 - World/Cities/Saulker/Features/Town Hall.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Non-Player Icon Legend.md",
     "03 - World/Cities/Saulker/Features",
@@ -185,7 +189,6 @@
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Reymon Abbot.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Hanlan Fargon.md",
     "00 - Content/Templates/Sheets/_130524_sheet.npc.md",
-    "03 - World/Cities/Saulker/Features/The Coppermug.md",
     "03 - World/Cities/Saulker/Features/Market.md",
     "03 - World/Dungeons/Arcspire.md",
     "03 - World/Dungeons/Colstoe's Cave.md",
@@ -195,16 +198,12 @@
     "05 - Game/Rules/Crippling.md",
     "05 - Game/Rules/Hunting.md",
     "05 - Game/Rules/Retrying Ability Checks.md",
-    "05 - Game/Rules/Switching Weapons.md",
     "03 - World/POIs",
-    "04 - Items/Unique/Bottle of Frostfell.md",
     "00 - Content/Templates/Sheets",
     "04 - Items/Unique",
     "04 - Items/Common",
     "00 - Content/Maps/Dungeon/map_coppermug.inn.png",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Colstoe's Fall/Untitled",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Vershaw",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/00 - Outlands/Untitled",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Colstoe's Fall"
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Vershaw"
   ]
 }

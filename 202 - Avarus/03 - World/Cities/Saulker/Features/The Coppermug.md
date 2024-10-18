@@ -72,8 +72,22 @@ The bar stretches from the edge of the *storage room*, across and up to the back
 		* *parchment*
 
 #### A3. Sitting/Dining Area
+Divided into two sections.
+
+##### Sections
+* The section of which the door leads directly into, is a small dining area, filled with large round tables, and two large booths, in each of the back corners. 
+	* This is the quiet area, low conversations are carried, and various groups of people having meals. 
+	* Business is constantly being carried out here, in the light of a flickering fireplace on the back wall.
+* The second section is the bar
+	* In the back corner, a stage is raised 1-foot high. The gnomish bard [[Hanlan Fargon]] frequently plays, predominantly in the evenings.
+	* A table along the staircase to the upper floor, is a large round table where games of [[Throne]] are frequently played. A human woman named [[Gaela]] frequently runs these games.
+
 #### A4. Stage
+A 1-foot tall stage, a small set of stairs on the side, and a faded red curtain on its back wall. [[Hanlan Fargon]] plays most nights here.
+
 #### A5. Patio
+
+
 ***
 #### B1, B2, B3, B4. Bedroom
 #### B5. Hall
