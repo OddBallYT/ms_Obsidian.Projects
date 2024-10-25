@@ -13,14 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
+                "file": "00 - Content/Tags.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "af8fb56e9fa28238",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00 - Content/01 - Images/011 - Characters/Ylva.png"
+              },
+              "icon": "lucide-image",
+              "title": "Ylva"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +109,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -97,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
+                "file": "00 - Content/01 - Images/011 - Characters/Ylva.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ylva"
             }
           },
           {
@@ -114,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
+                "file": "00 - Content/01 - Images/011 - Characters/Ylva.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ylva"
             }
           },
           {
@@ -126,8 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md"
-              }
+                "file": "00 - Content/01 - Images/011 - Characters/Ylva.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ylva"
             }
           },
           {
@@ -148,7 +177,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_dae8497a9bfa"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -169,7 +200,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_e86a28b88a88"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -191,7 +224,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_e91b5a2979a9"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -212,7 +247,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_5ad918e83b49"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -233,7 +270,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_4b295849095b"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -254,7 +293,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_9a0bbaa8eafa"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
         ],
@@ -279,10 +320,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "82e063c5410625b2",
+  "active": "af8fb56e9fa28238",
   "lastOpenFiles": [
-    "00 - Content/03 - Templates/032 - Sheets/_sheet.character_basic.md",
+    "00 - Content/01 - Images/011 - Characters/Frith.png",
+    "00 - Content/01 - Images/011 - Characters/Clifford.png",
+    "00 - Content/01 - Images/011 - Characters/Balden.png",
     "00 - Content/03 - Templates/032 - Sheets/_sheet.biologic_fauna.md",
+    "00 - Content/03 - Templates/032 - Sheets/_sheet.character_basic.md",
     "00 - Content/Tags.md",
     "02 - World/26 - Biologic/262 - Fauna/Direbear.md",
     "02 - World/21 - Geographic/214 - POIs/placeholder.md",
@@ -313,7 +357,6 @@
     "04 - Tracking/0401 - Daily Notes/24-07-17.md",
     "01 - Characters/0101 - People/010102 - Living/Frith.md",
     "02 - World/0204 - Religious/placeholder.md",
-    "04 - Tracking/0401 - Daily Notes/24-07-16.md",
     "01 - Characters/0102 - Ancestry",
     "01 - Characters/0101 - People",
     "00 - Content/0001 - Images/Locations/Maps",
