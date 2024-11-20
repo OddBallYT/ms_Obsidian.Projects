@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaDiamond",
       "RaKey",
       "RaCrownedHeart",
       "RaQuillInk",
-      "RaFlatHammer",
-      "RaHammer"
+      "RaFlatHammer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -102,5 +102,6 @@
   "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md": "TiFishHook",
   "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md": "RaHand",
   "03 - World/Cities/Saulker/Features": "RaKey",
-  "03 - World/Cities/Black Rock/Black Rock.md": "RaFlatHammer"
+  "03 - World/Cities/Black Rock/Black Rock.md": "RaFlatHammer",
+  "03 - World/Dungeons/Shimmering Caverns.md": "RaDiamond"
 }

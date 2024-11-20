@@ -17,7 +17,7 @@
 >
 >> [!note|clean no-title] Column 2
 >> ### Travel to Arcspire
->> Arcspire is located at the summit of [[Mount Arcmire]], the only road to it leaves from [[Saulker]], and grows more ruined, and overgrown as it grows further from the town. From [[Saulker]], Arcspire is 16 miles south, reaching the eastern foot of [[Mount Arcmire]]. Despite the road being so perilous in terms of construction, it is quite safe otherwise. Bandits never travel here, as few people travel the road to rob; and many of the beasts in the area have traveled south to the [[Merewood Forest]], or east out of [[Avarus]]. The occasional boar, eagle, and other grasslands/mountain beast can be found, but often not without looking.
+>> Arcspire is located at the summit of [[Mount Arcmire]], the only road to it leaves from [[Saulker]], and grows more ruined, and overgrown as it grows further from the town. From [[Saulker]], Arcspire is 16 miles south, reaching the eastern foot of [[Mount Arcmire]]. Despite the road being so percarious in terms of construction, it is quite safe otherwise. Bandits never travel here, as few people travel the road to rob; and many of the beasts in the area have traveled south to the [[Merewood Forest]], or east out of [[Avarus]]. The occasional boar, eagle, and other grasslands/mountain beast can be found, but often not without looking.
 >> The road then turns west, up to the summit. The road up is treacherous, and fraught with shale slides, small collapsed watch towers, broken stairs, and the occasional mountain beast. The road up is only 2 miles up, however the difficulty of the road causes it to take double the time.
 >> ### Arrival
 >> When the party arrives at Arcspire, read the following boxed text aloud:
