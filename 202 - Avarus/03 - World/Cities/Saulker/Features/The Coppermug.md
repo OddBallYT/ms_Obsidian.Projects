@@ -1,8 +1,10 @@
 ### Summary
 A small inn and tavern, owned and run by [[Tansy Coppermug]]. It is the only inn and tavern in town, thus is home to much of the town's entertainment, and business. Games of [[Throne]] are always being played at the large round table in the front right corner. On the back right wall, is a small raised stage where the gnomish bard [[Hanlan Fargon]] frequently plays evening sets. 
 
+If the players enter the Coppermug for the first time while the festival is *not* going on, read the following: 
+
 > [!recite|bg-green] ‎ 
-> Inside, is a quaint tavern. The building is filled with a warm orange glow, emanating from a hearth along the wall across from the door. The aroma of rich ales, salty fragrance of grilled fish, and the ever present musk of old wood. The floor is scattered by tables, some round, some squared, all fitted with various number of chairs. From the door, the room stretches around to the right. At the back, is the 
+> Inside, is a quaint tavern. The building is filled with a warm orange glow, emanating from a hearth along the wall across from the door. The aroma of rich ales, salty fragrance of grilled fish, and the ever present musk of old wood. The floor is scattered by tables, some round, some squared, all fitted with various number of chairs. From the door, the room stretches around to the right. At the back, is the bar, where a young gnome woman works. To its right is a small raised stage, to the left is a fireplace, and at the front right corner is a round table where cards are being played.
 
 ```leaflet  
 id: coppermug_inn

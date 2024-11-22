@@ -1,6 +1,6 @@
 > [!column] ‎ 
 >> [!info|clean no-title] Column 1
->> Arcspire is balanced for characters of 4th level, though a party of 3rd level can survive, if played carefully.
+>> Arcspire is balanced for characters of 2nd-3rd level, though a party of 1st level can survive, if played carefully.
 >> ### Location Overview
 >> Arcspire is a massive tower, reaching far into the sky, and roots deep into the earth. 16 miles south of [[Saulker]], it was built as an arcane research facility at the summit of [[Mount Arcmire]]. Originally inhabited by an organization of wizards, and arcane scholars called [[Arc Emergents]], but has since been abandoned. The exact reason for the abandonment is unknown, but accepted lore, is that an experiment had gone awry, decimating much of the facility, and eventually leading to the abandonment, and guessed demise of the [[Arc Emergents|Emergents]].
 >> ### Goals

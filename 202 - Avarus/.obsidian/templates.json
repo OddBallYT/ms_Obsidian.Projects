@@ -1,5 +1,5 @@
 {
   "folder": "00 - Content/Templates",
   "dateFormat": "DD/MMM/YY",
-  "timeFormat": "hh:mm a"
+  "timeFormat": "\\[H:m:ss]"
 }

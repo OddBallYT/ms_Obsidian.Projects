@@ -5,7 +5,7 @@
 >> ### Players
 >> Throne can be played with a minimum of two players, and a maximum of distinguishable suits available. This means that with one deck of cards, a game can have four players. But if there are two, visually distinguishable decks available, this means that eight people can play.
 >> ### How to Play
->> The rules to throne are quite simple, involving each player taking turns, to preform an offensive or defensive  action. Jokers are not needed, and can be removed from the deck, and set aside.
+>> The rules of Throne are quite simple, involving each player taking turns, to preform an offensive or defensive  action. Jokers are not needed, and can be removed from the deck, and set aside.
 >> #### Starting the Game
 >> To start, the deck(s) are divided into their suits, and each player receives a suit. Each player takes the king and queen of their suit, from their pile, and places them side-by-side, face up on the table in front of them. The remaining pile of cards is shuffled, then placed beside them, face down to their right. They then pick up three cards from the pile, to fill their hand. A first player is decided by whatever means the group choses, then play proceeds clockwise.
 >> #### Taking an Action
