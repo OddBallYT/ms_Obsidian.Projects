@@ -35,6 +35,22 @@ scale: 1
 darkMode: false  
 ```
 
+### Services
+#### Inn
+* Room
+	* Normal (1sp/day)
+	* Large (2sp/day)
+#### Tavern
+* Drinks
+	1. ale (4cp)
+	2. mead (5cp)
+	3. red wine (7cp)
+	4. beer (4cp)
+	5. whiskey (5cp)
+	6. [[Embrelead]] (8cp)
+* Food
+	1. Mutton chops (6cp)
+	2. Rabbit stew (6cp)
 ### Areas
 #### A1. Storage Room
 A small storage room. Clean, dimly lit by torches on either side of the room. 
@@ -95,6 +111,34 @@ A 1-foot tall stage, a small set of stairs on the side, and a faded red curtain 
 #### B5. Hall
 #### B6. Sitting Area
 
+***
+#### C. Cellar (no map)
+A small cellar area, with a hole cut into one of the walls.
+##### Features
+* Desk
+* Hidden Room
+	* A small room, dug into the wall, hidden by a bookshelf
+	* A **DC 12 wisdom (perception)** check, reveals there is a small gap between the wall and bookshelf
+	* A **DC 10 strength** check, allows the player to move  the bookshelf out of the way
+	* There is a single chest in the room, it is unlocked inside is.
+		* A fine leather shoe a **DC 12 intelligence (investigation)** check reveals the name *cobbs* with the emblem of a stone on the bottom of the sole
+		* A pouch of 5gp
+		* A map of Sodavar, with two locations circled, a city called *'Helrich'*, and an area or forest north-west of Helrich.
+* Crates
+	* There are four crates stacked in the corner of the room.
+	* One is open, and empty.
+	* One is open, has wrapped salted meats.
+	* One is closed a **DC 15 strength** check opens it, has bottles of [[Embrelead]].
+	* One is closed a **DC 15 strength** check opens it, has various fruits.
+		* Pears
+		* Apples
+		* Peaches
+		* Apricots
+		* A **DC 16 intelligence (investigation)** check reveals a yellow apple
+			* **DC 14 intelligence (arcana)** check reveals the apple is magical, but not how so
+			* **DC 15 intelligence (nature)** check reveals this apple is from the Feywild
+			* Eating the apple will satiate the player's hunger for 2 full days
+
 ### Keyed Locations
 #### II. Throne Table
 
@@ -106,4 +150,4 @@ A 1-foot tall stage, a small set of stairs on the side, and a faded red curtain 
 **Role.** Bard, plays sets almost every night.
 
 ### History
-The copper mug was originally owned by [[Knowen Ore]], a human man.
+The coppermug was originally owned by [[Knowen Ore]], a human man.

@@ -20,7 +20,7 @@
 - **Personality Traits**:
 
 ###### Backstory
-Grew up in a city called “Helrich”, as an inheritor to a cobbling empire. Her brother [[Alvyn Falshroud|Alvyn]] became intrenched in criminal dealings, and assisted in a robbery on his parent's home. The robbery began to go awry, when Tansy's father Dimble intervened, leaving her father and mother killed. Tansy escaped and went west, arriving in [[Saulker]]. Working odd jobs as a scribe's assistant, courier, and finally a barmaid, until she worked enough to buy the Copper Mug from its previous owner, a human male named Jace.
+Grew up in Sodavar, in a city called “Helrich”, as an inheritor to a cobbling empire. Her brother [[Alvyn Falshroud|Alvyn]] became intrenched in criminal dealings, and assisted in a robbery on his parent's home. The robbery began to go awry, when Tansy's father Dimble intervened, leaving her father and mother killed. Tansy escaped and went west, arriving in [[Saulker]]. Working odd jobs as a scribe's assistant, courier, and finally a barmaid, until she worked enough to buy the Copper Mug from its previous owner, a human male named Jace.
 
 ### Significance
 [campaign significance here]

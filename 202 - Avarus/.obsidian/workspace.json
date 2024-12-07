@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc2df85b822cbbb",
+        "id": "a71a827824f3a1f3",
         "type": "tabs",
         "children": [
           {
-            "id": "49aaca879a74775d",
+            "id": "90a3c807644c768b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Festival.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0-001 The Festival"
+              "title": "New tab"
             }
           }
         ]
@@ -164,25 +159,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "49aaca879a74775d",
+  "active": "90a3c807644c768b",
   "lastOpenFiles": [
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Reymon Abbot.md",
     "01 - Campaign/01 - Main Story/0-001 The Festival.md",
-    "03 - World/Dungeons/lv1 Shimmering Caverns.md",
+    "03 - World/Cities/Saulker/Saulker.md",
+    "Encounter Tracking.md",
+    "01 - Campaign/Sessions/MEDS/00 Level.md",
+    "01 - Campaign/Sessions/MEDS/231124_session1.md",
     "03 - World/Cities/Saulker/Features/The Coppermug.md",
+    "05 - Game/Rules/Spider Eyes.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Hanlan Fargon.md",
+    "03 - World/Dungeons/lv1 Shimmering Caverns.md",
+    "01 - Campaign/Sessions/MEDS",
+    "01 - Campaign/Sessions",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
+    "04 - Items/Common/Embrelead.md",
+    "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+    "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",
+    "03 - World/Cities/Saulker/Features/Town Hall.md",
+    "03 - World/Cities/Saulker/Features/Market.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Reymon Abbot.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Simcoe Canis.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Non-Player Icon Legend.md",
-    "05 - Game/Rules/Spider Eyes.md",
     "05 - Game/Rules/Throne.md",
-    "03 - World/Cities/Saulker/Saulker.md",
     "03 - World/Ensyclopedia/Saulken Seas Festival.md",
-    "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
     "03 - World/Ensyclopedia",
     "01 - Campaign/Encounters/00 Road Encounters.md",
     "02 - Entities/0202 - Creatures/Forest Plauged.md",
@@ -190,14 +193,7 @@
     "05 - Game/Rules/Retrying Ability Checks.md",
     "05 - Game/Rules/Switching Weapons.md",
     "05 - Game/Rules/Crippling.md",
-    "01 - Campaign/Quests/2-001 The Chosen of Mask.md",
-    "03 - World/Dungeons/lv5 Iron Fortress.md",
-    "03 - World/Dungeons/lv7 Frozen Citadel.md",
-    "03 - World/Dungeons/lv6 Colstoe's Cave.md",
-    "03 - World/Dungeons/lv2 Arcspire.md",
-    "00 - Content/Templates/Sheets/_130524_sheet.session.md",
     "01 - Campaign/Encounters",
-    "00 - Content/Templates/Sheets/_190524_sheet.item.md",
     "00 - Content/Images/Entites/Monsters/Quipher.png",
     "00 - Content/Images/Entites/Monsters/Gemfly.png",
     "00 - Content/Images/Entites/Monsters/Maskhound.png",
@@ -208,8 +204,6 @@
     "00 - Content/Maps/Dungeon/map_arcspire.png",
     "03 - World/POIs",
     "00 - Content/Templates/Sheets",
-    "04 - Items/Unique",
-    "04 - Items/Common",
     "00 - Content/Maps/Dungeon/map_coppermug.inn.png"
   ]
 }

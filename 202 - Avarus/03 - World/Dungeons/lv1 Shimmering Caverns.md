@@ -44,7 +44,7 @@ When the party enters the cave, read the following boxed text aloud:
 	* ***Description.*** Small harmless insects that glow like fireflies, but make their homes underground, often burrowing inside gems.
 	* ***Checks.***
 		* A **DC 10 wisdom (perception)** check, reveals the flies
-		* A **DC 10 intelligence (nature)** check, reveals the flies are unusually larger than most
+		* A **DC 14 intelligence (nature)** check, reveals the flies are unusually larger than most
 
 *The riddle.*  'What falls, but does not break, and what breaks but does not fall?'
 *The answer.* 'Night and day'
@@ -83,7 +83,10 @@ When the party enters, read the following boxed text aloud:
 		* The pedestal has an engraving on its side depicting a figure planting a seed, being watched by a figure with a halo
 		* Drinking the water grants darkvision for 10 minutes
 
-*The riddle.*  'What falls, but does not break, and what breaks but does not fall?'
+*The puzzle.*  To piece together the story based on the images found on the pedestals and play their respective music notes on the centre pedestal.
 *The answer.* To play the notes C-A-E-G in that order on the centre pedestal
-*The result.* When both crystals are lit, the door opens. Read the following:
+*The result.* After playing the notes in the correct sequence, read the following:
+> [!recite|bg-green] ‎ 
+> The pedestals shift and begin to slowly spin, the sound of stone against stone echoing in the atrium.
+
 *The consequence.* The water in the pools begins to churn, and the pools release a small swarm of 1d4+2 [[Quiphle|quiphles]] flying, glowing piranha-like creatures (use stats for **Quippers**) to attack the players.

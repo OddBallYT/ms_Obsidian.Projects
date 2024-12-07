@@ -1,6 +1,6 @@
 ### Background
 In recent days, strange beasts have begun to appear, attacking small villages in the south-east of Avarus. These attacks have been widely ignored, and chocked up to routine bandit/goblin attacks, and fancification. But the attacks have persisted, and have spread further north, worrying many, that it might reach more prominent bastions of civilization. While those who dwell in the path of wreckage are unsure of exactly where these creatures come from, or why they're attacking, they all agree that they must be stopped.
-
+14:12:45 
 # The Saulken Seas Festival
 > [!column] ‎ 
 >> [!info|clean no-title] Column 1
@@ -18,7 +18,7 @@ In recent days, strange beasts have begun to appear, attacking small villages in
 ***Summary.*** The market is located at the harbor. There is a road that runs the length on either side, with stalls and small building messily scattering the space.  
 > [!recite|bg-green] ‎ 
 > The market is bustling, you can hear the waves crashing on the harbor, and seagulls squawking from somewhere unseen. Stalls scattered about the space, people buying and selling fresh breads, fish, herbs, and various trinkets. At some stalls games are being played, one man doing magic, a woman shuffling cups, both drawn crowds.
-
+14:12:48 
 **Features**
 * All the standard market fair.
 * A man doing magic tricks.
@@ -98,7 +98,7 @@ In recent days, strange beasts have begun to appear, attacking small villages in
 			* Amulet of the Crow. (5cp)
 				* ***Description.*** A hard metal amulet on a chain, a single wing made of blades.
 				* ***Effect.*** No obvious effect.
-
+14:12:51 
 #### [[The Coppermug]]
 ***Summary.*** The inn and tavern of [[Saulker]], a popular spot for travellers to stay while passing through.  
 

@@ -15,7 +15,7 @@
 >> Originated in Sodavar
 
 ***
-A drink made from fermenting sap from the embreleaf tree in a burned
+A drink made from fermenting sap from the embreleaf tree in a burned walnut tree keg.
 
 ###### Tags
 #consumable
