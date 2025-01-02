@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "9b9eb36d95258ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71a827824f3a1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a3c807644c768b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Campaign/01 - Main Story/0-001 The Festival.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-001 The Festival"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27dd9745a3cb0a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aacfe48573f9e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df6be0feeec3028",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "05f89c837381542b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b705dbdbcb4621fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8714d35467604f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee2f792d00aa812d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a81528838edde6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 - World/Dungeons/Shimmering Caverns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Shimmering Caverns"
+            }
+          },
+          {
+            "id": "5c789bef99ed9feb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 - World/Dungeons/Shimmering Caverns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Shimmering Caverns"
+            }
+          },
+          {
+            "id": "2493aa5e0afa8f10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec63e4d14ca3c2ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 - World/Dungeons/Shimmering Caverns.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Shimmering Caverns"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "90a3c807644c768b",
+  "lastOpenFiles": [
+    "~$arus Campaign Book.docx",
+    "03 - World/Cities/Saulker/Saulker.md",
+    "00 - Content/Templates/Sheets/_140524_sheet.town.md",
+    "00 - Content/Templates/Sheets/_130524_sheet.npc.md",
+    "03 - World/Dungeons/lv1 Shimmering Caverns.md",
+    "02 - Entities/0202 - Creatures/Quiphle.md",
+    "01 - Campaign/Sessions/MEDS/231124_session1.md",
+    "01 - Campaign/Sessions/MEDS/00 Level.md",
+    "01 - Campaign/01 - Main Story/0-001 The Festival.md",
+    "Encounter Tracking.md",
+    "03 - World/Cities/Saulker/Features/The Coppermug.md",
+    "05 - Game/Rules/Spider Eyes.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Hanlan Fargon.md",
+    "01 - Campaign/Sessions/MEDS",
+    "01 - Campaign/Sessions",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
+    "04 - Items/Common/Embrelead.md",
+    "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+    "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",
+    "03 - World/Cities/Saulker/Features/Town Hall.md",
+    "03 - World/Cities/Saulker/Features/Market.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Reymon Abbot.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Simcoe Canis.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Non-Player Icon Legend.md",
+    "05 - Game/Rules/Throne.md",
+    "03 - World/Ensyclopedia/Saulken Seas Festival.md",
+    "03 - World/Ensyclopedia",
+    "01 - Campaign/Encounters/00 Road Encounters.md",
+    "02 - Entities/0202 - Creatures/Forest Plauged.md",
+    "01 - Campaign/Encounters",
+    "00 - Content/Images/Entites/Monsters/Quipher.png",
+    "00 - Content/Images/Entites/Monsters/Gemfly.png",
+    "00 - Content/Images/Entites/Monsters/Maskhound.png",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/00 Reference",
+    "03 - World/Cities/Saulker/Features",
+    "03 - World/Factions",
+    "00 - Content/Maps/Dungeon/map_arcspire.png",
+    "03 - World/POIs",
+    "00 - Content/Templates/Sheets",
+    "00 - Content/Maps/Dungeon/map_coppermug.inn.png"
+  ]
+}

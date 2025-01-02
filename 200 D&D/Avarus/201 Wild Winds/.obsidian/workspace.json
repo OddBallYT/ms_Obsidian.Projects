@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "3bebb062a658f2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4eb979c11f1eaa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6b980899e28d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 World/01 Cities/Saulker/Saulker.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saulker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cafcbb16773aec17",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0dbe3b08242dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf50b05c2bb8d655",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41a91e861cb5c65e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad00856cb52aca44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "eaab38de04b11c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "04795e7114bc2964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d9ec863bf90f16e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 World/01 Cities/Saulker/Saulker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Saulker"
+            }
+          },
+          {
+            "id": "b7714b80a9accaed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 World/01 Cities/Saulker/Saulker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Saulker"
+            }
+          },
+          {
+            "id": "cfa5c8415009e6f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "131ed8f3bb879631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 World/01 Cities/Saulker/Saulker.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Saulker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "2b6b980899e28d38",
+  "lastOpenFiles": [
+    "00 Content/03 Templates/01 Sheets/_City_.md",
+    "03 World/01 Cities/Saulker/Saulker.md",
+    "02 Creatures/01 Characters/NPCs",
+    "02 Creatures/01 Characters/Party",
+    "02 Creatures/01 Characters",
+    "00 Content/03 Templates/01 Sheets/_NPC Full_.md",
+    "00 Content/01 Images/01 Banners",
+    "00 Content/01 Images/01 Banners/SaulkerBanner.png",
+    "03 World/01 Cities/Saulker/Features",
+    "03 World/01 Cities/Saulker",
+    "03 World/05 Ensyclopedia",
+    "03 World/04 Factions",
+    "03 World/03 POIs",
+    "03 World/02 Dungeons",
+    "().md",
+    "00 Content/03 Templates/02 Callouts/_Recite_.md",
+    "00 Content/03 Templates/02 Callouts/_Infobox_.md",
+    "00 Content/03 Templates/02 Callouts/_Columns_.md",
+    "00 Content/03 Templates/02 Callouts/_Table_.md",
+    "Welcome.md"
+  ]
+}
