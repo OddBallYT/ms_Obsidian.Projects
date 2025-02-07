@@ -1,0 +1,1 @@
+Bright Light is normal illumination. _See also_ “[[Exploration]]”.

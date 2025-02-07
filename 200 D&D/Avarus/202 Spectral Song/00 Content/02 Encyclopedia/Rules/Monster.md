@@ -1,0 +1,1 @@
+A monster is a creature controlled by the DM, even if the creature is benevolent. _See also_ “[[Creature]]” and “[[Nonplayer Character|NPC]]”.

@@ -1,0 +1,1 @@
+Healing is how you regain [[Hit Points]]. _See also_ “[[Damage and Healing]]”.

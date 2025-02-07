@@ -1,0 +1,1 @@
+Temporary Hit Points are granted by certain effects and act as a buffer against losing real [[Hit Points]]. _See also_ “[[Damage and Healing]]”.

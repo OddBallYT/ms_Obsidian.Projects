@@ -1,0 +1,1 @@
+A player character is a character controlled by a player.

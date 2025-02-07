@@ -1,0 +1,1 @@
+A Difficulty Class (DC) is the target number for an [[ability check]] or a [[saving throw]]. _See also_ “[[D20 Tests]]”.

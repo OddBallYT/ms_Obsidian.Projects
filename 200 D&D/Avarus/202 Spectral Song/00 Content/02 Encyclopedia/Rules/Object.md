@@ -1,0 +1,1 @@
+An object is a nonliving, distinct thing. Composite things, like buildings, comprise more than one object. _See also_ “[Breaking Objects](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary?srsltid=AfmBOoqMJGGxHtIOm28MSa7Ei5rmdtyjGjK6y_SAp55WdiH1CiyxDAEp#BreakingObjects).”

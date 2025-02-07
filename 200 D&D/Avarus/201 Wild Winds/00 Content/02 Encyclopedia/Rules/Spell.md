@@ -1,0 +1,1 @@
+A spell is a magical effect that has the characteristics.

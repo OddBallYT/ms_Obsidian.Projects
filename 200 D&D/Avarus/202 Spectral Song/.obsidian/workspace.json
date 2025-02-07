@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "3bebb062a658f2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b08ecc726a3549a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6561ac02697dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Entities/NPCs/Fishmonger Morg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fishmonger Morg"
+            }
+          },
+          {
+            "id": "8934ff7816f3b992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Campaign/01 Sessions/Session 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 0"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cafcbb16773aec17",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0dbe3b08242dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf50b05c2bb8d655",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41a91e861cb5c65e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad00856cb52aca44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "eaab38de04b11c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "04795e7114bc2964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d9ec863bf90f16e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 World/01 Cities/Saulker/Saulker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Saulker"
+            }
+          },
+          {
+            "id": "b7714b80a9accaed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 World/01 Cities/Saulker/Saulker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Saulker"
+            }
+          },
+          {
+            "id": "cfa5c8415009e6f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "131ed8f3bb879631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 World/01 Cities/Saulker/Saulker.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Saulker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "8934ff7816f3b992",
+  "lastOpenFiles": [
+    "01 Campaign/01 Sessions/Session 0.md",
+    "01 Campaign/01 Sessions/Session 1 - Fish O' Fancy.md",
+    "02 Entities/NPCs/Fishmonger Morg.md",
+    "00 Content/02 Encyclopedia/Glossary.md",
+    "01 Campaign/01 Sessions",
+    "00 Content/02 Encyclopedia/Rules/D20 Test.md",
+    "00 Content/02 Encyclopedia/Rules/Ability Score and Modifier.md",
+    "00 Content/02 Encyclopedia/Rules/The Six Abilities.md",
+    "00 Content/02 Encyclopedia/Rules/Dice Notation.md",
+    "00 Content/02 Encyclopedia/Abilities/Untitled.md",
+    "00 Content/02 Encyclopedia/Abilities",
+    "00 Content/02 Encyclopedia/Rules/Weapon Attack.md",
+    "00 Content/02 Encyclopedia/Rules/Weapon.md",
+    "00 Content/02 Encyclopedia/Rules/Vulnerability.md",
+    "00 Content/02 Encyclopedia/Actions/Utilize.md",
+    "00 Content/02 Encyclopedia/Rules/Unoccupied Space.md",
+    "00 Content/02 Encyclopedia/Conditions/Unconscious.md",
+    "00 Content/02 Encyclopedia/Rules/Unarmed Strike.md",
+    "00 Content/02 Encyclopedia/Rules/Truesight.md",
+    "00 Content/02 Encyclopedia/Rules/Tremorsense.md",
+    "00 Content/02 Encyclopedia/Rules/Temporary Hit Points.md",
+    "00 Content/02 Encyclopedia/Rules/Teleportation.md",
+    "00 Content/02 Encyclopedia/Rules/Telepathy.md",
+    "00 Content/02 Encyclopedia/Rules/Target.md",
+    "00 Content/02 Encyclopedia/Rules/Swim Speed.md",
+    "00 Content/02 Encyclopedia/Rules/Swimming.md",
+    "00 Content/02 Encyclopedia/Rules/Surprise.md",
+    "00 Content/02 Encyclopedia/Hazards/Suffocation.md",
+    "00 Content/02 Encyclopedia/Attitudes/Untitled",
+    "00 Content/02 Encyclopedia/Attitudes",
+    "00 Content/02 Encyclopedia/Area Of Effects",
+    "00 Content/03 Templates/03 Inserts",
+    "00 Content/02 Encyclopedia/Hazards",
+    "00 Content/02 Encyclopedia/Conditions",
+    "00 Content/02 Encyclopedia/Actions",
+    "00 Content/02 Encyclopedia/Rules/Untitled",
+    "00 Content/01 Images/02 Profiles/Characters/TansyCoppermugProfile.png",
+    "00 Content/01 Images/01 Banners/BlackRockBanner.png",
+    "00 Content/01 Images/01 Banners/SaulkerBanner.png"
+  ]
+}

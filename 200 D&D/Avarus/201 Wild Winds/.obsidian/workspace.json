@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4eb979c11f1eaa4",
+        "id": "4b08ecc726a3549a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6b980899e28d38",
+            "id": "4f6561ac02697dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 World/01 Cities/Saulker/Saulker.md",
-                "mode": "preview",
+                "file": "00 Content/02 Encyclopedia/Glossary.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saulker"
+              "title": "Glossary"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 228.5
   },
   "right": {
     "id": "eaab38de04b11c12",
@@ -163,27 +163,46 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2b6b980899e28d38",
+  "active": "bf50b05c2bb8d655",
   "lastOpenFiles": [
-    "00 Content/03 Templates/01 Sheets/_City_.md",
-    "03 World/01 Cities/Saulker/Saulker.md",
-    "02 Creatures/01 Characters/NPCs",
-    "02 Creatures/01 Characters/Party",
-    "02 Creatures/01 Characters",
-    "00 Content/03 Templates/01 Sheets/_NPC Full_.md",
-    "00 Content/01 Images/01 Banners",
-    "00 Content/01 Images/01 Banners/SaulkerBanner.png",
-    "03 World/01 Cities/Saulker/Features",
-    "03 World/01 Cities/Saulker",
-    "03 World/05 Ensyclopedia",
-    "03 World/04 Factions",
-    "03 World/03 POIs",
-    "03 World/02 Dungeons",
-    "().md",
-    "00 Content/03 Templates/02 Callouts/_Recite_.md",
-    "00 Content/03 Templates/02 Callouts/_Infobox_.md",
-    "00 Content/03 Templates/02 Callouts/_Columns_.md",
-    "00 Content/03 Templates/02 Callouts/_Table_.md",
-    "Welcome.md"
+    "00 Content/02 Encyclopedia/Rules/D20 Test.md",
+    "00 Content/02 Encyclopedia/Glossary.md",
+    "00 Content/02 Encyclopedia/Rules/Ability Score and Modifier.md",
+    "00 Content/02 Encyclopedia/Rules/The Six Abilities.md",
+    "00 Content/02 Encyclopedia/Rules/Dice Notation.md",
+    "00 Content/02 Encyclopedia/Abilities/Untitled.md",
+    "00 Content/02 Encyclopedia/Abilities",
+    "00 Content/02 Encyclopedia/Rules/Weapon Attack.md",
+    "00 Content/02 Encyclopedia/Rules/Weapon.md",
+    "00 Content/02 Encyclopedia/Rules/Vulnerability.md",
+    "00 Content/02 Encyclopedia/Actions/Utilize.md",
+    "00 Content/02 Encyclopedia/Rules/Unoccupied Space.md",
+    "00 Content/02 Encyclopedia/Conditions/Unconscious.md",
+    "00 Content/02 Encyclopedia/Rules/Unarmed Strike.md",
+    "00 Content/02 Encyclopedia/Rules/Truesight.md",
+    "00 Content/02 Encyclopedia/Rules/Tremorsense.md",
+    "00 Content/02 Encyclopedia/Rules/Temporary Hit Points.md",
+    "00 Content/02 Encyclopedia/Rules/Teleportation.md",
+    "00 Content/02 Encyclopedia/Rules/Telepathy.md",
+    "00 Content/02 Encyclopedia/Rules/Target.md",
+    "00 Content/02 Encyclopedia/Rules/Swim Speed.md",
+    "00 Content/02 Encyclopedia/Rules/Swimming.md",
+    "00 Content/02 Encyclopedia/Rules/Surprise.md",
+    "00 Content/02 Encyclopedia/Hazards/Suffocation.md",
+    "00 Content/02 Encyclopedia/Conditions/Stunned.md",
+    "00 Content/02 Encyclopedia/Actions/Study.md",
+    "00 Content/02 Encyclopedia/Rules/Stat Block.md",
+    "00 Content/02 Encyclopedia/Attitudes/Untitled",
+    "00 Content/02 Encyclopedia/Attitudes",
+    "00 Content/02 Encyclopedia/Area Of Effects",
+    "00 Content/03 Templates/03 Inserts",
+    "00 Content/02 Encyclopedia/Hazards",
+    "00 Content/02 Encyclopedia/Conditions",
+    "00 Content/02 Encyclopedia/Actions",
+    "00 Content/02 Encyclopedia/Rules/Untitled",
+    "00 Content/02 Encyclopedia/Rules",
+    "00 Content/01 Images/02 Profiles/Characters/TansyCoppermugProfile.png",
+    "00 Content/01 Images/01 Banners/BlackRockBanner.png",
+    "00 Content/01 Images/01 Banners/SaulkerBanner.png"
   ]
 }

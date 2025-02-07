@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaign/01 - Main Story/0-001 The Festival.md",
+                "file": "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-001 The Festival"
+              "title": "Tansy Coppermug"
             }
           }
         ]
@@ -161,15 +161,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-kanban:Create new board": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "90a3c807644c768b",
+  "active": "7df6be0feeec3028",
   "lastOpenFiles": [
+    "00 - Content/Images/Entites/Characters/Non-Players/Tansy Coppermug.png",
+    "01 - Campaign/01 - Main Story/0-001 The Festival.md",
     "~$arus Campaign Book.docx",
     "03 - World/Cities/Saulker/Saulker.md",
     "00 - Content/Templates/Sheets/_140524_sheet.town.md",
@@ -178,7 +180,6 @@
     "02 - Entities/0202 - Creatures/Quiphle.md",
     "01 - Campaign/Sessions/MEDS/231124_session1.md",
     "01 - Campaign/Sessions/MEDS/00 Level.md",
-    "01 - Campaign/01 - Main Story/0-001 The Festival.md",
     "Encounter Tracking.md",
     "03 - World/Cities/Saulker/Features/The Coppermug.md",
     "05 - Game/Rules/Spider Eyes.md",

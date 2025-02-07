@@ -1,0 +1,1 @@
+As they overcome challenges and complete adventures, characters earn Experience Points (XP), which are awarded by the Dungeon Master. When a character’s XP total crosses certain thresholds, the character’s level increases. The _Dungeon Master’s Guide_ provides guidance on awarding XP. _See also_ “[[Level Advancement]]”.
