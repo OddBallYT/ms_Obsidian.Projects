@@ -1,0 +1,435 @@
+{
+  "mapMarkers": [
+    {
+      "id": "saulker",
+      "locked": false,
+      "lastAccessed": 1739145558120,
+      "markers": [
+        {
+          "id": "ID_fa9959284b4b",
+          "type": "poi",
+          "loc": [
+            1740,
+            1375.999416928509
+          ],
+          "link": "Greenpark",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.47520318369664677,
+            -0.6009112572720844
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9c89b79fb29",
+          "type": "civil centre",
+          "loc": [
+            1828,
+            1237.9895047131613
+          ],
+          "link": "Trawler Houses' HQ",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4275412814751901,
+            -0.6313021714329714
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19683ac98948",
+          "type": "religious centre",
+          "loc": [
+            1857.3706403948515,
+            1473.760458053996
+          ],
+          "link": "Greenbrine Parish",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bcba8f9c879",
+          "type": "civil centre",
+          "loc": [
+            2178.397119053544,
+            1436.9801857933592
+          ],
+          "link": "Saulker Schoolhouse",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa5b8a7bb818",
+          "type": "civil centre",
+          "loc": [
+            2238,
+            1328.0227397881508
+          ],
+          "link": "Saulker Townhall",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4586343760069057,
+            -0.7728962033189223
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_396a89ea093a",
+          "type": "tavern",
+          "loc": [
+            1174,
+            1564.053059505685
+          ],
+          "link": "The Coppermug",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5401477531194319,
+            -0.4054424230100156
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08d9aa6a58b9",
+          "type": "poi",
+          "loc": [
+            1686,
+            1283.9481066372973
+          ],
+          "link": "The Saltharbor Market",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4434131442709946,
+            -0.5822622872188128
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c929786b7aeb",
+          "type": "poi",
+          "loc": [
+            844,
+            2343.9976677140357
+          ],
+          "link": "Yeller's Lemon Orchard",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8095026353729166,
+            -0.2914764949066892
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9a91b293819",
+          "type": "shop",
+          "loc": [
+            1905.4375,
+            1122.2899484953516
+          ],
+          "link": "Trawler's Trail",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48eab8a95b58",
+          "type": "shop",
+          "loc": [
+            1829.9923497107852,
+            1665.943164181701
+          ],
+          "link": "Saulker's Stowage",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5753356329495749,
+            -0.6319902319902321
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29c88a395af9",
+          "type": "shop",
+          "loc": [
+            1430,
+            1623.9988338570179
+          ],
+          "link": "Blacksalt Blacksmith",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5608501040582871,
+            -0.49385235511441417
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "04 World/01 Cities/Saulker/map.md"
+      ]
+    },
+    {
+      "id": "saulker_map",
+      "locked": false,
+      "lastAccessed": 1739145560651,
+      "markers": [
+        {
+          "id": "ID_18b94a3b0a4b",
+          "type": "default",
+          "loc": [
+            1730.875,
+            1378.9992932427863
+          ],
+          "link": "00 Saulker",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58ab0a886b48",
+          "type": "poi",
+          "loc": [
+            1738.687186590072,
+            1373.907628438509
+          ],
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b0a091a49c8",
+          "type": "poi",
+          "loc": [
+            1750.000895089057,
+            1373.907628438509
+          ],
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8bbf958a9da",
+          "type": "poi",
+          "loc": [
+            1739.0296914372095,
+            1375.9413888290378
+          ],
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48da7a89fa78",
+          "type": "poi",
+          "loc": [
+            1736.71875,
+            1376.24234718668
+          ],
+          "link": "Greenpark",
+          "layer": "%5B%5Bsaulker_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#c66c39",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "shop",
+      "iconName": "coins",
+      "color": "#c66c39",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "religious centre",
+      "iconName": "cross",
+      "color": "#c66c39",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "tavern",
+      "iconName": "mug-hot",
+      "color": "#c66c39",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "civil centre",
+      "iconName": "crown",
+      "color": "#c66c39",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "poi",
+      "iconName": "exclamation",
+      "color": "#c66c39",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

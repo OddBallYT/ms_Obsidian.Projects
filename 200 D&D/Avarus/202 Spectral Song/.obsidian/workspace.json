@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Campaign/01 Sessions/Session 0.md",
-                "mode": "source",
+                "file": "04 World/01 Cities/Saulker/map.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "map"
             }
           }
         ],
@@ -55,8 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 283.5
   },
   "right": {
     "id": "eaab38de04b11c12",
@@ -176,48 +175,50 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "8934ff7816f3b992",
   "lastOpenFiles": [
-    "01 Campaign/01 Sessions/Session 0.md",
-    "01 Campaign/01 Sessions/Session 1 - Fish O' Fancy.md",
+    "04 World/01 Cities/Saulker/features/Saulker's Stowage.md",
+    "04 World/01 Cities/Saulker/map.md",
+    "04 World/01 Cities/Saulker/features/Blacksalt Blacksmith.md",
+    "04 World/01 Cities/Saulker/00 Saulker.md",
+    "04 World/01 Cities/Saulker/features/Trawler's Trail.md",
+    "04 World/01 Cities/Saulker/features/Greenpark.md",
+    "04 World/01 Cities/Saulker/Untitled",
+    "04 World/01 Cities/Saulker/features/Trawler Houses' HQ.md",
+    "04 World/01 Cities/Saulker/features/Trawler Houeses' HQ.md",
+    "04 World/01 Cities/Saulker/features/Yeller's Lemon Orchard.md",
+    "04 World/01 Cities/Saulker/features/Saulker Schoolhouse.md",
+    "04 World/01 Cities/Saulker/features/Greenbrine Parish.md",
+    "04 World/01 Cities/Saulker/features/Saulker Townhall.md",
+    "04 World/01 Cities/Saulker/features/The Saltharbor Market.md",
+    "04 World/01 Cities/Saulker/features/The Coppermug.md",
+    "04 World/01 Cities/Saulker/features",
     "02 Entities/NPCs/Fishmonger Morg.md",
+    "01 Campaign/01 Sessions/Session 1 - Fish O' Fancy.md",
+    "01 Campaign/01 Sessions/Session 0.md",
+    "04 World/01 Cities/Black Rock/Black Rock.md",
+    "03 Items/Bag of The Menagerie.md",
+    "03 Items",
+    "Relentless Endurance.md",
+    "02 Entities/NPCs/Tansy Coppermug.md",
+    "02 Entities/NPCs/Herrisa Yeller.md",
+    "00 Content/01 Images/03 Maps/saulker_map.png",
+    "00 Content/01 Images/02 Profiles/Characters/TansyCoppermugProfile.png",
+    "00 Content/01 Images/03 Maps",
+    "00 Content/03 Templates/02 Callouts/_Map_.md",
     "00 Content/02 Encyclopedia/Glossary.md",
     "01 Campaign/01 Sessions",
     "00 Content/02 Encyclopedia/Rules/D20 Test.md",
     "00 Content/02 Encyclopedia/Rules/Ability Score and Modifier.md",
-    "00 Content/02 Encyclopedia/Rules/The Six Abilities.md",
-    "00 Content/02 Encyclopedia/Rules/Dice Notation.md",
-    "00 Content/02 Encyclopedia/Abilities/Untitled.md",
     "00 Content/02 Encyclopedia/Abilities",
-    "00 Content/02 Encyclopedia/Rules/Weapon Attack.md",
-    "00 Content/02 Encyclopedia/Rules/Weapon.md",
-    "00 Content/02 Encyclopedia/Rules/Vulnerability.md",
-    "00 Content/02 Encyclopedia/Actions/Utilize.md",
-    "00 Content/02 Encyclopedia/Rules/Unoccupied Space.md",
-    "00 Content/02 Encyclopedia/Conditions/Unconscious.md",
-    "00 Content/02 Encyclopedia/Rules/Unarmed Strike.md",
-    "00 Content/02 Encyclopedia/Rules/Truesight.md",
-    "00 Content/02 Encyclopedia/Rules/Tremorsense.md",
-    "00 Content/02 Encyclopedia/Rules/Temporary Hit Points.md",
-    "00 Content/02 Encyclopedia/Rules/Teleportation.md",
-    "00 Content/02 Encyclopedia/Rules/Telepathy.md",
-    "00 Content/02 Encyclopedia/Rules/Target.md",
-    "00 Content/02 Encyclopedia/Rules/Swim Speed.md",
-    "00 Content/02 Encyclopedia/Rules/Swimming.md",
-    "00 Content/02 Encyclopedia/Rules/Surprise.md",
-    "00 Content/02 Encyclopedia/Hazards/Suffocation.md",
     "00 Content/02 Encyclopedia/Attitudes/Untitled",
     "00 Content/02 Encyclopedia/Attitudes",
     "00 Content/02 Encyclopedia/Area Of Effects",
     "00 Content/03 Templates/03 Inserts",
-    "00 Content/02 Encyclopedia/Hazards",
-    "00 Content/02 Encyclopedia/Conditions",
-    "00 Content/02 Encyclopedia/Actions",
-    "00 Content/02 Encyclopedia/Rules/Untitled",
-    "00 Content/01 Images/02 Profiles/Characters/TansyCoppermugProfile.png",
     "00 Content/01 Images/01 Banners/BlackRockBanner.png",
     "00 Content/01 Images/01 Banners/SaulkerBanner.png"
   ]

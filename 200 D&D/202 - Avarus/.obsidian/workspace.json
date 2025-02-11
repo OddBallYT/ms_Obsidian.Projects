@@ -161,15 +161,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "7df6be0feeec3028",
+  "active": "90a3c807644c768b",
   "lastOpenFiles": [
+    "00 - Content/Templates/_120624_leaflet.map.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
     "00 - Content/Images/Entites/Characters/Non-Players/Tansy Coppermug.png",
     "01 - Campaign/01 - Main Story/0-001 The Festival.md",
     "~$arus Campaign Book.docx",
@@ -186,7 +188,6 @@
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Hanlan Fargon.md",
     "01 - Campaign/Sessions/MEDS",
     "01 - Campaign/Sessions",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
     "04 - Items/Common/Embrelead.md",
     "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
     "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",

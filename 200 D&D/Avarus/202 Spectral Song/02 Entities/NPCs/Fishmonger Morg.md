@@ -70,7 +70,13 @@ A generally happy person, though acutely aware that people are off-put by his ha
 | **Feats** | feats |
 >
 > ###### Proficiencies
-> 1, 2
+> ***Skills.*** nature, animal handling, survival
+> ***Tools.*** fishing tackle
+###### [[Bag of The Menagerie]]
+Baby chuul
+
+###### Backpack
+21gp, 11sp, 
 
 ## Story
 #### Backstory

@@ -1,150 +1,162 @@
-### 1. Welcome & Introduction (~10-15 min)
+### 1. Welcome & Introduction
 
 - **Campaign Overview**
-    - Briefly introduce the setting, general tone, and themes of the campaign.
-    - Explain if this is homebrew or a published module.
-    - Highlight any unique mechanics or storytelling elements.
-    
-- **Player Introductions**
-    - Ask each player to share a little about their experience with D&D.
-    - Have them describe what they enjoy in a campaign (combat, roleplay, puzzles, exploration, etc.).
-    - Encourage players to share if they have any preferences for playstyle.
+    - ***Vocabulary***
+	    - **Campaign**: Long overarching story between every session
+	    - **Session**: The game played in a single day
+	    - **Adventure**: A single plot thread, usually played through a single session
+	    - **Spectre**: A player's actual body in the campaign
+	    - **Host**: The characters that the player's use to conduct adventures
+    - ***Setting and tone***
+	    - The tone will be slightly different for each adventure, spanning mystery light horror, comedy and others.
+	    - **Brief history**
+		    - A group of explorers sailed from the *old world* (now lost) to Avarus, settling originally the eastern coast (now known as the Estavar). After a few hundred years, and lots of development people expanded west settling the central area of the continent. After a war between the two primary factions, that resulted in the split of the north and the south, known as Nordavar and Sodavar. After many years of a stagnant cold war then regent of the Sodavar decided to start a push west to inhabit the Westavar, the last bit of uninhabited land on the continent. Nordavar followed suit, resulting in a standoff between the two major city-states that developed in the Westavar: Vershaw of the south, and Arkley of the north.
+	    - Spectral Wardens
+		    - You are a spectral warden, AKA a spectre. You were created by a mysterious force known to you only as *The Presence*. This *Presence* uses you as it's 'hands' used to intact its will. You have agency, but are subject to the will of the *Presence*. 
+	    - Each adventure will be self contained, and vary in tone, theme and contents. 
+    - House rules.
+	    - Rerolls.
+		    - There are destructive and non-destructive rolls.
+			    - Destructive rolls change the world around them such that the roll can not be reattempted. For example if you try to jump and catch a ledge, and fail and fall, you can not retry as you've already passed the ledge. (Charisma checks, like trying to convince someone of something also falls in this category).
+			    - Non-destructive rolls are rolls that can be reattempted, in a way that the world remains the same. For example, if you try and fail to climb a tree, the tree is still there and can be reclimbed. However on a fail there may be consequences, such as taking damage from falling down the tree.
+	    - All players start at level 3.
+	    - The party has a collective spectral level. This level grants abilities at new level, and applies to all players and usually provides opportunities for teamwork
 
 ---
 
-### 2. Campaign Expectations & Boundaries (~15-20 min)
+### 2. Campaign Expectations & Boundaries
 
 - **Tone & Themes**
-    - Discuss if this will be a lighthearted, dark, high fantasy, grimdark, or comedy campaign.
     - Clarify whether horror, politics, mystery, or other themes will be present.
+	    - Light horror in a few adventures
+	    - light, In-world politics
+	    - Mystery in various scenarios
+	- Content warnings
+		- Use of alcohol
+		- Likely use of drugs
+		- Violence
+		- Likely coarse language
     
-- **Lines & Veils (Safety Tools)**
-    - **Lines:** Hard limits (topics that won’t appear in the campaign).
-    - **Veils:** Topics that can exist but will be faded to black or off-screen.
-    - Establish a way for players to communicate discomfort (e.g., X-card, private messaging).
+- **Limits**
+    - **Hard Limits:**
+	    - Overtly explicit/sexual topics
+    - How to communicate discomfort.
+	    - private messaging
     
 - **Player Buy-in & Group Dynamic**
-    - How much roleplaying is expected?
-    - Is PvP allowed? (stealing from each other, deception, combat, etc.)
-    - How cooperative does the party need to be?
+    - Roleplay/combat division will be around 70/30
+    - PvP
+	    - PvP is allowed, though the acting players may see consequences in-world and by the *Presence*.
 
 ---
 
-### 3. Character Creation & Party Composition (~30-40 min)
+### 3. Character Creation & Party Composition
 
 - **Ability Score & Character Building**
-    - Discuss how you will roll or assign stats (Standard Array, Point Buy, Rolling).
+    - Discuss how you will roll or assign stats.
+	    - Standard array, to make it simple and avoid any unfair advantage/disadvantage
     - Are there any banned races, classes, or subclasses?
-    - Any homebrew rules for character creation?
-    
-- **Party Role Balance**
-    - Check if the party has a good spread of abilities (healer, tank, spellcaster, utility, etc.).
-    - Encourage players to work together to prevent niche overlap if necessary.
+	    - All **standard** rules races/classes/subclasses are allowed
+	    - Any **homebrew** races/classes/subclasses are banned
+	    - Any **official book** races/classes/subclasses must be checked with DM
+    - Since players are not inherently their hosts, while the hosts are not being controlled by their spectres, they have agency. This means they can act on their own between sessions. For example if your host is a big spender, you might return to your character to see that gold is gone, and you now have some special or unique item. 
+    - If anyone needs help building their character, let me know and I will help.
     
 - **Backstories & World Integration**
-    - Where is your character from?
-    - Do they have a connection to any major NPCs, factions, or world events?
-    - Discuss how deep into their backstory they should go before the campaign starts.
+    - Please send me a short blurb about your character
+    - Let me know any character integration points, so that I can help make your character fit in the world
     
 - **Secret or Shared Backstories?**
-    - Will there be **shared history** between characters? (e.g., past adventures, childhood friends, etc.)
-    - Are players okay with keeping some elements secret from each other?
+    - **Shared History**
+	    - Shared history is allowed, but must be discussed me first
+    - Players are allowed to keep some elements secret from each other, but not me (DM) 
 
 ---
 
-### 4. House Rules & Mechanics (~20-30 min)
+### 4. House Rules & Mechanics
 
 - **Critical Rules & Modifications**
-    - Any homebrew mechanics? (Custom initiative rules, modified rests, inspiration changes, etc.)
-    - Death saves & Resurrection rules? (Lingering injuries, character retirement, etc.)
-    - Flanking rules? (Does it grant advantage or not?)
-    - Encumbrance? (Strict, loose, or ignored?)
+    - Resurrection Rules
+	    - Resurrection is possible, but there will likely be lingering injuries or other consequences 
+    - Flanking Rules
+	    - Attacking from the side or back of an engaged creature grants advantage
+    - Single Item Encumbrance Only 
+	    - If you're holding something that is too big, or heavy your speed will be reduced by half
     
 - **Combat Expectations**
-    - How tactical do you expect combat to be? (Theater of the Mind vs. Grid-based)
+    - Combat Platform
+	    - Combat will be done in a VTT (likely discord activity or owlbear)
     - How long should turns take? (Establish a time limit if necessary)
-    - Do you allow pre-declared readied actions outside the rules?
+	    - No time limit, but try to be quick for time sake
+    - Readying
+	    - You **can** ready an action for something to occur
+	    - You **cannot** ready a movement
+	    - You **cannot** ready a bonus action
     
 - **Magic & Item Rules**
-    - Can characters craft magic items?
-    - Is identifying magic items automatic, or does it require a spell or time?
+    - Identifying Magic Items
+	    - Simpler items can be identified through an arcana check, or automatically
+	    - More complex items may need an identify spell or manual testing
     - How available will magic shops be?
+	    - Limited availability, available in certain cities, primarily in the north.
+	    - Cities in the south have limits on magic.
     
 - **Leveling Up & Milestone vs. XP**
     - Will you use milestone leveling or experience points?
-    - Can players multiclass?
+	    - Milestone
+	    - Players will level together
+    - Multiclassing
+	    - Multiclassing is allowed
     - Any restrictions on feats or specific abilities?
+	    - No
 
 ---
 
-### 5. Gameplay Style & Roleplay Expectations (~20 min)
+### 5. Gameplay Style & Roleplay Expectations
 
 - **Roleplay & Voices**
-    - Are character voices encouraged, required, or optional?
-    - How much in-character roleplaying is expected?
+    - Character Voices
+	    - Optional, but encouraged
+    - Expected Roleplaying
+	    - The game will be 70/30 RP to combat
+	    - At least one combat encounter every 2 sessions, with one every session planned
     
 - **Meta-Gaming & Player Knowledge**
-    - What are the expectations around keeping player knowledge vs. character knowledge separate?
-    - Will out-of-character discussion be limited?
+    - Player Knowledge vs. Character Knowledge
+	    - When occupying a host, memories will be that of the host. Meaning that when you are occupying the host, you have no knowledge of your spectral nature, or the *Presence*. Though you can in some instances feel the *Presence*.
+	    - Player characters and hosts can only speak when they are in earshot of each other
+    - Out-of-Character Discussion
+	    - No, people can discuss out of character all they want
     
 - **Notes & Journaling**
-    - Will one player be responsible for note-taking?
-    - Will you be providing recap summaries?
-    
-- **Downtime & Side Activities**
-    - Will there be time for solo character progression between sessions?
-    - How are player goals handled outside of the main story?
+    - Note-Taking
+	    - It is recommended that players take their own notes
+    - Recap Summaries
+	    - I will provide Brief summaries in the discord, primarily for those who could not attend.
 
 ---
 
-### 6. Scheduling & Logistics (~10-15 min)
+### 6. Scheduling & Logistics
 
 - **Session Frequency & Duration**
-    - What day/time will the group play? (Weekly, biweekly, etc.)
-    - How long will sessions last? (3-4 hours? Longer?)
+    - Schedule
+	    - Weekly, alternating Saturday 12pm EST, and Sunday 10am EST
+    - Sessions Length
+	    - Likely 2-3 hours, depending on player actions
     
 - **Absences & Cancellations**
-    - How many absences are acceptable?
-    - What happens if a player can’t make it? (NPC’d by DM, someone else controls them, they fade into the background, etc.)
-    - Will there be a set quorum for playing? (e.g., "We play if 3/5 people can make it.")
+    - Absences
+	    - Because of the nature of the campaign, it doesn't matter if you are able to attend or not.
+    - What happens if a player can’t make it? 
+	    - They are not included in that adventure
+    - Will there be a set quorum for playing?
+	    - At least 3 players must be present
     
 - **Communication & Updates**
-    - What platform will be used for session reminders? (Discord, email, group chat, etc.)
-    - Will you allow between-session roleplay or character interactions?
+    - Discord will be used for all communications.
 
 ---
 
-### 7. Final Questions & Wrap-Up (~10 min)
-
-- **Ask for Player Concerns & Questions**
-    - Is there anything not covered that players want to discuss?
-    - Are there any rules they feel strongly about?
-    
-- **Summarize Key Decisions**
-    - Recap major agreements (tone, mechanics, house rules, scheduling).
-    - Ensure everyone understands the expectations moving forward.
-    
-- **Confirm Character Creation Deadlines**
-    - When do characters need to be finalized? (Before session 1, or will there be flexibility?)
-    
-- **Set Up Any Pre-Campaign Roleplay**
-    - Will players have a chance to introduce their characters before the first session?
-    - Will they start together or separately?
-
----
-
-### Additional Considerations (If Needed)
-
-- **Mini Prologue or One-Shot**
-    - Some DMs like to run a **short pre-session** adventure to introduce players to the world.
-    - This could be a simple combat encounter or a roleplay-driven tavern meeting.
-    
-- **Handouts & Materials**
-    - Provide maps, session summaries, or homebrew materials.
-    
-- **Inspiration & Rewards**
-    - Explain how you handle Inspiration (default or homebrew).
-
----
-
-### Estimated Total Time: ~2-3 hours
+### 7. Final Questions & Wrap-Up
+- **Character Creation Deadlines**
+	- Before next session
