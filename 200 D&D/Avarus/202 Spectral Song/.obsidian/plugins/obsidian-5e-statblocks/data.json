@@ -1,5 +1,131 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Zephyrmaw Leviathan",
+      {
+        "name": "Zephyrmaw Leviathan",
+        "source": "Homebrew",
+        "size": "Large",
+        "type": "beast",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 16,
+        "hp": 90,
+        "hit_dice": "16d8 + 18",
+        "speed": "20 ft., swim 50 ft.",
+        "stats": [
+          19,
+          14,
+          17,
+          6,
+          14,
+          8
+        ],
+        "saves": [
+          {
+            "strength": 6
+          },
+          {
+            "constitution": 5
+          },
+          {
+            "wisdom": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          },
+          {
+            "stealth": 4
+          },
+          {
+            "athletics": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 14",
+        "languages": "",
+        "cr": "5",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Amphibious",
+            "desc": "The Zephyrmaw Leviathan can breathe both air and water.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bioluminescent Camouflage",
+            "desc": "When underwater, the Zephyrmaw Leviathan can dim or shift the colors of its bioluminescence to blend with its surroundings. It has advantage on Dexterity (Stealth) checks while in dim light or darkness underwater.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Relentless Guardian",
+            "desc": "If the Zephyrmaw Leviathan sees a creature within 30 feet of it holding its offspring, it has advantage on attack rolls against that creature.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Swift Predator",
+            "desc": "If the Zephyrmaw Leviathan moves at least 20 feet straight toward a target and then hits it with a Bite attack on the same turn, the target must succeed on a DC 14 Strength saving throw or be knocked prone.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Zephyrmaw Leviathan makes two attacks, one with its Bite and one with its Tail.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 4) piercing damage.",
+            "attack_bonus": 6,
+            "damage_dice": "3d8",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Tail Slam",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 14 (2d10 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 14 Strength saving throw or be pushed 10 feet away.",
+            "attack_bonus": 6,
+            "damage_dice": "2d10",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Lurking Strike (Recharge 5-6)",
+            "desc": "If the Zephyrmaw Leviathan is unseen by a creature when it attacks, the attack deals an additional 14 (4d6) piercing damage.",
+            "attack_bonus": 0,
+            "damage_dice": "4d6",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Roaring Current (Recharge 5-6)",
+            "desc": "The Zephyrmaw Leviathan rapidly thrashes, creating a powerful underwater current. Each creature within 20 feet must make a DC 14 Strength saving throw or be pushed up to 15 feet away and knocked prone. Creatures fully submerged in water have disadvantage on this save.",
+            "attack_bonus": 0
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Detect",
+            "desc": "The Zephyrmaw Leviathan makes a Wisdom (Perception) check.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Tail Swipe",
+            "desc": "The Zephyrmaw Leviathan makes one Tail attack.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Vortex Dive (Costs 2 Actions)",
+            "desc": "The Zephyrmaw Leviathan moves up to 30 feet without provoking opportunity attacks, pulling a creature it has grappled with it.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",

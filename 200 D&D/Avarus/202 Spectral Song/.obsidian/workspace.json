@@ -4,39 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "4b08ecc726a3549a",
+        "id": "7b538b5427faaf88",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6561ac02697dc5",
+            "id": "a09a4076f4cc8d9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Entities/NPCs/Fishmonger Morg.md",
+                "file": "01 Campaign/03 Scenes/02-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fishmonger Morg"
+              "title": "02-02"
             }
           },
           {
-            "id": "8934ff7816f3b992",
+            "id": "f5d7dd9fe84ac28b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "04 World/01 Cities/Saulker/map.md",
-                "mode": "preview",
-                "source": false
+                "file": "04 World/02 Dungeons/Arcspire/arcspire_f.svg"
               },
-              "icon": "lucide-file",
-              "title": "map"
+              "icon": "lucide-image",
+              "title": "arcspire_f"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,47 +177,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8934ff7816f3b992",
+  "active": "a09a4076f4cc8d9b",
   "lastOpenFiles": [
-    "04 World/01 Cities/Saulker/features/Saulker's Stowage.md",
-    "04 World/01 Cities/Saulker/map.md",
-    "04 World/01 Cities/Saulker/features/Blacksalt Blacksmith.md",
-    "04 World/01 Cities/Saulker/00 Saulker.md",
-    "04 World/01 Cities/Saulker/features/Trawler's Trail.md",
-    "04 World/01 Cities/Saulker/features/Greenpark.md",
-    "04 World/01 Cities/Saulker/Untitled",
-    "04 World/01 Cities/Saulker/features/Trawler Houses' HQ.md",
-    "04 World/01 Cities/Saulker/features/Trawler Houeses' HQ.md",
-    "04 World/01 Cities/Saulker/features/Yeller's Lemon Orchard.md",
-    "04 World/01 Cities/Saulker/features/Saulker Schoolhouse.md",
-    "04 World/01 Cities/Saulker/features/Greenbrine Parish.md",
-    "04 World/01 Cities/Saulker/features/Saulker Townhall.md",
-    "04 World/01 Cities/Saulker/features/The Saltharbor Market.md",
-    "04 World/01 Cities/Saulker/features/The Coppermug.md",
-    "04 World/01 Cities/Saulker/features",
-    "02 Entities/NPCs/Fishmonger Morg.md",
+    "02 Entities/NPCs/Bof.md",
+    "01 Campaign/03 Scenes/02-02.md",
+    "01 Campaign/01 Sessions/Session 2 - The Hermit of Arcspire.md",
+    "00 Content/01 Images/03 Maps/buildings/arcspite_bp.svg",
+    "04 World/02 Dungeons/Arcspire/arcspire_f.svg",
+    "01 Campaign/03 Scenes/02-01.md",
+    "04 World/02 Dungeons/Arcspire/arcspire_r.svg",
+    "04 World/02 Dungeons/Arcspire/arcspire_l.svg",
+    "04 World/02 Dungeons/Arcspire/arcspire_b.svg",
+    "04 World/02 Dungeons/Arcspire",
+    "04 World/02 Dungeons",
+    "01 Campaign/03 Scenes/01-01.md",
+    "01 Campaign/03 Scenes/01-04.md",
     "01 Campaign/01 Sessions/Session 1 - Fish O' Fancy.md",
+    "00 Content/01 Images/02 Portraits/Characters/dragonborn monk.png",
+    "00 Content/01 Images/02 Portraits/Characters/dragonborn bard.png",
+    "00 Content/01 Images/02 Portraits/Characters/angry peasant.png",
+    "00 Content/01 Images/02 Portraits/Characters/bob.png",
+    "02 Entities/Beastiary/Zephyrmaw Leviathan.md",
     "01 Campaign/01 Sessions/Session 0.md",
-    "04 World/01 Cities/Black Rock/Black Rock.md",
+    "02 Entities/NPCs/Fishmonger Morg.md",
     "03 Items/Bag of The Menagerie.md",
-    "03 Items",
-    "Relentless Endurance.md",
+    "01 Campaign/03 Scenes/01-03.md",
+    "02 Entities/NPCs/Cale Fellion.md",
+    "01 Campaign/03 Scenes/01-02.md",
+    "04 World/01 Cities/Saulker/features/Saulker's Stowage.md",
+    "04 World/01 Cities/Saulker/features/Saulker Townhall.md",
+    "04 World/01 Cities/Saulker/features/Saulker Schoolhouse.md",
+    "04 World/01 Cities/Saulker/features/Greenpark.md",
+    "04 World/01 Cities/Saulker/features/Greenbrine Parish.md",
+    "04 World/01 Cities/Saulker/features/Blacksalt Blacksmith.md",
+    "04 World/01 Cities/Saulker/features/The Coppermug.md",
+    "04 World/01 Cities/Saulker/features/The Saltharbor Market.md",
+    "04 World/01 Cities/Saulker/map.md",
+    "02 Entities/NPCs/Renold Abbot.md",
+    "02 Entities/NPCs/Jace.md",
     "02 Entities/NPCs/Tansy Coppermug.md",
-    "02 Entities/NPCs/Herrisa Yeller.md",
-    "00 Content/01 Images/03 Maps/saulker_map.png",
-    "00 Content/01 Images/02 Profiles/Characters/TansyCoppermugProfile.png",
-    "00 Content/01 Images/03 Maps",
-    "00 Content/03 Templates/02 Callouts/_Map_.md",
-    "00 Content/02 Encyclopedia/Glossary.md",
-    "01 Campaign/01 Sessions",
-    "00 Content/02 Encyclopedia/Rules/D20 Test.md",
-    "00 Content/02 Encyclopedia/Rules/Ability Score and Modifier.md",
-    "00 Content/02 Encyclopedia/Abilities",
-    "00 Content/02 Encyclopedia/Attitudes/Untitled",
-    "00 Content/02 Encyclopedia/Attitudes",
-    "00 Content/02 Encyclopedia/Area Of Effects",
-    "00 Content/03 Templates/03 Inserts",
-    "00 Content/01 Images/01 Banners/BlackRockBanner.png",
-    "00 Content/01 Images/01 Banners/SaulkerBanner.png"
+    "00 Content/01 Images/02 Portraits/Characters/elvish bard.png",
+    "00 Content/01 Images/02 Portraits/Characters",
+    "00 Content/01 Images/02 Portraits/Monsters",
+    "00 Content/01 Images/02 Portraits",
+    "00 Content/01 Images/03 Maps/towns",
+    "00 Content/01 Images/03 Maps/buildings",
+    "00 Content/02 Encyclopedia/Spells",
+    "01 Campaign/03 Scenes",
+    "02 Entities/Beastiary"
   ]
 }

@@ -1,10 +1,6 @@
 ---
 banner: "![[BlackRockBanner.png]]"
 ---
----
-banner: "![[BlackRockBanner.png]]"
-banner_y: 0.8
----
 > [!quote|mark] ‎ 
 > Quote about the city
 

@@ -5,38 +5,42 @@
 > ##### Basics
 > | Type | Value |
 > | ---- | ---- |
-> | Race | half-orc |
-> | Age | 29 |
-> | Alignment | Chaotic Good |
+> | Race | helf-elf |
+> | Age | 60 |
+> | Alignment | chaotic neutral |
 > 
 > ##### Lifestyle
 > | Type | Value |
 > | ---- | ---- |
-> | Status | #status/alive |
-> | Home | nomadic |
+> | Status | #status/alive  |
+> | Home | [[Vershaw]] |
 
 ## Overview
 #### Physical
 ###### Stature.
-- ***Height.*** 5'10"
-- ***Weight.*** 310 lbs
-- ***Build.*** Portly
+- ***Height.*** 6'2"
+- ***Weight.*** 200 lbs
+- ***Build.*** husky, broad shouldered
 
 ###### Features.
+Brown hair, handing down with a bun pulled back
 
 #### Voice
+*Slightly* horny.
+
 #### Personality
 > [!statblocks]
 > | [AGR](https://www.psychologytoday.com/ca/basics/agreeableness) | [OPN](https://www.psychologytoday.com/ca/basics/openness) | [NEU](https://www.psychologytoday.com/ca/basics/neuroticism) | [CON](https://www.psychologytoday.com/ca/basics/conscientiousness) | [EXT](https://www.psychologytoday.com/ca/basics/extroversion) |
 |:---:|:---:|:---:|:---:|:---:|
-| 6 | 8 | 2 | 7 | 9 |
+| 5 | 6 | 3 | 9 | 10 |
 
-A generally happy person, though acutely aware that people are off-put by his half-orc nature, and tries to avoid any conflict regarding it. Has a great love of nature and animals.
+Extremely outgoing, constantly trying to sell people things.
+
 #### Stats
 > [!statblocks]
 | HP | AC | Initiative |
 |:---:|:---:|:---:|
-| 36/44 | 11 | +0 |
+| 37 | 17 | +1 |
 >> [!checks|no-t] 
 >> - **Death Saves**
 >>	- ❌
@@ -51,32 +55,55 @@ A generally happy person, though acutely aware that people are off-put by his ha
 >
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 | 10 | 15 | 12 | 17 | 16 |
-| +1 | +0 | +2 | +1 | +3 | +3 | **Mod** |
+| 10 | 12 | 11 | 19 | 16 | 23 |
+| +0 | +1 | +0 | +4 | +3 | +6 | **Mod** |
 > 
 |  |  |
 | ---:|:--- |
 | **Speed** | 30ft |
 | **Passive Perception (WIS)** | 13 |
-| **Proficiency Bonus** | +3 |
+| **Proficiency Bonus** | +2 |
 >
 > ---
 >
 > ###### Traits
 | | |
 | --- | --- |
-| **Class** | #classes/ranger |
-| **Racial Traits** | [[Darkvision|Darkvision 60 ft.]], [[Relentless Endurance]]  |
+| **Class** | Sorcerer |
+| **Racial Traits** | [[Darkvision]], [[Fey Ancestry]] |
 | **Feats** | feats |
 >
+> ---
+> 
+> ###### Spells
+***Cantrips.*** [[Dancing Lights]], [[Minor Illusion]]
+>> [!checks|no-t] 
+>> - **1st level**
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	[[Chromatic Orb]], [[Command]], [[Identify]]
+>>	- **2nd level**
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	[[Alter Self]], [[Dragon's Breath]]
+>>-
+>>	- **3rd level**
+>>	- [ ] 
+>>	- [ ] 
+>>	- [ ] 
+>>	[[Fear]], [[Fly]]
+>>	- **4th level**
+>>	- [ ] 
+>>	[[Arcane Eye]], [[Charm Monster]]
+>>
+> ---
+>
 > ###### Proficiencies
-> ***Skills.*** nature, animal handling, survival
-> ***Tools.*** fishing tackle
-###### [[Bag of The Menagerie]]
-Baby chuul, carrion crawler
-
-###### Backpack
-22gp, 11sp, 
+> ***Languages.***
+> Common, Elvish, Celestial
 
 ## Story
 #### Backstory

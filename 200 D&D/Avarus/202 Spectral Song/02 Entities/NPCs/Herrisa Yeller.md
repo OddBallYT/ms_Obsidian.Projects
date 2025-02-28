@@ -13,7 +13,7 @@
 > | Type | Value |
 > | ---- | ---- |
 > | Status | alive |
-> | Home | [[00 Saulker]] |
+> | Home | [[Saulker]] |
 
 ## Overview
 #### Physical

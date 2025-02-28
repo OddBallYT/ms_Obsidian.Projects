@@ -4,6 +4,9 @@ banner: "![[SaulkerBanner.png]]"
 ---
 banner: "![[SaulkerBanner.png]]"
 ---
+---
+banner: "![[SaulkerBanner.png]]"
+---
 ***
 > [!quote|mark] ‎ 
 > The smell of salt and sound of gulls. Not much else.

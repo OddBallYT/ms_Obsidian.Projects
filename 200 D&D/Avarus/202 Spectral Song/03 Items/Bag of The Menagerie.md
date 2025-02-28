@@ -17,6 +17,9 @@ As a bonus action, you can call out a stored creature’s name into the open mou
 ### Extradimensional Habitat
 The satchel contains a pocket dimension capable of holding up to **5 creatures** of Large size or smaller. Each creature resides in its own separate environment, which adapts to its natural habitat (e.g., water for aquatic creatures, dense jungle for a panther, underground burrow for a badger).
 
+### Entering the Bag
+A willing creature is able to enter the bag, and leave at will. It goes to the habitat of the creature it wants to go to. If it doesn't know what creatures are inside the bag, it goes to a random one. If there are no creatures inside the bag, they create an empty habitat that suits them.
+
 ### Limits
 - The satchel **cannot hold sentient creatures (Intelligence 6 or higher)** unless they are willing.
 - Attempting to store a creature larger than **Large size** causes the satchel to reject it, forcing the creature back out.
@@ -24,5 +27,4 @@ The satchel contains a pocket dimension capable of holding up to **5 creatures**
 - Destroying the satchel releases all stored creatures **within 30 feet of its destruction.**
 
 ### Caveats
-
 Placing a bag of holding inside an extra-dimensional space created by a Handy Haversack, Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.

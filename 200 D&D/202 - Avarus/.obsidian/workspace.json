@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
+                "file": "03 - World/Cities/Saulker/Features/Market.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Tansy Coppermug"
+              "title": "Market"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,10 +180,15 @@
   },
   "active": "90a3c807644c768b",
   "lastOpenFiles": [
-    "00 - Content/Templates/_120624_leaflet.map.md",
-    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
-    "00 - Content/Images/Entites/Characters/Non-Players/Tansy Coppermug.png",
+    "03 - World/Cities/Saulker/Features/The Coppermug.md",
+    "03 - World/Cities/Saulker/Features/Town Hall.md",
+    "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",
+    "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
+    "03 - World/Cities/Saulker/Features/Market.md",
     "01 - Campaign/01 - Main Story/0-001 The Festival.md",
+    "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Tansy Coppermug.md",
+    "00 - Content/Templates/_120624_leaflet.map.md",
+    "00 - Content/Images/Entites/Characters/Non-Players/Tansy Coppermug.png",
     "~$arus Campaign Book.docx",
     "03 - World/Cities/Saulker/Saulker.md",
     "00 - Content/Templates/Sheets/_140524_sheet.town.md",
@@ -183,16 +198,11 @@
     "01 - Campaign/Sessions/MEDS/231124_session1.md",
     "01 - Campaign/Sessions/MEDS/00 Level.md",
     "Encounter Tracking.md",
-    "03 - World/Cities/Saulker/Features/The Coppermug.md",
     "05 - Game/Rules/Spider Eyes.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Hanlan Fargon.md",
     "01 - Campaign/Sessions/MEDS",
     "01 - Campaign/Sessions",
     "04 - Items/Common/Embrelead.md",
-    "03 - World/Cities/Saulker/Features/Watchers of the Moon HQ.md",
-    "03 - World/Cities/Saulker/Features/Trawler Houses' HQ.md",
-    "03 - World/Cities/Saulker/Features/Town Hall.md",
-    "03 - World/Cities/Saulker/Features/Market.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Reymon Abbot.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Saulker/Simcoe Canis.md",
     "02 - Entities/0201 - Characters/020102 - Non-Players/Non-Player Icon Legend.md",

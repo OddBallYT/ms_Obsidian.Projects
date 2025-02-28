@@ -27,7 +27,7 @@
   "ITS@@file-header-breadcrumb-font-size": 14,
   "ITS@@titlebar-colors": false,
   "ITS@@titlebar-bubbles": false,
-  "ITS@@tab-widths": "tab-auto",
+  "ITS@@tab-widths": "tab-wide",
   "ITS@@ITS-Sidebar-Styling": "sidebar-tabs-tabular",
   "ITS@@navbar-bottom": false,
   "ITS@@ITS-Sidebar-Ribbon-Float": "sidebar-ribbon-mini-float",

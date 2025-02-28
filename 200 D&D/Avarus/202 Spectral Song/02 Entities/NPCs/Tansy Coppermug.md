@@ -5,15 +5,15 @@
 > ##### Basics
 > | Type | Value |
 > | ---- | ---- |
-> | Race | Gnome |
-> | Age | 27 |
+> | Race | Forest Gnome |
+> | Age | 20 |
 > | Alignment | Lawful Good |
 > 
 > ##### Lifestyle
 > | Type | Value |
 > | ---- | ---- |
 > | Status | Alive |
-> | Home | [[00 Saulker]] |
+> | Home | [[Saulker]] |
 
 ## Overview
 #### Physical
@@ -69,22 +69,21 @@ Due to her past, she is hypersensitive with family, being overly protective. Als
 | **Class** | Rogue |
 | **Racial Traits** | [[Darkvision]], [[Gnome Cunning]], [[Artificer's Lore]], [[Tinker]] |
 | **Feats** | feats |
->
 > ---
 > 
 > ###### Proficiencies
 > ***Saves.***
 > Charisma, Dexterity, Intelligence
 > ***Skills.***
-> Acrobatics, Deception, Insight, Performance, Persuasion, Stealth
+> Acrobatics, Insight, Performance, Persuasion
 > ***Armor.***
 > Light Armor
 > ***Weapons.***
-> Crossbow, Rapier, Scimitar, Shortsword, Simple Weapons, Whip 
+> Crossbow, Simple Weapons
 > ***Tools.***
-> Dice Set, Disguise Kit, Thieves' Tools, Tinker's Tools
+> Dice Set, Tinker's Tools
 > ***Languages.***
-> Common, Common Sign Language, Gnomish, Thieves' Cant
+> Common, Common Sign Language, Gnomish
 
 ## Story
 #### Backstory

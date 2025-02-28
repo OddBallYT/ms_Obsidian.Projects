@@ -5,38 +5,39 @@
 > ##### Basics
 > | Type | Value |
 > | ---- | ---- |
-> | Race | half-orc |
-> | Age | 29 |
-> | Alignment | Chaotic Good |
+> | Race | human |
+> | Age | 23 |
+> | Alignment | lawful neutral |
 > 
 > ##### Lifestyle
 > | Type | Value |
 > | ---- | ---- |
-> | Status | #status/alive |
-> | Home | nomadic |
+> | Status | #status/ |
+> | Home | [[Saulker]] |
 
 ## Overview
 #### Physical
 ###### Stature.
 - ***Height.*** 5'10"
-- ***Weight.*** 310 lbs
-- ***Build.*** Portly
+- ***Weight.*** 184 lbs
+- ***Build.*** Athletic
 
 ###### Features.
 
 #### Voice
+young, confident
 #### Personality
 > [!statblocks]
 > | [AGR](https://www.psychologytoday.com/ca/basics/agreeableness) | [OPN](https://www.psychologytoday.com/ca/basics/openness) | [NEU](https://www.psychologytoday.com/ca/basics/neuroticism) | [CON](https://www.psychologytoday.com/ca/basics/conscientiousness) | [EXT](https://www.psychologytoday.com/ca/basics/extroversion) |
 |:---:|:---:|:---:|:---:|:---:|
-| 6 | 8 | 2 | 7 | 9 |
+| 5 | 2 | 4 | 6 | 5 |
 
-A generally happy person, though acutely aware that people are off-put by his half-orc nature, and tries to avoid any conflict regarding it. Has a great love of nature and animals.
+%%Other personality notes and descriptions go here%%
 #### Stats
 > [!statblocks]
 | HP | AC | Initiative |
 |:---:|:---:|:---:|
-| 36/44 | 11 | +0 |
+| 16 | 12 | +2 |
 >> [!checks|no-t] 
 >> - **Death Saves**
 >>	- ❌
@@ -51,35 +52,31 @@ A generally happy person, though acutely aware that people are off-put by his ha
 >
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 | 10 | 15 | 12 | 17 | 16 |
-| +1 | +0 | +2 | +1 | +3 | +3 | **Mod** |
+| 14 | 10 | 10 | 9 | 15 | 10 |
+| +2 | +0 | +0 | -1 | +2 | +0 | **Mod** |
 > 
 |  |  |
 | ---:|:--- |
 | **Speed** | 30ft |
-| **Passive Perception (WIS)** | 13 |
-| **Proficiency Bonus** | +3 |
+| **Passive Perception (WIS)** | 10 |
+| **Proficiency Bonus** | +2 |
 >
 > ---
 >
 > ###### Traits
 | | |
 | --- | --- |
-| **Class** | #classes/ranger |
-| **Racial Traits** | [[Darkvision|Darkvision 60 ft.]], [[Relentless Endurance]]  |
-| **Feats** | feats |
+| **Class** | none |
+| **Racial Traits** | none |
+| **Feats** | none |
 >
 > ###### Proficiencies
-> ***Skills.*** nature, animal handling, survival
-> ***Tools.*** fishing tackle
-###### [[Bag of The Menagerie]]
-Baby chuul, carrion crawler
-
-###### Backpack
-22gp, 11sp, 
+> ***Items.*** [[Fishing Tackle]]
 
 ## Story
 #### Backstory
+Lives with parents, works at the [[Trawler's Trail]]
+
 #### Personal Quest
 
 ## Relationships
